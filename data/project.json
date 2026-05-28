@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
+    "github_org": "AVAnnotate",
+    "is_private": false,
+    "title": "This Is Democracy Podcast-LBJ",
+    "description": "This is a curated collection of episodes from the podcast This Is Democracy that focus on the various aspects of Lyndon Baines Johnson's presidency and American history in the 1960s. ",
+    "language": "en",
+    "slug": "LBJ",
+    "creator": "raymondhyser",
     "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2026-05-28T04:06:24.484Z",
+    "updated_at": "2026-05-28T04:06:24.484Z"
   }
 }
