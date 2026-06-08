@@ -59,10 +59,6 @@
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Jeremi"
-        },
-        {
           "category": "Framing Elements",
           "tag": "Intro"
         },
@@ -105,7 +101,7 @@
       ]
     },
     "created_at": "2026-05-28T04:06:24.484Z",
-    "updated_at": "2026-06-08T21:52:02.617Z",
+    "updated_at": "2026-06-08T21:52:25.958Z",
     "generate_pages_site": true
   },
   "annotations": {},
