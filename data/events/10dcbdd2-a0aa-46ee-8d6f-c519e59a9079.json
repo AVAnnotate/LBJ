@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "41e986db-e9f5-4cb4-bdb3-f74862a70388": {
+      "label": "Episode 120: Dissent and National Security",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://podcasts.la.utexas.edu/this-is-democracy/wp-content/uploads/sites/17/2020/10/2020-10-12_This-is-Democracy_Episode-120_mastered.mp3",
+      "duration": 2598
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Episode 120: Dissent and National Security",
+  "created_at": "2026-06-08T20:59:14.531Z",
+  "created_by": "raymondhyser",
+  "updated_at": "2026-06-08T20:59:14.531Z",
+  "updated_by": "raymondhyser"
+}

@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "796f005d-f564-42c9-b5a5-b838c4c8b3f8": {
+      "label": "Episode 256: Humanitarian Intervention",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://podcasts.la.utexas.edu/this-is-democracy/wp-content/uploads/sites/17/2024/02/2024-02-15_This-is-Democracy_master.mp3",
+      "duration": 1955
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Episode 256: Humanitarian Intervention",
+  "created_at": "2026-06-08T20:59:14.531Z",
+  "created_by": "raymondhyser",
+  "updated_at": "2026-06-08T20:59:14.531Z",
+  "updated_by": "raymondhyser"
+}
