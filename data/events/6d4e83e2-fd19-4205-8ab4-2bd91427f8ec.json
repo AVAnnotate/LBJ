@@ -12,6 +12,35 @@
   "label": "Episode 186: NATO",
   "created_at": "2026-06-08T20:59:14.531Z",
   "created_by": "raymondhyser",
-  "updated_at": "2026-06-08T20:59:14.531Z",
-  "updated_by": "raymondhyser"
+  "updated_at": "2026-06-08T21:09:34.404Z",
+  "updated_by": "raymondhyser",
+  "av_file_order": [
+    "6c3d2f01-5730-4065-87ce-1f8861cc0166"
+  ],
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Jeremi and Zachary discuss the history of the NATO with Bryan Frizzelle, and its importance to the Russian invasion of Ukraine.\n\nZachary sets the scene with his poem, “Ode to the North Atlantic Treaty Organization.”\n\nBryan Frizzelle is a Colonel in the United States Army with twenty years of active duty service. Bryan has commanded at every level from platoon through battalion, and has served three combat tours in Iraq. From 2014 to 2016, Bryan served as a squadron and regimental operations officer for the 2d Cavalry Regiment in Germany, participating in or planning NATO exercises in twelve Eastern European countries as NATO adapted to Russia’s annexation of Crimea and hybrid attacks in the Donbas region. Bryan holds a Bachelor of Science degree in International Strategic History from the United States Military Academy at West Point, a Master of Policy Management degree from Georgetown University and is a PhD candidate at the LBJ School of Public Affairs at the University of Texas in Austin. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "https://podcasts.la.utexas.edu/this-is-democracy/podcast/this-is-democracy-episode-186-nato/"
+        }
+      ]
+    }
+  ]
 }
