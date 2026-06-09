@@ -1,5 +1,1209 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 18,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is Democracy, a podcast that explores the interracial, intergenerational, and intersectional unheard voices living in the world's most influential democracy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Framing Elements",
+          "tag": "Intro"
+        }
+      ],
+      "uuid": "06838d6a-737b-4e71-bf63-6d82a66662be"
+    },
+    {
+      "start_time": 18,
+      "end_time": 111,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Welcome to our new episode of This is Democracy. Today, we're going to discuss the history of the Republican Party. Where did the Republican Party come from, particularly in the mid-20th century? It, of course, has an earlier history, but we're going to talk about the mid-20th century history of the Republican Party and its development, its evolution, and devolution from the mid-20th century to today. We'll also talk about how the history of the Republican Party can inform us about where the party might be going. We're joined by the foremost scholar of the history of the Republican Party, the person who's written the most important work on the history of the Republican Party in the 20th and 21st centuries, my friend Geoffrey Kabaservice. Geoff is the Director of Political Studies at the Niskanen Center in Washington, D.C. He's the author of several books, including The Guardians: Kingman, Brewster, His Circle, and The Rise of the Liberal Establishment, which is a really terrific book about one of the key figures in establishment Republican Party politics in the mid-20th century through the 1960s. Then he wrote an even more important book, Rule and Ruin: the Downfall of Moderation and the Destruction of the Republican Party from Eisenhower to the Tea Party. Geoff most recently published another piece, he publishes all over the place, he published a most recent piece in the Washington Post called \"The Forever Grievance\" on the recent years of the Republican Party and where the Republican Party might be going from where it is today. Geoff, thank you for joining us today."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "4c7ffcc3-6412-4115-9d30-c87784f03cd7"
+    },
+    {
+      "start_time": 111,
+      "end_time": 119,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you, Jeremy. It's great to be back here and also to be reminded of our time in the archives together when we were both graduate students in history at Yale."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Geoffrey Kabaservice"
+        }
+      ],
+      "uuid": "78b61301-9193-47c5-9096-03bdfd19af47"
+    },
+    {
+      "start_time": 119,
+      "end_time": 157,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's right. Geoff and I got to know each other very well when we spent long days working through musty old papers in the Yale University archives. Glory days, Geoff, yes? (Oh, yeah.) Before we turn to our discussion of the history of the Republican Party, we have, of course, our scene setting poem from Mr. Zachary Suri. What is the title of your poem today, Zachary? (It's a long one. It's titled \"For Joseph McCarthy and His Brethren in Moral Promiscuity.\") Wow. McCarthy and Moral Promiscuity. I'm a little concerned about where we're going. Let's hear it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Jeremi Suri"
+        },
+        {
+          "category": "Creative Expression",
+          "tag": "Poetry"
+        }
+      ],
+      "uuid": "b76aafe2-e012-4f6a-ae1b-afeb27e1cd2e"
+    },
+    {
+      "start_time": 157,
+      "end_time": 247,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Twice gone from persecution, I crossed the sea in countless boats and discovered your humanity in '76's sacred notes.\n Far from the banks of promised lands, one came in chains, the other on the sea.\n And then you fought a long fought fight to make this stolen land more free.\n Blood dripped, the river sipped, and oceans touched the shores of Camelot.\n And now beyond the aching bones of ignorance, you've sat for thoughtless years and wondered at the power of the murmurs and the fears.\n Far from the arms of incapacity, you've turned the migrants from the door and hope to see our future still in sky-high department stores.\n Too far from vulnerability, you formed the pillars of cathedrals and found your gaze on golden heights above people tortured by the needles.\n Removed from truth equality, you've reached for automobiles and watched paper dancing elephants above emaciated squirrels.\n Your streets are always flooding with what remains of Mother Nature, sweeping back her poverty from the steps of your legislatures.\n Where, in '76's sacred notes, I see the reflection of the boats and the memory of your humanity, the promises from across the sea.\n Where, in the memory of '63, I find a picture less of you and more of me, the single portrait of the iceberg Atlantic that has hit your long-gone sinking Titanic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Zachary Suri"
+        },
+        {
+          "category": "Creative Expression",
+          "tag": "Poetry"
+        }
+      ],
+      "uuid": "6febec06-7980-4d98-9b4d-c556ec6d5a95"
+    },
+    {
+      "start_time": 247,
+      "end_time": 255,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That closing note on the Titanic, Zachary, that really sneaks up upon you. What is your poem about?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Jeremi Suri"
+        },
+        {
+          "category": "Creative Expression",
+          "tag": "Poetry"
+        }
+      ],
+      "uuid": "ab48a874-3113-473d-840d-f018d3954d92"
+    },
+    {
+      "start_time": 255,
+      "end_time": 273,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My poem is really about the rise of the Republican Party in the late 19th century around shared humanity and success, and how that sort of deteriorated to the point where we find ourselves today very far from the founding ideals of the party."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Zachary Suri"
+        },
+        {
+          "category": "Creative Expression",
+          "tag": "Poetry"
+        }
+      ],
+      "uuid": "184ae74d-8745-4d15-bb62-e3ff3c88a141"
+    },
+    {
+      "start_time": 273,
+      "end_time": 298,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, that's a great place to start, Zachary. Geoff, the Republican Party in the mid-20th century during the Great Depression and World War II and thereafter, it was very different from the party of Lincoln, of course, and the party that we see today. Can you describe what the party was about and how one thinks about the positions and leadership of the Republican Party mid-20th century?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "c059d8ff-258b-42b0-a8cd-804af64225eb"
+    },
+    {
+      "start_time": 298,
+      "end_time": 370,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, thanks again for that introduction, Jeremy, and thank you, Zachary, for that poem, which I thought was terrific. The Republican Party is, in a funny way, our last example of a successful third party. It displaced the previous second party, the Whigs, and it was cobbled together from anti-slavery Whigs, but also from some other minor parties like Free Soilers and even the Know Nothing Party, which in many ways is a precursor to the xenophobia and nationalism of much of the Republican Party right now. But of course, it was the Republican Party that brought us one of our greatest leaders, Abraham Lincoln, who also was one of the world's great leaders. And Lincolnism and the Lincoln tradition really defined the Republican Party for most of its first century. There really was a deeply held and dearly held belief in the Lincolnian heritage of civil rights and civil liberties. And that defined the party even though it was usually the more conservative of the two parties in terms of its sympathy toward industrialization and the fortunes of business."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Geoffrey Kabaservice"
+        }
+      ],
+      "uuid": "89458e8d-2230-4644-8fe8-cd10377b176e"
+    },
+    {
+      "start_time": 370,
+      "end_time": 442,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "By the time you get to the mid-20th century, the Republican Party is really a coalition of four major groups. The smallest of them actually are the conservatives or people who we think of as conservatives now, people who would be both culturally and socially and economically on the right and also seeing themselves as united in a kind of movement against not just the Democrats, but also the other factions of their own party. The faction that I wrote the most about in my book, Rule and Ruin, was the moderates and the progressives. It seems almost something out of science fiction to say that the Republican Party would have had a progressive faction. But the reality is that it did. And in fact, a lot of the people who came from the big cities, places like New York, such as, for example, New York City's mayor, John Lindsay, who also was a member of Congress before that, these people were motivated primarily by their belief in the civil rights struggle, but also in what they saw as the party's heritage of bringing greater equality to all Americans and the kind of unfolding of that democratic promise inherent in the founding that Zachary referred to so eloquently in his poem."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Geoffrey Kabaservice"
+        }
+      ],
+      "uuid": "38cc6ea3-5bc9-4431-9e1b-6c7fe270933d"
+    },
+    {
+      "start_time": 442,
+      "end_time": 537,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The biggest faction in the party, though, at the time were thought of just as rank-and-file Republicans, mostly from the Midwest, mostly followers of Senator Robert Taft. And they believed mostly in small business and a lot of the traditional pieties of American conservatism. But even there, there was a very strong sense of that Lincoln heritage and a very strong connection to the old civil rights struggle and the Civil War before that. And in fact, there were a lot of Republican Congress people from Ohio who were pretty much down the line in terms of what we think of as conservative. But the Freedom Trail and the Underground Railroad went right through their districts, and they were acutely conscious of that. And even people who did not have many or any African Americans in their district saw themselves as representing the union that had brought peace to the country and reunited the country and freed the slaves. And some of what the Republican Party defined itself against in those days was the Democratic Party's roots in the Solid South, which was pro-Jim Crow and segregationist, and the urban ethnic machines, which were corrupt. And so the Republican Party really didn't see itself as a conservative party. It saw itself as the Republican Party, an American party, one with a long history and heritage, and there was no indication that it would ever become an ideological party, let alone that the small conservative faction would dictate the tone of the entire party."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Geoffrey Kabaservice"
+        }
+      ],
+      "uuid": "ceadfbe6-67ac-47b4-a76d-8444d7b2a616"
+    },
+    {
+      "start_time": 537,
+      "end_time": 573,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's a really important point that you raised, Geoff. I often remind students that Jackie Robinson was a Republican, right? I mean, and it was very natural for someone like Jackie Robinson to think that way. (Mm-hm) When did that begin to change though? When do we see the party that you're describing, the party of Lincoln and Theodore Roosevelt, and to some extent Herbert Hoover and other figures like a John Lindsay and a Nelson Rockefeller, when do we begin to see a split toward figures like Barry Goldwater and Ronald Reagan? And what does that split really mean within the party?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "ae26302d-58de-4e7d-813f-169af15818ab"
+    },
+    {
+      "start_time": 573,
+      "end_time": 641,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, if you want to follow the split back beyond this mid-20th century period we're talking about, it was a fairly significant thing that Theodore Roosevelt led his followers to bolt from the Republican Party in 1912 and to form the Progressive Party. That was really a gateway for a lot of them to leave the Republican Party altogether and to bring their kind of urban middle-class progressivism into the Democratic Party. But I think another significant development was when Franklin Roosevelt came to power, representing those old progressives and his uncle, to some extent, and also then enticing away a large percentage of the African-American electorate into the Democratic Party again, because the African-American voters mostly had stayed with the party of Lincoln, the party that freed the slaves. But the Democratic Party spoke more to their material interests and concerns and gradually over time became the more pro-civil rights party, though the Republican Party, like I said, still retained a lot of that civil rights awareness and heritage."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Geoffrey Kabaservice"
+        },
+        {
+          "category": "LBJ",
+          "tag": "Civil Rights"
+        }
+      ],
+      "uuid": "503485ff-2d0e-4775-9e09-379d8e6d3372"
+    },
+    {
+      "start_time": 641,
+      "end_time": 712,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But one of the major turning points in the evolution of conservatism was the formation of the sort of new conservative movement under William F. Buckley, Jr., with the foundation of National Review Magazine in 1955. That really became the intellectual flagship and the organizing principle for the conservative movement to come. And that also led to Barry Goldwater's receiving the Republican presidential nomination in 1964. Barry Goldwater, the senator from Arizona, who was a deep libertarian conservative, and that libertarianism led him to vote against the 1964 Civil Rights Act, bucking the considerable majority of the rest of his party. And that led Barry Goldwater to win votes really only in the Deep South, where people had voted Dixie Crap in 1948 for Strom Thurmond's breakaway party. And that gradually over time led to the incorporation of these Southern, at least somewhat reformed, segregationists into the Republican Party, particularly with Richard Nixon's Southern strategy in his 1968 presidential campaign."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Geoffrey Kabaservice"
+        },
+        {
+          "category": "LBJ",
+          "tag": "Civil Rights"
+        }
+      ],
+      "uuid": "480216d5-3143-4249-8326-fe28512b5e49"
+    },
+    {
+      "start_time": 712,
+      "end_time": 731,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And Geoff, why did that happen? I mean, I think what you've described has been well documented by you and a number of other historians. But why did that happen? Why did these progressive Republicans and other Republicans, why did they switch parties in this way?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "12d8b257-ad25-44f3-a3c3-580eb04f646a"
+    },
+    {
+      "start_time": 731,
+      "end_time": 819,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I think the basic reason is that most of American history has been a story of utter domination by one party or the other. And for most of the mid-20th century, it was domination by the Democratic Party. Democrats obviously took control of the supermajority in both houses of Congress with Franklin Roosevelt's election in 1932. And that really continued on with only a few breaks, up until the Republicans finally took back the House and made Newt Gingrich the Speaker with the 1994 election. And so, there was a real desperation for Republicans to break out of this permanent minority status. And over time, this made even moderates willing to consider some things that they otherwise might not have if the party had simply alternated power with the Democrats. It would have been a very significant movement, for example, if when Strom Thurmond switched parties and came over as senator from South Carolina from Democratic to the Republican parties, if the Republicans had not given him seniority on their committees, or if they had rejected his bid to become a Republican altogether, if they could have said, no, what you stand for, the segregationist traditions you've upheld are simply too alien to what the Republican Party is about. But they didn't because they were grasping for political advantage."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Geoffrey Kabaservice"
+        }
+      ],
+      "uuid": "a84dfc1d-a03d-4ea5-9795-7b76c93a579b"
+    },
+    {
+      "start_time": 819,
+      "end_time": 852,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And another problem that Republicans had, if I may just add this one thing, (sure, please, please) is that particularly moderates among them had a really weak presence at the grassroots. Democrats had those urban, largely ethnic machines, which were a great way of getting people to register and participate in the political process. They also had the unions. The conservatives were really the only grassroots element out there organizing people on the ground. And the moderates didn't really have that. So that was another reason why the conservatives came to play a larger role in the party over time."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Geoffrey Kabaservice"
+        }
+      ],
+      "uuid": "8f885eff-9afa-4d5c-bdb4-d53e10ebe1a9"
+    },
+    {
+      "start_time": 852,
+      "end_time": 267,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One of the most interesting things that I think we've seen in recent decades is the switch from the Republicans envisioning themselves as the party of Lincoln to in many ways, the party of Reagan. How significant was Reagan's election and his term in office?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Zachary Suri"
+        }
+      ],
+      "uuid": "621206ba-cbfb-4909-836d-2382222416b8"
+    },
+    {
+      "start_time": 267,
+      "end_time": 932,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think Reagan's election was very significant, but not quite for the reason that people think. There's this kind of assumption that you even hear political historians make, which is that the Republican Party became conservative when Barry Goldwater got that presidential nomination in 1964, and it's remained conservative ever after. And to quote George Will's witticism, Barry Goldwater did win the presidential election in 1964. It's just that they didn't get around to counting the votes until 16 years later. But in fact, the Republican Party did not become conservative after Goldwater's victory. In fact, the conservatives had a real demotion within the party because not only did Goldwater lose in a landslide, but he really took down so many Republicans on the ballot below him, not just in Congress, but also at the levels of state legislatures and governors and even local authorities because his conservatism was simply that unpopular. And that is what gave Lyndon Johnson the ability to pass what amounted to a second New Deal."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Geoffrey Kabaservice"
+        },
+        {
+          "category": "LBJ",
+          "tag": "Presidency"
+        },
+        {
+          "category": "LBJ",
+          "tag": "Great Society"
+        }
+      ],
+      "uuid": "01ae7916-a508-484d-a69d-63da09929805"
+    },
+    {
+      "start_time": 932,
+      "end_time": 1034,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But that kind of progressive overreach that you saw in the Great Society was part of what led to a rapprochement between conservatives and moderates, and gradually building strength in both factions. Now, it happened that Ronald Reagan was the most talented political performer of his era, and he came pretty close to toppling Gerald Ford for the Republican nomination in 1976. Ford, of course, was the incumbent after Nixon had resigned in the wake of Watergate. And then Reagan won outright in 1980. But Ronald Reagan, in 1980, was not campaigning as Barry Goldwater reborn. Barry Goldwater's political platform was much further to the right than Reagan's was. Barry Goldwater wanted to abolish the social safety net that had come into being with the New Deal, and wanted to get rid of Social Security, for example. Wanted to give battlefield commanders access to nuclear weapons. Derided Americans' craven fear of death, it being unwilling to go to nuclear war against the Soviet Union. Reagan was none of those things. And in fact, he was a big tent Republican. He had a lot of support from moderates, and he made it very clear to his conservative allies that they were not to purge these moderate Republicans whom the party needed. They were not to deride them as RINOs, \"Republicans In Name Only.\" And there, in fact, was a great deal of cooperation between the moderate faction and the conservative factions on issues like supply-side economics, which at that time were thought to be the remedy to economic dislocation under Jimmy Carter. So when people talk about Reagan, they're really remembering an idea that they have about Reagan as the pure culture warrior that actually wasn't the case."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Geoffrey Kabaservice"
+        },
+        {
+          "category": "LBJ",
+          "tag": "Great Society"
+        }
+      ],
+      "uuid": "b343ba97-0487-45b0-a196-5669078a9e37"
+    },
+    {
+      "start_time": 1034,
+      "end_time": 1068,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And it brings us back to a point you raised earlier when you brought up William F. Buckley as well. I mean, one of the real struggles the Republican Party had in the 50s, and to some extent the 60s that you've written about, Geoff, was to purge itself of McCarthyism to some extent, and even more in more extreme forms, to purge itself of the John Birch Society and other white supremacist groups. And to make it clear that although the party was critical of certain civil rights legislation, it was not the party of white supremacy. How did they do that? How did they walk that balance in that period?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "74b98e85-995c-4c8f-8809-2f8ca3a6e135"
+    },
+    {
+      "start_time": 1068,
+      "end_time": 1136,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I slightly dissent from the view you've laid out in the sense that I don't think William F. Buckley Jr. ever really repented of his McCarthyism. And to some extent, that has remained in the conservative DNA. But it's true that Buckley wanted the conservative movement to be intellectually respectable. He actually wanted to build a Republican counter-establishment that would be just as prestigious and just as held in international esteem as the liberal establishment and institutions like the New York Times, let us say, or the mainstream big three television networks. And so Buckley knew that groups like the John Birch Society, with their bizarre, absurd conspiracy theorizing, made the Republican Party look pathological and ridiculous, as he put it. And so he marginalized those groups, at least partly for the conservative movement's own political interest, as well as, I think, what was a sincerely held belief that anti-Semitism was morally wrong. But on the other hand, Buckley was willing to tolerate a considerable degree of only barely reformed segregationists and other forms of racism within the conservative movement."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Geoffrey Kabaservice"
+        }
+      ],
+      "uuid": "738dfd96-cdbb-4405-b916-423200c55081"
+    },
+    {
+      "start_time": 1136,
+      "end_time": 1167,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do you see that changing, becoming more pronounced with Ronald Reagan? I mean, there are different schools of thought on this. Some point to, of course, Reagan's use of dog whistles, the Neshoba speech in 1980 when he goes near the site of the murder of three civil rights workers and makes a case for states' rights. Others see Reagan, as you said, as a big tent figure, someone who was open to people from different backgrounds. How do we understand that moment in the evolution of the Republican Party?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "4957a1be-6aef-4a2d-b098-9c5ecc0e57aa"
+    },
+    {
+      "start_time": 1167,
+      "end_time": 1211,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know, it's an interesting question as to how Reagan thought of himself in racial terms. I think he felt that he believed in equal opportunity for all, but at the same time, I don't think he much concerned himself with the situation and the plight of minorities in this country, and particularly with African Americans. To some extent, there was a kind of indifference toward racial issues that came to displace the older Lincolnian sense of the importance of civil rights, and particularly equal opportunities for African Americans. But as I said, that was not really a conscious attitude on the part of Reagan. It was just a kind of approach that came to permeate the larger party. But on the other hand, yeah, go ahead."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Geoffrey Kabaservice"
+        },
+        {
+          "category": "LBJ",
+          "tag": "Civil Rights"
+        }
+      ],
+      "uuid": "9e58d44b-bf83-4c6a-a1d1-44f9cc8ae65e"
+    },
+    {
+      "start_time": 1211,
+      "end_time": 1228,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, I was just following on those comments, Geoff, which are so insightful. I mean, really, to what extent can we see the party becoming, the Republican Party, more of a white civil rights backlash party from Nixon to Reagan forward, or is that unfair?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "9be925c5-5ebe-4547-9c77-1f363263701b"
+    },
+    {
+      "start_time": 1228,
+      "end_time": 1277,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know, this relates very closely to the discussions of how people feel about the Tea Party and the Trump movement. Is it simply racial resentment that was being catered to on the part of white voters in both of these movements, or was it, to some extent, rooted in economic and other kinds of cultural grievance? And I've always come down with the answer being that it was some of both. If times are not hard, I do believe that the racism which is in place in people is simply less manifest. They're more willing to see others prosper, thinking that their gains are not coming at their own expense. But when demagogues such as Trump and others can really play on these racial grievances, then obviously they do come to the fore, particularly in harder times."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Geoffrey Kabaservice"
+        },
+        {
+          "category": "LBJ",
+          "tag": "Civil Rights"
+        }
+      ],
+      "uuid": "bfb5c6eb-fbb3-4439-8f2e-ed3166432165"
+    },
+    {
+      "start_time": 1277,
+      "end_time": 1304,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That makes a lot of sense. Before we talk about Trump, who's of course the elephant or the orange blimp in the room, before we get to that, what about evangelicals? One of the other striking phenomena is the rise of the evangelical movement in the United States and its increasing attachment through the 1980s in particular and thereupon to the Republican Party. How do we understand that connection?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "3a203422-c552-436e-9b8e-f08ae8d32f86"
+    },
+    {
+      "start_time": 1304,
+      "end_time": 1349,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So evangelicals really dropped out of American politics as a conscious and largely organized force after the Scopes Monkey trial in the 1920s. When they re-entered as a consciously organized force, it was actually on the side of Jimmy Carter in the 1976 election. Carter was a Southern Baptist. The evangelical movement was largely, though of course not entirely, Southern, and they really responded to Carter as one of their own. But they responded even more strongly to Ronald Reagan, and that really is the date at which the evangelical movement began to provide the kind of grassroots conservative organizing capacity that the Republican Party really had lacked up to that time."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Geoffrey Kabaservice"
+        }
+      ],
+      "uuid": "8ef3b6fd-638a-4db0-8fea-0c8a332e4666"
+    },
+    {
+      "start_time": 1349,
+      "end_time": 1419,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So evangelicals do become a very important component of the Republican Party. But I think where a lot of progressive historians and just people on the left generally go a bit far is thinking that this means that the evangelical movement controls the Republican Party, and I simply don't believe that to be the case. I struggle against people every day on Twitter who believe this, but the reality is that the evangelical movement is a lot more internally variegated than people tend to believe. There are distinct generational and regional differences in terms of where people's belief in God puts them in their politics, and the evangelical movement also really has not achieved the kind of successes that Republican politicians like to promise them, but don't deliver on. And so here we are, these many years later, and Roe V. Wade has been weakened, but it has not been overturned. And America, in nobody's mind, has returned to the kind of godly commonwealth that some of the evangelicals thought it might under Republican domination. So I think evangelicals are an important force, but you can certainly over-exaggerate their role."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Geoffrey Kabaservice"
+        }
+      ],
+      "uuid": "544adb50-20f1-4c33-a0fe-69f59d1411c8"
+    },
+    {
+      "start_time": 1419,
+      "end_time": 1477,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hmm. That's a very insightful analysis. And of course, it's particularly ironic that a number of the presidents the evangelicals have supported, particularly Ronald Reagan and Donald Trump, are individuals who do not, by any stretch of the imagination, live the lifestyle that an evangelical would espouse for one's own followers, right? (Right. All too true.) So how then do we explain the capture of the party, if that's the right word for it, and I think you've written about it that way, by Donald Trump? I mean, you've laid out, Geoff, a very sophisticated and detailed history of the Republican Party that emerges out of at least three or four traditions, a party that's gone through many changes over time with a serious intellectual core and a set of political aspirations. I mean, it sounds like a normal party, something that would be recognizable to people in other societies. How did it become so bizarre in the last four or five years?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "f6d35b2a-6479-472b-93cd-e812cc2e959c"
+    },
+    {
+      "start_time": 1477,
+      "end_time": 1533,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I think it's been an unfolding of the conservative movement then meeting the unique personality of Donald Trump. So to give you where I think the real starting point is, when Newt Gingrich becomes leader of the House Republicans, he consciously takes the Republican Party in an anti-institutional direction. He believed that the American people would never actually vote to give Republicans power at the level of the House of Representatives, unless they lost faith in the Congress as an institution. So he very consciously set out to destroy Americans' faith in this and other institutions. And Julian Zelizer lays that out marvelously well in his book, Burning Down the House, which came out earlier this year, and really focuses on the period leading up to Gingrich's becoming House Speaker, but stops well short of that, really focusing on his top link of Democratic Speaker, Jim Wright. And Gingrich was the person..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Geoffrey Kabaservice"
+        }
+      ],
+      "uuid": "8ddcdfec-13b3-4c8c-835a-2e580c3075d8"
+    },
+    {
+      "start_time": 1533,
+      "end_time": 1544,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We had Julian on. I'm sorry. Sorry, Geoff. I apologize for interrupting you. We had Julian on the podcast, I don't know, I think a couple of months ago. So our listeners should be familiar with his work. I apologize for interrupting you, please go ahead."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "09c668c3-6a2a-4612-a8e8-e7efa815cc0d"
+    },
+    {
+      "start_time": 1544,
+      "end_time": 1663,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, no, no. He's great. And I reviewed his book for the New York Times and I thought it was marvelous. But it really was Gingrich who set the Republican Party on this kind of anti-institutional, anti-establishment bent, which built upon strains that were already evident in the conservative movement, but really hadn't come to the fore. And this intensifies with every passing year. And you start then to get litmus tests about who's a real Republican versus who is a RINO, a \"Republican In Name Only.\" And the party starts to lose its moderates and it starts to become uncompetitive in places like New England, which once had been the very core of the Republican Party. And it continues through this movement and the Tea Party accelerates this development because, as I've written in a few recent pieces, the Tea Party really was an anti-establishment movement. It was as much directed against the Republican Party's own establishment as it was against the Democratic Party. And it really built upon a sort of loss of trust by Americans, not just conservatives, in all institutions, not just in Congress. And this really led to the Republican Party becoming an ideological monolith of conservatives, but also a party that was incapable of governing, because to govern is to compromise. And if you believe in ideological purism, then compromise is a defeat and a betrayal. And this kind of hollowing out of the internal diversity of the Republican Party made it incapable of coming up with policy solutions, which is why their attempt to repeal and replace Obamacare utterly failed. And then it left them vulnerable to a hostile takeover by Donald Trump. If you don't actually have a kind of internal diversity in your party, if you're just used to sort of following litmus tests and taking orders, then you'll take orders from a charismatic leader, even if the policies that he's putting forward, or at least the beliefs, are really completely at variance with a lot of what you have grown up believing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Geoffrey Kabaservice"
+        }
+      ],
+      "uuid": "f8d73779-3186-482d-be1b-ebcc8d57903d"
+    },
+    {
+      "start_time": 1663,
+      "end_time": 1689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What I don't understand, Geoff, is what happened to all those figures who were establishment Republicans, if we can call them that? Where did they go? I mean, many of them remain in the party. I mean, these are the Mitch McConnell's, the John Cornyn's, the George W. Bush's. Where did they go? And how were they silenced? Or how were they coerced into these, what seem antithetical positions that they've been forced to adopt?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "88da3238-54da-425b-af55-463eadbb241f"
+    },
+    {
+      "start_time": 1689,
+      "end_time": 1740,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, there simply were fewer of those kind of moderate Republicans in the Congress. And there was also a lot less ideological overlap with their conservative democratic counterparts. National Journal kept a graph for a number of years about how many members of both parties had ideological overlap, depending, of course, on how they were plotted along something like a Poole-Rosenthal-D.W. nominate line. And there used to be considerable overlap. And now there is none. There is complete separation between the two parties. The most liberal member of the Republican Party is well to the right of the most conservative member of the Democratic Party. And that's a big change in American history. I should also add the necessary caveat that while the Democratic Party has gone somewhat further left, it hasn't gone as far as the Republican Party has gone as far right. It's asymmetric polarization."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Geoffrey Kabaservice"
+        }
+      ],
+      "uuid": "d523d24c-9664-4f03-b2c1-c4372a713832"
+    },
+    {
+      "start_time": 1740,
+      "end_time": 1793,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I guess I struggle with that. And I know a lot of people I talk to struggle with that, because on the one hand, that's obvious in the rhetoric that they use. On the other hand, if you take someone like, let's take Chuck Schumer, senator from New York, who might be the next majority leader or minority leader in the Senate, and someone like John Cornyn from the great state of Texas, senior senator, who is still the Republican whip in the Senate, they actually agree on a lot of things. They believe in free trade. They're ardent capitalists. They believe in a system that provides more social security benefits to older people. They believe in internal investments in infrastructure. How is it that they look so different on these graphs, but yet seem to those who are really critical of American capitalism, they look like they're pretty much the same on many issues?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "5bf6af94-a3db-4a0a-80e2-5061d5047943"
+    },
+    {
+      "start_time": 1793,
+      "end_time": 1862,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know, I persist in what seems an old-fashioned belief. That Americans still agree on more than what they disagree on. And to some extent, I think those kind of underlying beliefs are shared by most members of both parties in Congress, but the reality is that the kind of cooperation that was once routine under presidents as dissimilar as Lyndon Johnson and Ronald Reagan has now really broken down, and this is largely motivated on the Republican side by fear of the base. If the only thing you have to worry about in terms of retaining your power in the Senate is being outflanked from your right in a primary election, then that motivates you to hew to a conservative or Trumpist line, whatever you perceive the base as wanting, and it's been a long time since I can really think of a lot of Republicans standing up for what they believed in, even if the base did not, and even in some cases fighting with the base. I mean, the last prominent Republican of that sort was John McCain, which is why I think so many Americans miss John McCain right now."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Geoffrey Kabaservice"
+        },
+        {
+          "category": "LBJ",
+          "tag": "Presidency"
+        }
+      ],
+      "uuid": "afd09363-2430-438a-9879-209e8cc52e36"
+    },
+    {
+      "start_time": 1862,
+      "end_time": 1879,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Where do you see the future of the party going? I mean, this this election cycle, we had John Kasich and Sidney McCain both endorse Biden and speak at the Democratic convention. Is the Republican party too far past that, that moderate moment?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Zachary Suri"
+        }
+      ],
+      "uuid": "7f0f95e3-61f7-4800-bb73-9d02ce4d5b2d"
+    },
+    {
+      "start_time": 1879,
+      "end_time": 1945,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How do I put this? The late Rabbi Jonathan Sacks distinguished between hope and optimism. Optimism is the belief that things will go well. Hope means that if we actually struggle consciously, things might go well. I'm not an optimist, but I still have some hope as far as the Republican Party is concerned. If there's any heartening development in recent days, it's that a lot of low-level Republican officials, who most people had never heard of previously, have actually stood up against Donald Trump's demand that they collaborate in a kind of coup, and so there actually is still a kind of core of the Republican Party that does believe in these common ideals that we, as Americans, share. But on the other hand, you know there are litmus tests even now being set up where if you do not profess that Donald Trump had the election stolen from him and that the Democrats are illegitimate and that Joe Biden is not a legitimate president, then you might not win a nomination for the Republican Party, and you might not get reelected if you're not willing to go along with this outrageous and baseless lie."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Geoffrey Kabaservice"
+        }
+      ],
+      "uuid": "1b01c685-e915-4684-bd12-1742b42fc87d"
+    },
+    {
+      "start_time": 1945,
+      "end_time": 1968,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And do you see these local Republicans, and these include, of course, governors and secretaries of state in Georgia and Arizona and elsewhere, as well as election officials at the local level in various places, do you see them offering an alternative path for the Republican party, or how do you understand their motivations?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "fd7fba2c-9a60-4cc5-b989-12b9cd0fe21c"
+    },
+    {
+      "start_time": 1968,
+      "end_time": 2031,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know, I think most of the people that we're talking about, people like Ben Raffensperger, the Secretary of State in Georgia, you know, these are conservative people who don't see eye to eye with the Democrats on much, but at the same time they didn't join the Republican party because they had a burning desire to suppress people's votes. They didn't get into the Republican party because they wanted to overthrow legitimate Democratic elections, and these also are people who have been responsible for the successful carrying out of the election, they know it was free and fair, and they don't actually want to say that they themselves colluded in this fantastical idea of a plot involving Hugo Chavez's ghost. So, for all of these reasons, they're willing to stand up, but you know that's only partly because the Trumpian effort to overturn the election has been so inept and comical, a more successful, smarter, more nakedly authoritarian Republican leader might have better success with a similar effort in the future."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Geoffrey Kabaservice"
+        }
+      ],
+      "uuid": "5126a6f7-8fee-4c11-98ff-c6959cc5227d"
+    },
+    {
+      "start_time": 2031,
+      "end_time": 2055,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Right, that's the scary part of it. It also seems to me that a lot of these local officials, they're in a situation where they have to actually choose, they can't stay silent, and, and what, what most Republicans have done, particularly in Congress, is they've just stayed silent, right? It's what Eli Wiesel called the \"complicity of silence,\" rather than the act of commission on behalf of illegal activities, or so it seems to me."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "7d6385ba-bcd1-4137-a6c0-f33ef11ebfc7"
+    },
+    {
+      "start_time": 2055,
+      "end_time": 2081,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And it's really an astounding thing to think that the Washington Post asked all the Republican members of Congress whether they believed that Joe Biden had won the election and is the president elect. Two of them said no, Biden lost, Trump won. Something like 27 have said yes, Biden is the president elect. But then you have 200 elect Republican members of Congress who are simply saying nothing. It's that \"cowardly silence,\" I would call it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Geoffrey Kabaservice"
+        }
+      ],
+      "uuid": "0c1ea9f7-05a7-4fb1-8c51-2f2b42641764"
+    },
+    {
+      "start_time": 2081,
+      "end_time": 2141,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. No, I've been struck by the image of many members of the Senate running away from reporters who are trying to ask them what seems like a very basic question as to who won the election. Geoff, looking forward, and this builds on the excellent piece you wrote in the Washington Post, we need, as you've argued, and others have argued, we need a healthy two-party system. Our system doesn't function well when one party, either Left or Right, is just committed to tearing things down. What are the things that, particularly, our young listeners can do if they care about these issues, and they feel drawn to, as I think many do, to some of the core positions of the Republican Party, as it once was, to fiscal conservatism, to a belief in more respect for religion and society, many issues of that sort. What are the productive things that people can do to help move the Republican Party in that hopeful direction that you laid out?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "baf14402-b330-4c15-a018-7f209be40cd7"
+    },
+    {
+      "start_time": 2141,
+      "end_time": 2248,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, my advice is difficult advice. I do believe that the Republican party is the biggest problem in American political life right now, and if the Republican party does not regain some semblance of normality and commitment to American democracy and an ability to address the common problems that we all face, then we're in for disaster. But it's all very well to be a Democrat and talk about how awful the Republican party is and how awful conservatives are. You really have no ability to change that dynamic other than the vote you cast in elections. That's important, of course, but I think the Republican Party would be changed more than anything else if sizable numbers of college-educated civil liberties believing voters registered Republican, and they voted in these small turnout primary elections that give us so many Republicans who are extreme and not committed to the continuance of the American project. I think that's the basic thing. The other thing that people can do, short of joining the Republican Party, is be aware that the Republican Party and the conservative movement are not one unitary thing, and if you can bring it, if you can find it within yourself, then don't simply believe that all Republicans are represented by the worst among them. There are, in fact, a lot of divergences of opinion, even now, particularly the lower you go in terms of the level of government. So, the one place where actually there is more bipartisan cooperation than anywhere else is on the local level, and I think if young people get involved in politics from the local level, they'll have a better appreciation of how politics can work when there actually is some degree of bipartisanship between the parties."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Geoffrey Kabaservice"
+        }
+      ],
+      "uuid": "2e75c916-771f-4262-a52b-75f61b495946"
+    },
+    {
+      "start_time": 2248,
+      "end_time": 2271,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That makes a lot of sense. My final question, Geoff, along those lines is why, why do you think that's a better strategy than then forming a third party, because that's that's another thing I often hear, right? Shouldn't, shouldn't we have a third party to replace the Republican party? Why do you think the long march through the institutions will work better than creating a new set of institutions?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "5a349b95-d9f3-48e9-85f8-234efb630277"
+    },
+    {
+      "start_time": 2271,
+      "end_time": 2361,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, it'd be great if I thought a moderate third party could actually be a viable thing, but I don't. There is a political science law, called Duverger's Law, which dictates that in a first past the post system, a third party basically cannot win. And I think it was the historian Richard Hofstadter who had an interesting comment about third parties. He said they're like bees, they sting and then they die, they coalesce around some important issue that the other two parties aren't focusing on, they make a lot of impact, and eventually that position is incorporated into one of the other two major parties, but the third party is not the political beneficiary of that dynamic. So, you know, if people want to get involved with moderate third party efforts, I guess I can't stop them, but the likely outcome of that is simply going to be to empower the most conservative elements in the Republican party, I think it's actually far better to agitate for the ideas that you believe in within the two-party system, as imperfect as it is, and try to at least give some support to the people who are trying to revive somewhat more of a moderate position on the Republican side, and to listen to their proposals when they come up with them on subjects like climate change. There actually are Republican and conservative proposals on climate change, which are worth listening to and supporting. There are Republican proposals for restoring the Voting Rights Act that would be necessary, I think, to a better political future. So, I guess it's the kind of open-mindedness I'm asking for, where the Republican Party and even conservatism are concerned."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Geoffrey Kabaservice"
+        }
+      ],
+      "uuid": "948680e2-943f-4a87-801d-77f6fb20a95c"
+    },
+    {
+      "start_time": 2361,
+      "end_time": 2380,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Right, and this follows perfectly from the history you've documented, better than anyone else, which shows that this is how the Republican party changed it to where it is now. It was those working within the party who moved it in this direction. There's no reason to believe that there can't be an equal and opposite reaction pulling it out of where it is into another new direction."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "9c4f3215-7fea-4017-b28f-c9ab02c43afc"
+    },
+    {
+      "start_time": 2380,
+      "end_time": 2405,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, you know, one of the most high-profile political histories of recent years has been Rick Perlstein's series of books about the conservative movement and the Republican Party, and in my mind the best of them was the first volume called Before the Storm, which was about Barry Goldwater, and it really laid out the model for that kind of organizing, and the way in which a relatively small number of committed people can actually have a big impact within a party."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Geoffrey Kabaservice"
+        }
+      ],
+      "uuid": "648b6cdf-8b45-452a-aa53-7ec41f67186c"
+    },
+    {
+      "start_time": 2405,
+      "end_time": 2433,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's a very powerful message. Zachary, as a young political junkie who cares a lot about these issues, and I know I've heard you debating with your friends about the legitimacy or wisdom of a third party, what do you think has this history that Geoff has laid out so well give you a better sense of how your generation can help rebuild a viable and reasonable two-party system in our society?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "b6c70dab-f927-4db8-90d4-9de3ba655996"
+    },
+    {
+      "start_time": 2433,
+      "end_time": 2464,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think Geoff puts forward the best solution to within our current system. I do think there is something to be said for a restructuring of our legislature and our governmental system to be more in line with countries like Germany or New Zealand or even the United Kingdom. I think our system definitely has benefits that those systems don't have, but I think it is about time that we start to consider whether the structures put forth in 1783 are still relevant in the same way today."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Zachary Suri"
+        }
+      ],
+      "uuid": "419e7423-4273-4e63-b8c8-36b2fc404519"
+    },
+    {
+      "start_time": 2464,
+      "end_time": 2519,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Right, that makes a lot of sense, whether we actually need more institutional reform in addition to party reform. And, of course, we need some of both. Geoff, you've given us such a strong and firm foundation for understanding these issues, and I want to encourage all of our listeners to read your books and read your articles, we've listed your books on our on our website, and to follow you on what the Niskanen Center is doing. There's so much important work to be done in this area, and it's a case where history matters so much, that's the focus of our podcast each week, using history to better understand our world, and Richard Hofstadter comes up all the time, and so does your point, Geoff, about about hope. Hope is something that is made from using our history to find reasons to build optimism. Optimism doesn't just happen, we have to pursue optimistic paths, and Geoff, you've given us so much to build on here. Thank you so much for joining us this week, Geoff."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "4f4d2468-87b9-4e17-94b8-d06571285339"
+    },
+    {
+      "start_time": 2519,
+      "end_time": 2524,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you to both of you. I really enjoyed the conversation, and Zach, I hope you don't give up hope."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Geoffrey Kabaservice"
+        }
+      ],
+      "uuid": "0395b332-6fd6-4aba-a7df-cf3114dfb8e9"
+    },
+    {
+      "start_time": 2524,
+      "end_time": 2537,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We won't let him. Zachary, thank you for your hope, for your poetry, which I think helps to feed our hope. And most of all, thank you to our listeners for joining us on this episode of This Is Democracy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "1f7c6e72-6b5d-4879-b2f1-64451121cb86"
+    },
+    {
+      "start_time": 2537,
+      "end_time": 2571,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This podcast is produced by the Liberal Arts Development Studio and the College of Liberal Arts at the University of Texas at Austin. The music in this episode was written and recorded by Harrison Lemke, and you can find his music at harrisonlemke.com. Subscribe and stay tuned for a new episode every Thursday featuring new perspectives on democracy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Framing Elements",
+          "tag": "Outro"
+        }
+      ],
+      "uuid": "ae5ec81a-c55d-48ab-a062-20ca33b20da0"
+    }
+  ],
   "event_id": "e75807ab-0166-4dc6-ae4a-79a20dc157a4",
   "set": "New Set",
   "source_id": "aef282d9-92fb-4829-b77b-345acece646f"
