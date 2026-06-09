@@ -1,1 +1,1147 @@
-{"annotations":[],"set":"Default","event_id":"9681a9d0-4b50-425d-8a45-02eee9be54d3","source_id":"796f005d-f564-42c9-b5a5-b838c4c8b3f8"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 23,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is Democracy. A podcast about the people of the United States. A podcast about citizenship. About engaging with politics and the world around you. A podcast about educating yourself on today's important issues. And how to have a voice in what happens next..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Framing Elements",
+          "tag": "Intro"
+        }
+      ],
+      "uuid": "404ab788-4f50-48e6-8627-26a0bad7719e"
+    },
+    {
+      "start_time": 23,
+      "end_time": 71,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Welcome to our new episode of This Is Democracy. This week we're going to talk about US humanitarian assistance and other foreign assistance in the 20th and 21st centuries. This is, of course, a major contemporary and historical topic, and we are very fortunate to be joined today with a really superb historian who has written what is the book on the topic now, and so we get to talk about this topic with someone who has spent, I think, about a decade examining how the United States developed the foreign intervention capabilities for humanitarian assistance, what they look like, why the United States does this, and what the legacies are for today. Our guest is Professor Julia Irwin. Julia, thanks for joining us today."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "e73aa97f-536e-48cc-a259-812420d7db48"
+    },
+    {
+      "start_time": 71,
+      "end_time": 74,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's a pleasure to be here. I'm looking forward to our conversation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Julia Irwin"
+        }
+      ],
+      "uuid": "36f94111-d4f7-4582-b8dc-8e505ea2987e"
+    },
+    {
+      "start_time": 74,
+      "end_time": 118,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We are too. Professor Julia Irwin is the T. Harry Williams Professor of History at Louisiana State University. She is, as I said, a leading scholar of humanitarian assistance and US foreign policy, as well as other issues in international history. She's the author of two wonderful books that I highly recommend to all of our listeners. Her first book is really the history of the Red Cross and its role in humanitarian interventions. It's titled Making the World Safe: The American Red Cross and a Nation's Humanitarian Awakening. Her new book that we're going to focus on today has a wonderful title, Catastrophic Diplomacy, which Julia, I thought could be read in many different ways, yes?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "c4273312-4b96-4fa4-8553-cb8479827a64"
+    },
+    {
+      "start_time": 118,
+      "end_time": 118,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, I was hoping for the double or at least triple entendre."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Julia Irwin"
+        }
+      ],
+      "uuid": "7216573c-0353-4cc3-b7f5-798bc65568d6"
+    },
+    {
+      "start_time": 118,
+      "end_time": 149,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, how clever you are, Professor Irwin. The new book is titled Catastrophic Diplomacy: US Foreign Disaster Assistance in the American Century. I also wanted to mention that among the many other articles and activities that Julia is a part of, she's also the co-editor of a journal, the Journal of Disaster Studies, and again, that's a formidable title, isn't it?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "4a25886d-d093-4603-b37c-eb14e2a6119a"
+    },
+    {
+      "start_time": 149,
+      "end_time": 159,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, it's well, hopefully there's more about how to resolve disasters than there is about the disasters themselves, but yeah, we'll be publishing our first issue in June this year."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Julia Irwin"
+        }
+      ],
+      "uuid": "370f5499-d85e-49b5-a636-6daa96d2419c"
+    },
+    {
+      "start_time": 159,
+      "end_time": 183,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Fantastic. So, I hope everyone will look up Professor Irwin's work, and particularly her new book, Catastrophic Diplomacy. Before we get into our discussion with Professor Irwin, of course, we have Mr. Zachary's scene-setting poem. What's the title of your poem today, Zachary? (\"The Old Colossus.\") \"The Old Colossus.\" It better not be about me. All right, go ahead. Zachary."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Jeremi Suri"
+        },
+        {
+          "category": "Creative Expression",
+          "tag": "Poetry"
+        }
+      ],
+      "uuid": "4f3ec16d-a6a8-4e3f-9c02-a048eca54bb1"
+    },
+    {
+      "start_time": 183,
+      "end_time": 231,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The world can shake, does often stand not still\n moves mountains just because it can\n And wants that we should see its sneers and hear its taunts \n Like raindrops beating on a window sill\n The world has hungers we can never fill \n Is gaseous, spews its steam from fiery fonts\n Remakes anew our mossy forest haunts, and never ceases maiming\n Waits to kill.\n Still, when one shouts from ruined city blocks \n Still are there others shouting in the dust\n Still do the voices echo off the rocks\n And help we shall for listening we must \n Build up the streets and salvage sunken docks \n Still Lady Liberty does shine in rust"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Zachary Suri"
+        },
+        {
+          "category": "Creative Expression",
+          "tag": "Poetry"
+        }
+      ],
+      "uuid": "9653f646-f7cd-4183-8247-d9995e51c243"
+    },
+    {
+      "start_time": 231,
+      "end_time": 240,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Wow, that that last line, Zachary, really hits a point that does Lady Liberty shine in rust. What do you mean by that line in particular?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Jeremi Suri"
+        },
+        {
+          "category": "Creative Expression",
+          "tag": "Poetry"
+        }
+      ],
+      "uuid": "ce846253-ad2b-42fe-a8ea-2c71cb8e6148"
+    },
+    {
+      "start_time": 240,
+      "end_time": 284,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think the larger thesis of the poem is that an American commitment to, sort of, openness and liberty embodied by \"The New Colossus,\" which is obviously Emma Lazarus' poem on the Statue of Liberty, that that spirit is part of what motivates our desire to help countries suffering from natural disasters, and the idea that even when this idea of liberty, or even when our country itself suffers from the effects of time, of weather, of change, of political stagnation, that we can find a way to help others who are in need and whom we are capable of helping."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Zachary Suri"
+        },
+        {
+          "category": "Creative Expression",
+          "tag": "Poetry"
+        }
+      ],
+      "uuid": "fc3a402d-1792-4e89-b2de-a82a4df3cb62"
+    },
+    {
+      "start_time": 284,
+      "end_time": 307,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So you see an altruistic spirit. (Yes, maybe.) \"Maybe,\" haha. Julia, your book wonderfully complicates that. I read in your book just what Zachary's talking about, a certain benevolence, but many other things at work as well. Why does the United States get so involved in international disaster resistance, particularly in the early 20th century when you really start your story?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Jeremi Suri"
+        },
+        {
+          "category": "Creative Expression",
+          "tag": "Poetry"
+        }
+      ],
+      "uuid": "db6d186e-1099-4861-a7b6-d1fd74d4682c"
+    },
+    {
+      "start_time": 307,
+      "end_time": 365,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. And, well, let me just thank Zachary for that really poignant and beautiful poem to start us off. You know, it's one of the things I've been studying humanitarianism for about 20 years now, since I started graduate school, and it's, one of the things that interests me most about it, is it's the multiple motivations I think that go into any humanitarian relief operation. Certainly, for the US actors I'm talking about, many of them are motivated by altruism, by a desire to help suffering and reduce suffering. But at the same time that can can and does coexist with political calculations, strategic motivations, economic motivations. So, the desire to sort of assist other countries is for the interests of people who are suffering, but also in the United States' own national interests, and I think the sort of dual internationalist and nationalist, sort of, set of motivations is what makes humanitarian assistance so fascinating to study."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Julia Irwin"
+        },
+        {
+          "category": "Creative Expression",
+          "tag": "Poetry"
+        }
+      ],
+      "uuid": "5cc7c0cd-4141-431c-9f38-b6fc93ab6c88"
+    },
+    {
+      "start_time": 365,
+      "end_time": 392,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And one of the elements that I think you bring out beautifully in your book that I really didn't appreciate was how in the early 20th century, particularly with the presidency of Theodore Roosevelt and a series of disasters around the United States, and farther away in Martinique, in Japan, and elsewhere, the United States developed new capabilities. What did that mean for the United States in the early 20th century?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "2eaa88c4-75db-4936-92d3-959c506a8d62"
+    },
+    {
+      "start_time": 392,
+      "end_time": 470,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, so, as I write about in the book, the 19th century saw the United States not doing much in terms of official foreign disaster assistance operations, there were a few, a few and far between, but starting in the early 20th century, we start to really see this burst of responses to foreign catastrophes, and I argue in the book that it's for a few different reasons. First of all, the United States has, in the last couple of decades, before that, really become a world power. It wants to sort of burnish its image on the world stage in positive ways, so this is one of its motivations, but it also has new capabilities. The acquisition of US territories in places like Puerto Rico, the Canal Zone, the Philippines means that you have US troops stationed in these places, and they can and do respond to disasters in other countries, so the sort of geography has shifted. You have a lot more diplomats and consuls in the world who happen to be on the scene and sort of able to both report and assist when disasters happen. They often work with American missionaries who have a large presence in the world as well, and American business interests. So simply the sort of growth and the growing footprint of the United States on the world stage gives it both motivations and capabilities to deliver relief in ways that it couldn't in the 19th century."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Julia Irwin"
+        }
+      ],
+      "uuid": "7bf32c93-29bf-44aa-8ec5-d8cb5b83e404"
+    },
+    {
+      "start_time": 470,
+      "end_time": 473,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Fantastic. Zachary?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "5f7214d8-107b-4efd-b3f1-7eab05a86bcc"
+    },
+    {
+      "start_time": 473,
+      "end_time": 482,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How unique is the United States in seeing disaster response as a core part of its diplomatic work during this?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Zachary Suri"
+        }
+      ],
+      "uuid": "9cc0ef99-c58e-4dfd-ad0a-bc7260975c81"
+    },
+    {
+      "start_time": 482,
+      "end_time": 543,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, that's a great question. And it's really, you know, this is becoming more and more, I think, what we might call an international norm. So you see a lot of other countries, especially kind of powerful, you know, great powers doing similar things. Sometimes, you know, there's an earthquake, for instance, in Messina, in southern Italy, in 1908 and you see the navies of several European powers, as well as the United States, coming to the scene to respond. There's sort of this is the growing willingness of states to provide cross-border aid. By the time you get to the 1920s we actually have some of the first international organizations, both non-governmental and governmental, that are devoted to coordinating international relief efforts, they kind of have their hit and miss in what they can do, but we start to see by the 1920s and into the 30s the evolution of an international humanitarian system that is concerned with disaster relief as well, so the United States is sort of part of this broader trend, for sure."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Julia Irwin"
+        }
+      ],
+      "uuid": "3c97dd90-4e07-4eea-b2cd-cfec57bd6d2d"
+    },
+    {
+      "start_time": 543,
+      "end_time": 565,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And one of the other really interesting parts of your book is you not only show the United States as part of an international fabric, including the British Navy and other actors, but also how within the United States there are what you call three pillars. What are the three pillars, and what is the significance of that for understanding the nature of American responses?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "085654e4-259c-4f0d-bd5b-1af75350be12"
+    },
+    {
+      "start_time": 565,
+      "end_time": 626,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, so when I started writing this book, I think I kind of thought there would be two pillars, so we'll get into that, but the first is really the State Department and its staff, so diplomats, consuls, people who work within Washington and the State Department who are planning the United States, sort of, foreign policy agenda and activities. The second is the American voluntary sector. By this I mean organizations like the American Red Cross, which I wrote about in my first book, which really is the kind of humanitarian auxiliary of the United States for much of the first half of the. 20th century, but also other NGOs, especially later on groups like Church World Service, Catholic Relief Services, CARE, which not only sort of provide aid themselves but partner with the United States government in really kind of powerful ways. So these two organizations are these two sort of pillars, the State Department and its agents, the voluntary sector that partners with the US, were part of it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Julia Irwin"
+        }
+      ],
+      "uuid": "69ff08f7-6e2c-4fba-96b9-0f43230f60a3"
+    },
+    {
+      "start_time": 626,
+      "end_time": 675,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And then, as I started researching the book more and more, I realized what a significant role the US military would play. When I started this book, I sort of understood that the military today plays a major role in humanitarian operations, but I assumed this was a later 20th century development, sort of a post-Vietnam, post-Cold War effort to reinvent the military, but in fact, as early as the early 20th century, you start to see the US Navy, especially, but also the Army Marines, depending on if they're on the scene, responding to a lot of catastrophes, the War and Navy Department committing rations, tents, their supplies to help disaster victims, so these three together, the military, the State Department, and their partners in the voluntary sector, are really responsible for cooperating to carry out disaster relief operations."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Julia Irwin"
+        },
+        {
+          "category": "LBJ",
+          "tag": "Vietnam War"
+        },
+        {
+          "category": "LBJ",
+          "tag": "Cold War"
+        }
+      ],
+      "uuid": "d9f441d1-56a5-4e93-b946-aedf28b446ea"
+    },
+    {
+      "start_time": 675,
+      "end_time": 689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And who's driving the bus? I mean, it seemed to me, as I read through the book, that at different moments, different parts of the pillars, or a different pillar is stronger than others. Is that true? And how does that dynamic work?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "ac7941c6-4257-445d-b52b-782244dab750"
+    },
+    {
+      "start_time": 689,
+      "end_time": 751,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, you know, I think if I had to sort of... it's the State Department that is a lot of ways kind of controlling the decision. The State Department is kind of making these decisions about whether to offer assistance to other countries, whether it is needed, and honestly, and using their own sort of words, whether it is in the United States' national interests to respond. They're certainly encouraged to do so, and are collaborating with the American Red Cross, especially early on, which is playing a major role in collecting funds and kind of generating support. As time goes on, the government plays a heavier and heavier role, has a heavier hand in making these decisions. So, especially as you get to the aftermath of World War II, for instance, you see a lot more of the kind of impetus coming from from government officials and not simply from from the American Red Cross. But the, I would sort of say that is where you're seeing a lot of the the decision to to respond lies within within these groups."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Julia Irwin"
+        }
+      ],
+      "uuid": "8b4e1cb2-c5bd-43a6-8ed2-e37bd27c7508"
+    },
+    {
+      "start_time": 751,
+      "end_time": 764,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How do these countries that are provided with American disaster response respond to American help? Is it always welcomed during this period, or are there sometimes tensions?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Zachary Suri"
+        }
+      ],
+      "uuid": "2a7f4810-489c-4cea-9a82-06b5e6e22b1d"
+    },
+    {
+      "start_time": 764,
+      "end_time": 844,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes. Well, there are definitely tensions. And coming back to the title of Catastrophic Diplomacy, I think this is one of the places we see this. You know, one of the things that I think is interesting about disaster relief, and I, is most of these aid operations are undertaken with the invitation or sort of approval of the government of another country, so the United States sort of extends an offer of assistance, and if that government liked to accept it, it does. In general, especially in the early days, a lot of these responses are really major disasters, and kind of the governments and people in general are welcoming whatever aid they can get. I mean, this is these moments of really extreme upheaval, but that doesn't mean that people are simply immediately grateful and desiring American aid, and especially as time goes by, in a lot of cases tensions really start to mount. A lot of the American relief workers I write about act with the best of intentions, and some of them are quite sort of culturally sensitive and aware. Others are not acting with the best of intentions. Some of them are arrogant, some of them are chauvinistic, some of them express pretty significant racial and cultural prejudices to the very people they're supposed to be assisting. So these can and really did breed breed tensions at times."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Julia Irwin"
+        }
+      ],
+      "uuid": "f974472f-fab6-4367-b311-ba3f665ac8c5"
+    },
+    {
+      "start_time": 844,
+      "end_time": 906,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There were also a few examples in the book where the United States really didn't get permission to extend the aid that it wanted to. There was a famous case in Jamaica in 1907 in which US Navy commander, sort of due to some miscommunications, landed several hundred armed US sailors in Jamaica, which was a British territory, without having the proper consent. This led to this diplomatic uproar. Later on, in the 20th century, there were attempts or considerations, even by the US government, to force aid into countries like China, after the revolution, as well as Cuba, after its revolution, attempting to show people living under communist governments that the United States cared about them through aid, so these very political motivations, these offers were refused by those governments, but you sort of see these, the ability for diplomatic tensions to arise over the issue of aid and unwanted aid, especially."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Julia Irwin"
+        },
+        {
+          "category": "LBJ",
+          "tag": "Protest and Social Unrest"
+        }
+      ],
+      "uuid": "fede2526-c046-4977-ab18-47f248f786b0"
+    },
+    {
+      "start_time": 906,
+      "end_time": 943,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And that raises one of the key questions I had reading through this. You set up your narrative as if there are a lot of continuities, and you point to some of these continuities, particularly at the end of the book, but there also does seem to be a break after World War II, particularly with the Eisenhower and Kennedy administrations, the creation of USAID in 1961 but even before that, you show that the Eisenhower administration is really interested in centralizing this process of aid and also pursuing development goals. What's the shift that's occurring there?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "f8c556fa-9c7e-4bc7-87b4-7340ae8ec1e8"
+    },
+    {
+      "start_time": 943,
+      "end_time": 991,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, so as I spoke about, sort of at the beginning of our conversation, in the early 20th century, the United States really kind of burst onto the scene as a world power expands its territories overseas as well. In the aftermath of World War II, or sort of during and after World War II, we see this other sea change in American power as the United States goes from being a world power to a superpower. It comes out of the war with the nation, or the world's largest military. It has access, or it has bases, or access to bases in some 2,000 different places, it means it has airplanes and ships stationed all over the world, as well as service personnel, as well as diplomats and consuls, and a lot of money."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Julia Irwin"
+        },
+        {
+          "category": "LBJ",
+          "tag": "Science and Technology"
+        }
+      ],
+      "uuid": "62957d2c-abbf-4e38-874a-bb938a6df455"
+    },
+    {
+      "start_time": 991,
+      "end_time": 1045,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "With all of this, the United States begins to respond to far more disasters than it had during the early 20th century, far more regularly on a routine basis. It's at the same time that the kind of interest in international development is really coming, becoming a central concern of policymakers. Disaster relief becomes tied in with questions of international development in really interesting ways, not only in the 1960s under USAID, but under its predecessor organizations, things like the Point Four Program started by Truman, the International Cooperation Administration, that started under Eisenhower. So, you do have this growing interest by by both state and military officials in the problems of both disasters and development, and how kind of government power can be harnessed to respond to them."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Julia Irwin"
+        }
+      ],
+      "uuid": "ac80350f-9c83-4169-bd14-dfa5ae24c902"
+    },
+    {
+      "start_time": 1045,
+      "end_time": 1068,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And to what extent, Julia, do you see that as part of an altruistic, benevolent goal of improving and helping these societies, helping suffering people, maybe even guilt at not having done as much earlier, and to what extent do you see this as an instrumental way of pursuing an anti-communist agenda?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "7ec9447c-8d79-42c4-897e-c8ed92273fee"
+    },
+    {
+      "start_time": 1068,
+      "end_time": 1157,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, and I would say that it is very much both at once. Again, you do have a lot of really well-meaning, you know, aid workers who are really concerned with the people they're assisting, who want to cooperate, collaborate, who want to kind of do things the right way, and to really improve people's lives, because they care about that as a value that they hold dear, but they're working with a lot of people whose primary goal is to defeat, you know, defeat global communism, to maintain US stability and power in the world, there's a lot of sort of private state department memos and correspondence, which are now fortunately declassified for us historians, where they really talk very explicitly about using aid to to counter communist propaganda or to really show the United States good side, the State Department takes a lot of notes on how much aid the Soviet Union is giving to other countries and makes sure that the United States is giving more in as many cases as possible. So, these political calculations are going on at the same time, and sometimes it leads to disagreements, there's fights, sometimes internal infighting between those people who really see aid as an international project and those who see it more as in line with national interests. So, I think that those kind of contests and competitions over the meaning and significance of aid are important to the story too."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Julia Irwin"
+        },
+        {
+          "category": "LBJ",
+          "tag": "Cold War"
+        }
+      ],
+      "uuid": "8600afa3-0f14-41f7-bcd1-9f35f2f7c976"
+    },
+    {
+      "start_time": 1157,
+      "end_time": 1178,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I wanted to ask, how does the American public view foreign aid? It seems like during this period that the question of foreign aid becomes much more of a topic of public discussion with the creation of the Peace Corps, etc. How do the American, how does the American public during this period think of American foreign aid assistance?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Zachary Suri"
+        }
+      ],
+      "uuid": "bec3d487-052a-4167-a709-e6888e7beed0"
+    },
+    {
+      "start_time": 1178,
+      "end_time": 1228,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, it's a, you know, one of the interesting things about sort of the sudden disasters that I'm really writing about in this book, earthquakes, hurricanes, floods, a lot of times they're really perceived within American culture, I think kind of in popular culture more broadly, as these these events that are often considered acts of God, they're they're not the fault of anyone. There are sort of people who are blameless victims for their own suffering. For those reasons, there tends to be less, sort of, less public opposition in a lot of cases to giving at least some immediate aid to to survivors of these types of disasters than there are to other types of assistance. So it's an interesting kind of, there can often be more bipartisan support. That being said, it is certainly not universal."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Julia Irwin"
+        }
+      ],
+      "uuid": "4cc3535e-aab0-43c7-b474-b6a784958012"
+    },
+    {
+      "start_time": 1228,
+      "end_time": 1285,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One of the fun sources for this book was actually reading letters that people would write to, sometimes their congress people, sometimes to the state department, sometimes to the president himself, expressing their opinions about whether the United States should or should not give aid to a certain country, and people are very kind of clear about sometimes pushing for it, sometimes because it's the right thing to do, sometimes because it's a way to show American compassion, other times calling on their elected officials or their representatives to not give aid, because there are problems at home, though there are more important things to kind of focus on domestically, or maybe this country is an enemy of the United States and doesn't deserve, in their words, American aid. So some of these same debates that I think we see today, right, in the 21st century, over questions of a foreign, either humanitarian or even military assistance, really play out throughout the 20th century in the wake of a lot of these catastrophes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Julia Irwin"
+        },
+        {
+          "category": "LBJ",
+          "tag": "Protest and Social Unrest"
+        }
+      ],
+      "uuid": "5476053c-7fc6-4ce8-8628-2333b7888fa8"
+    },
+    {
+      "start_time": 1285,
+      "end_time": 1328,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So that leads me to ask a question I know you've thought a lot about, about where your book ends in the 60s and 70s is a period, and it's not unique to this period, but I think it becomes more common, that critics of the United States at home and abroad contend that foreign aid, humanitarian assistance, the Peace Corps, USAID - these are all arms of American imperialism, business interests, strategic interests being promoted in ways that are disguisingly looking like they're about good-natured activities, but really designed to put American influence and dominance in place. What's your response to that?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "f47f6104-c578-48e5-8a62-ff30b9e849c8"
+    },
+    {
+      "start_time": 1328,
+      "end_time": 1433,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, and there is certainly some evidence of that too. For one of the, I think, most kind of clearest examples of this is the US Food for Peace program, which was started in 1954 under Eisenhower, it actually had a few predecessors, but this is really the major legislation establishing what became known as Food for Peace is in 1954. That organization was designed to provide surplus commodities to other countries, much of it sold, but on easy credit terms. Some of it donated for disaster relief and other famine relief things like this. That aid, though, was not simply, you know, that the food was not just, you know, kind of created out of thin air. It was these surpluses had arisen in domestic attempts to solve an American farm problem by subsidizing American agriculture. Long story, but it results in a lot of surpluses. Essentially, food aid becomes a way to help other nations while also helping American farmers and reducing these, kind of, what had become, by this point, embarrassing surpluses of food that were kind of going to waste, so this is one way that I think we see both American and international interests being served at the same time. There are a lot of companies that are involved and are promoting their products and getting government contracts to get their products out there. Some pharmaceutical companies, for instance, are donating types of supplies, food companies as well. So there certainly are these links between the, kind of, supply chain, the humanitarian supply chain, and the US government that make it, there are material reasons, I think, for some of these critiques."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Julia Irwin"
+        }
+      ],
+      "uuid": "888436d6-2bb6-4617-92a1-643c68d5aa91"
+    },
+    {
+      "start_time": 1433,
+      "end_time": 1457,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But do you also think that American assistance in many cases has helped people? I mean, it's a very broad question. It's hard to pin it down, but sometimes it seems to me, at least, Julia, that the discussions of American imperialism, although legitimate and helpful, can deny the reality of sometimes this assistance really providing crucial benefits to people on the ground."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "8d2d0529-b619-4a7f-ab57-ddd3d6143d69"
+    },
+    {
+      "start_time": 1457,
+      "end_time": 1523,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And one of the ways I like to sort of answer that question is that it is also just as political not to give assistance. The decision not to provide aid to a certain place or a certain group of people, or after a certain group amount of time has passed, is a political decision in its own right. So I think this kind of decision to give aid, to help, to assist, to make that part of United States foreign affairs identity, it's might even call it its brand, right? There's not necessarily something that is fully nefarious about this, right? And I think again, coming back to one of the points I made earlier, that that complex nature of this, that it can be at once altruistic and benevolent as well as strategic, and kind of calculating that these two things can coexist, is I think really interesting. So, yeah, no, I think that there is, if we had a world, if you, if we imagined a 20th century or 21st century without any American aid, or other humanitarian aid, for that matter, international aid, other nations aid, that world would look a lot different too, and maybe that's not really the world that we want to live in."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Julia Irwin"
+        }
+      ],
+      "uuid": "8e3f6f65-35dc-42c6-a3ad-f18a1e0eb7e3"
+    },
+    {
+      "start_time": 1523,
+      "end_time": 1567,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Right, well, I think that brings us to the question we always like to close on when we have the opportunity to talk to a historian about the development of a process and a set of activities over time. We now come to the present, and of course, these debates, these issues are with us. The Ukraine War has a whole disaster quality to it. We've seen recent earthquakes in various parts of the world where the United States has been called upon and sometimes has responded with a great deal of foreign assistance, sometimes it hasn't. What are the lessons we take from your book? What would you say to someone who's interested in these issues today, as I know you are, what should we be thinking about when the next disaster occurs?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "b56718fb-a9b2-40fd-a1e4-a8696a3b89e5"
+    },
+    {
+      "start_time": 1567,
+      "end_time": 1618,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, you know, what I try to do in the book is to highlight both, well, one of my grad school advisors called it the \"warts and all\" approach to history, it's really the good and the bad, and I, you know, rather than sort of painting this this black or white picture, I think there are moments where some of the, the aid workers, the diplomats in my book acted with, you know, ethical integrity, and, you know, did, you know, worked and cooperated with the people they're talking to, and managed to have a fairly effective and ethical response to a major crisis that really did help people. There are others who didn't. They acted for political reasons. They acted paternalistically. So, I think one of the lessons to hopefully take away is that, you know, thinking about this history and what went wrong, what went right, can can help us hopefully learn from those those times it went wrong, and then make it more right, kind of, in the future."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Julia Irwin"
+        }
+      ],
+      "uuid": "b491f057-e9ce-4aa6-9460-affc4247d536"
+    },
+    {
+      "start_time": 1618,
+      "end_time": 1636,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And does that mean the United States should be doing more, that it should be targeting fewer places? I mean, one of the narrative elements is that over time the United States gets involved in more and more places, and you, you imply, you're not, you're certainly not the first to imply, that oftentimes we're getting into places where we have very little understanding."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "c0f0fc81-5f42-41ce-8533-398969be0432"
+    },
+    {
+      "start_time": 1636,
+      "end_time": 1686,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, you know, I think some of it comes back to, you know, if we want to kind of be effective, right, aid should not simply be given for political calculations, but we should prioritize the humanitarian considerations first. You know, where are the places that actually have the real need, the people's basic needs, for food, for shelter, for clothing, for and then promoting their dignity, right, should be create prioritized as opposed to making the decisions primarily out of either national interests or political interests, so if we can figure out a way to center humanitarian needs above all, I think that would be one of the best ways to go about it. Not quite sure that we will see that anytime soon, but it would be nice if we can imagine a world that way."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Julia Irwin"
+        }
+      ],
+      "uuid": "a8bf0e9a-50d8-4fbf-be7c-159f24d80b1e"
+    },
+    {
+      "start_time": 1686,
+      "end_time": 1701,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. Well said, very well said. Zachary. What do you think? I mean, is is foreign assistance, is humanitarian aid, is it something that interests young people who think about international affairs, or people of your generation too cynical about this?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "d7b13e47-c0f9-435f-b0f2-75f9fe95755b"
+    },
+    {
+      "start_time": 1701,
+      "end_time": 1746,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think, and people are very interested in disaster response, disaster aid, as I think they always have been, but obviously it's going to become even more relevant with climate change and the intense weather events that it will bring. I also think it's a great way to understand this \"warts and all\" approach to history. I think the topic of international disaster response from the United States is obviously one of a very mixed record, and it's important to be able to sit with those complexities, and I think studying this history offers young people practice doing that, but also a key example of where American presence isn't inherently good, isn't inherently altruistic, but can make a difference, and could make a difference."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Zachary Suri"
+        }
+      ],
+      "uuid": "b8f103ef-06c2-4fdb-91d2-f59a340a545e"
+    },
+    {
+      "start_time": 1746,
+      "end_time": 1784,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Right, and you think, ([unintelligible]) sorry, gradually, sorry? (I said \"very nicely put,\" Zachary) Ah. And Zachary, you think that that idealism is still burning in the hearts of young people? (I think so. I think so.) That's great, that's great. So, our final question, Julia, you've written this book on almost a century of US responses to foreign disasters. I'm just curious, if you think that this is something, this is the story is actually also relevant for thinking about domestic disasters?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "160bff0a-5dc7-4d8d-af62-36a7b19eccb6"
+    },
+    {
+      "start_time": 1784,
+      "end_time": 1842,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, I mean that's a very good question. And in writing this book, I did sort of have to draw some lines. There's a lot of differences between those domestic and international disaster response, but legal differences, bureaucratic differences, but I think a lot of the same, sort of, broader lessons can can still apply. Why do we? Why do people choose to give? Why does the government prioritize certain states, certain disasters over others? Why do we often prioritize disaster response over prevention or mitigation or risk reduction activities, which could reduce suffering in the first place? These sorts of questions that I think are, come up a lot of, in the book, thinking about international questions apply domestically as well, and apply to a lot of disaster scenarios. So that would be, I think, kind of one way to think about it. There's a lot of really great books out there on US domestic disaster aid as well, so I have some wonderful colleagues working on some of these questions too."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Julia Irwin"
+        }
+      ],
+      "uuid": "42ad0345-9dbe-4c6d-ac84-4a3c30640d39"
+    },
+    {
+      "start_time": 1842,
+      "end_time": 1865,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And your answer just highlights why this is so central to our democracy. It's central to the way we think about our place in the world and our foreign policy. But also how we handle our own internal issues and our own internal challenging and, echoing Zachary, in a world of climate change where weather events seem to be more common, how we handle and help people who are suffering in different parts of our country."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "7284641e-9834-47c5-ad43-29138346ae3e"
+    },
+    {
+      "start_time": 1865,
+      "end_time": 1876,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mm-hmm. Yeah, and who we, again, include as citizens as people who are, you know, have the right to aid in assistance in times of crisis, too."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Julia Irwin"
+        }
+      ],
+      "uuid": "ef4ec034-a4b3-48a1-b9a2-b04442883302"
+    },
+    {
+      "start_time": 1876,
+      "end_time": 1901,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, Julia, you've given us really a lot to think about. You've written a wonderful book, and I think your discussion here should only wet the appetite of our listeners for more. I encourage everyone to read Professor Julia Irwin's book Catastrophic Diplomacy: US Foreign Disaster Assistance in the American Century. Julia, thank you so much for joining us today."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "cf9cba5d-b9d3-48d8-850e-ece50c58afeb"
+    },
+    {
+      "start_time": 1901,
+      "end_time": 1909,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you so much for the terrific conversation, I really enjoyed speaking with both of you, and thanks again Zachary for that wonderful poem to start us off."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Julia Irwin"
+        }
+      ],
+      "uuid": "ea876446-3169-42f1-b9d3-5b8bac8aae5d"
+    },
+    {
+      "start_time": 1909,
+      "end_time": 1921,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, Zachary. Zachary, thank you so much, we're going to be thinking about your poem until our next episode of course. And thank you most of all to our loyal listeners for joining us for this week of This is Democracy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "696a6fb4-d802-41b7-8bf1-ce029ffd675d"
+    },
+    {
+      "start_time": 1921,
+      "end_time": 1921,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This podcast is produced by the Liberal Arts ITS Development Studio and the College of Liberal Arts at the University of Texas at Austin. The music in this episode was written and recorded by Harris Codini. Stay tuned for a new episode every week. You can find This Is Democracy on Apple Podcasts, Spotify, and YouTube. See you next time!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Framing Elements",
+          "tag": "Outro"
+        }
+      ],
+      "uuid": "1ba66dc2-4825-4286-a302-26c6ebc839fc"
+    }
+  ],
+  "set": "Default",
+  "event_id": "9681a9d0-4b50-425d-8a45-02eee9be54d3",
+  "source_id": "796f005d-f564-42c9-b5a5-b838c4c8b3f8"
+}
