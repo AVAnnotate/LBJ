@@ -1412,12 +1412,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Thanks so much for having me. Itâs great to talk to both of you"
+              "text": "Thanks so much for having me. It's great to talk to both of you"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Julian Zelizer"
+        }
+      ],
       "uuid": "f9d2c07f-3621-42e5-9ef6-5c66f278b583"
     },
     {
