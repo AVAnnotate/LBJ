@@ -1,1 +1,2118 @@
-{"annotations":[],"set":"Default","event_id":"8f1b13dc-b0e1-46a2-89b6-b3bc9ce83a8d","source_id":"c1796eb2-0b2b-44c7-857f-d60294cc8713"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 19,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is Democracy, a podcast about the people of the United States, a podcast about citizenship, about engaging with politics and the world around you. A podcast about educating yourself on todayâs important issues and how to have a voice in what happens next."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Framing Elements",
+          "tag": "Intro"
+        }
+      ],
+      "uuid": "a98d29d2-c4e4-4ca8-9f7c-51d11372065c"
+    },
+    {
+      "start_time": 20,
+      "end_time": 26,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Welcome to our latest episode of This is Democracy. I'm Zachary Suri. I'm hosting this week. We're mixing things up a little bit. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Zachary Suri"
+        }
+      ],
+      "uuid": "3c1889b2-eb40-4242-8634-c7846857e2bf"
+    },
+    {
+      "start_time": 26,
+      "end_time": 50,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We often think about history in terms of pivotal years, 1776, 1848, 1989, and 1968 is often an entry in this list, identified by many historians as the key turning point in our democracy and democracies around the world in the 1960s. But our next guest, his new book makes the case for a different year, 1963."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Zachary Suri"
+        }
+      ],
+      "uuid": "1167d62c-d8ee-4c6e-986e-7a65bce4378b"
+    },
+    {
+      "start_time": 50,
+      "end_time": 65,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dr. Peniel Joseph is the Barbara Jordan Chair in Ethics and Political Values and the founding director of the Center for the Study of Race and Democracy at the LBJ School of Public Affairs at UT Austin, and he joins us now. Thank you for joining us, Peniel."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Zachary Suri"
+        }
+      ],
+      "uuid": "d2ef8f50-6f98-4af3-a3ed-4415407b4bac"
+    },
+    {
+      "start_time": 65,
+      "end_time": 68,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you for having me, Zachary and Jeremi."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        }
+      ],
+      "uuid": "b8be6fbb-59fa-484a-8cfa-7a8047965b4a"
+    },
+    {
+      "start_time": 68,
+      "end_time": 110,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In Freedom Season: How 1963 Transformed America's Civil Rights Revolution, Professor Joseph argues that 1963 marked the first critical successes and several important but tragic losses of the civil rights movement that would transform American democracy. 1963 was, he writes in the book, quote, \"the defining year of the black freedom struggle.\" And because of the importance of this year and one of the documents it produced, a letter from Birmingham Jail by Dr. Martin Luther King, Jr., instead of a poem this week, we will be hearing Dr. King read a section of that speech and he will read what is perhaps one of the most famous sections."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Zachary Suri"
+        },
+        {
+          "category": "LBJ",
+          "tag": "Civil Rights"
+        }
+      ],
+      "uuid": "1e681ef2-1df9-402f-981e-ba49037e5426"
+    },
+    {
+      "start_time": 110,
+      "end_time": 146,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Moreover, I am cognizant of the interrelatedness of all communities and states. I cannot sit idly by in Atlanta and not be concerned about what happens in Birmingham. Injustice anywhere is a threat to justice everywhere. We are caught in an inescapable network of mutuality tied in a single garment of destiny. Whatever affects one directly affects all indirectly."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Martin Luther King, Jr."
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Speech"
+        }
+      ],
+      "uuid": "9632e178-bb42-4881-9594-c2264e579418"
+    },
+    {
+      "start_time": 147,
+      "end_time": 170,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, Professor Joseph, Birmingham and this letter play a central role in the story that you tell. It's the site of some of the most brutal televised police crackdowns on peaceful protesters in 1963. It's where MLK is arrested and writes this letter, of course. Why Birmingham? Why were the events there in the spring of 1963 so critical to the cause of civil rights and to the history of our democracy? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Zachary Suri"
+        },
+        {
+          "category": "LBJ",
+          "tag": "Civil Rights"
+        },
+        {
+          "category": "LBJ",
+          "tag": "Protest and Social Unrest"
+        }
+      ],
+      "uuid": "c2b53790-6e57-43c2-8545-c74f301a90a7"
+    },
+    {
+      "start_time": 172,
+      "end_time": 185,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, Birmingham is very interesting because, as I show in Freedom Season, there were other hot spots and sites that might have become Birmingham, including Greenwood, Mississippi and Jackson, Mississippi."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        }
+      ],
+      "uuid": "987c2d38-13cf-4b8c-80f0-275cd36cdeac"
+    },
+    {
+      "start_time": 185,
+      "end_time": 225,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But Birmingham becomes such a huge global site of struggle for dignity and citizenship in 1963, primarily because of the brutality that is experienced by peaceful demonstrators and over time by really thousands of young Black students who were called Negro students in the context of 1963, unless Malcolm X was speaking about them. And what's so interesting, Zachary and Jeremi, about Birmingham is that so Birmingham is a dying steel town. It's the citadel of the old Confederacy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        },
+        {
+          "category": "LBJ",
+          "tag": "Protest and Social Unrest"
+        },
+        {
+          "category": "LBJ",
+          "tag": "Civil Rights"
+        }
+      ],
+      "uuid": "46bc711b-6d11-443a-b993-2ff283a27da0"
+    },
+    {
+      "start_time": 225,
+      "end_time": 262,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And what's interesting about 1963 with Birmingham, there's two competing governments by May of 1963 in Birmingham. Birmingham is shifting to a mayoral system from a three-person commissioner system. And one of those commissioners is Eugene Bull Connor, who's the rabid, not only racist, but anti-communist, who's a former radio sports broadcaster who gets his nickname for his expertise at shooting the bull, Eugene Bull Connor."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        }
+      ],
+      "uuid": "f49ae9e0-7168-4c78-9772-d031e52ccfe2"
+    },
+    {
+      "start_time": 262,
+      "end_time": 287,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And what's so interesting about Bull Connor's Birmingham is that there's going to be an election. There's going to be a new mayor, Albert Boutwell, who's really sort of an elegant segregationist. But for a while, like during the first Reconstruction period, there's going to be two competing governments in the city of Birmingham who are both claiming that they are the official government."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        }
+      ],
+      "uuid": "f918e7fb-86ef-4de5-9ab5-db2a47e35fb4"
+    },
+    {
+      "start_time": 287,
+      "end_time": 327,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But what Bull Connor does as city commissioner, not police commissioner, but city commissioner who has authority over law enforcement, is that he unleashes fire hoses through the fire department that are powerful enough to strip the bark off of trees. And they also unleash canine units and German shepherds that route peaceful demonstrators in Birmingham in April and in May of 1963. So really, Birmingham, even more so than the Freedom Rides in 1961, attracts global attention."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        },
+        {
+          "category": "LBJ",
+          "tag": "Protest and Social Unrest"
+        }
+      ],
+      "uuid": "aec92bea-34ef-4c63-b6bb-34235db56267"
+    },
+    {
+      "start_time": 327,
+      "end_time": 347,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And even more so than the Freedom Rides in 1961, and even more so than the Meredith admission to Ole Miss University of Mississippi in September of 1962, because that's a concentrated episode. It's over three, four days. There's going to be a couple of people who are dead."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        },
+        {
+          "category": "LBJ",
+          "tag": "Protest and Social Unrest"
+        }
+      ],
+      "uuid": "54e3acf9-df87-443d-825e-e679bcc1ab9c"
+    },
+    {
+      "start_time": 347,
+      "end_time": 364,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Meredith is going to be escorted by over 500 federal marshals. But there's also going to be National Guard and others deployed. In the spring of 1963, it's a slow rolling crisis that continues to build and build."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        },
+        {
+          "category": "LBJ",
+          "tag": "Civil Rights"
+        }
+      ],
+      "uuid": "3f8336bc-6f26-4ed6-b85c-d534fb317a7d"
+    },
+    {
+      "start_time": 364,
+      "end_time": 386,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We start to get hundreds of reporters in Birmingham, including reporters from as far away as Sweden and France and other places who are reporting. And we start to see Birmingham become front page news in The New York Times, especially when children as young as seven, eight and nine years old are arrested in Birmingham."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        }
+      ],
+      "uuid": "a8584c80-77ea-44a0-90bd-d7d96de8b7af"
+    },
+    {
+      "start_time": 387,
+      "end_time": 406,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And in your book, Peniel, you have a really wonderful chapter. It's the beginning of your spring section where you talk about a lot of these events in Birmingham. And two of the main characters of your book really come out in this chapter, I think, beautifully, John F."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "8cbb44f1-7999-43e1-a3a6-471ce9065dde"
+    },
+    {
+      "start_time": 406,
+      "end_time": 417,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Kennedy and in particular, his brother, Robert Kennedy and and James Baldwin, Jimmy Baldwin, as you call him. Why is this such an important moment for the Kennedys and for Baldwin?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "f6e79afa-79cd-4c3b-8ef3-0d808128675e"
+    },
+    {
+      "start_time": 417,
+      "end_time": 441,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For the Kennedys, one of the things I wanted to show in the book, Jeremi, was the evolution of Bobby and Jack Kennedy on race matters. And it's not always a complete evolution. It's not always a linear evolution, but both of them really have their finest moments vis-a-vis civil rights in 63 during that, the course of that year."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        },
+        {
+          "category": "LBJ",
+          "tag": "Civil Rights"
+        }
+      ],
+      "uuid": "538a23d3-9145-49cd-98ea-5be3f6dd8c26"
+    },
+    {
+      "start_time": 441,
+      "end_time": 464,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so for the Kennedys, who are very reticent about not allowing civil rights to upend the administration and especially the administration's legislative agenda, which is the state of the union, as I show early, they want a tax cut. They want a big tax cut so that they can get portions of what become the Great Society past, including Medicare. That's what they want."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        },
+        {
+          "category": "LBJ",
+          "tag": "Civil Rights"
+        },
+        {
+          "category": "LBJ",
+          "tag": "Great Society"
+        }
+      ],
+      "uuid": "f5434d90-8a27-44e7-9ef5-5465da7c62d8"
+    },
+    {
+      "start_time": 464,
+      "end_time": 516,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And they don't want the the coalition that they need, which includes Southern segregationists or Dixiecrats, to be so concerned about civil rights that they block the president's agenda. And Bobby Kennedy, who really serves as a kind of domestic and international prime minister, certainly the the second most powerful politician in the country to President Kennedy, is very wary of anything that might taint his brother's presidency. And what we're going to see over the course of the spring is the Kennedy brothers collectively, almost symbiotically coming to the conclusion that they have to lead in the context of this crisis and not just lead from behind, but to take some risks."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        },
+        {
+          "category": "LBJ",
+          "tag": "Civil Rights"
+        }
+      ],
+      "uuid": "027377ce-d40b-4fcd-9579-b1ebcd095d42"
+    },
+    {
+      "start_time": 516,
+      "end_time": 550,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And Jimmy Baldwin, James Baldwin, the writer, is a big part of this. Jimmy Baldwin is an extraordinary figure in the book, but also just in American history. Born in Harlem in 1924, one of nine children, young, gay, Black writer born in poverty who flees to France in November of 1948 and really unleashes his literary genius in a series of novels and books."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        }
+      ],
+      "uuid": "d659a3d3-b6db-4864-b346-e3796af15896"
+    },
+    {
+      "start_time": 550,
+      "end_time": 570,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Go Tell It on the Mountain is his first novel, and then Giovanni's Room and Another Country. And his nonfiction is really regarded now in the 21st century as he's the best essayist that I think America has ever produced, irrespective of race. Notes of a Native Son."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        }
+      ],
+      "uuid": "7666285c-2a65-49f2-8a7c-d599c7db2335"
+    },
+    {
+      "start_time": 570,
+      "end_time": 621,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And what we get published on January 31st, 1963, is a book called The Fire Next Time, which is really this extraordinary book that is comprised of two essays. The shorter essay is called My Dungeon Shook, which was a letter to his nephew in commemoration of the anniversary of the Emancipation Proclamation, which comes out in the December issue of The Progressive, which is coming out of Wisconsin and Madison and Fighting Bob LaFollette, founded in 1909. And the second longer essay, which is the really even more well-known essay, is an essay called Down at the Cross, which was published in the November 1962 issue of The New Yorker as, under the title, A Letter from a Region in My Mind."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        }
+      ],
+      "uuid": "7de9cc62-e5e3-4d2c-aca1-224d55d662af"
+    },
+    {
+      "start_time": 621,
+      "end_time": 647,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And that's a 21,000 word essay about race, democracy, slavery, memory, love, citizenship, dignity. Really the best essay ever written about race in many ways, I think. And The Fire Next Time becomes an immediate bestseller, and it really catapults Jimmy, who's already famous for Another Country."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        }
+      ],
+      "uuid": "11129a3d-6e43-4507-b7ce-d05fa0c42a60"
+    },
+    {
+      "start_time": 647,
+      "end_time": 666,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Another Country is a massive bestseller. It's a novel about interracial relationships and romance, suicide, queerness. It's really his blockbuster novel in terms of its popularity, sells more than a million copies."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        }
+      ],
+      "uuid": "01af2b23-fa43-4691-a05b-1474f3e551e4"
+    },
+    {
+      "start_time": 666,
+      "end_time": 682,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It is major. And sometimes we forget about that. And so when we think about Jimmy Baldwin in 1963, he is the most well-known writer, irrespective of race, in the United States and globally."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        }
+      ],
+      "uuid": "7dfa3c15-5f1a-419b-96f1-c2c0bbd1ddc1"
+    },
+    {
+      "start_time": 682,
+      "end_time": 693,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "His books are selling in London, in France. He's in Istanbul, Paris. And the Kennedys come to know Jimmy Baldwin."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        }
+      ],
+      "uuid": "161881f5-f849-4313-9f34-16a1eda28ea8"
+    },
+    {
+      "start_time": 693,
+      "end_time": 717,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bobby Kennedy had met him in 1962, already at a White House function. And throughout 1963, Jimmy is on tour, not just for his new books, but also for the Congress of Racial Equality. And he's going to historically white colleges and Black colleges, speaking about the need for civil rights."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        },
+        {
+          "category": "LBJ",
+          "tag": "Civil Rights"
+        }
+      ],
+      "uuid": "aefc01cb-d7b2-4f3d-a524-76ac2b66886f"
+    },
+    {
+      "start_time": 717,
+      "end_time": 745,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And he's really calling for a reckoning, a confrontation over America's original sin of racial slavery. But Baldwin also wants us to really wrestle with the lies and the cover up. He talks about a crime has been committed, but what's worse for him is the cover up, the lies vis-a-vis American exceptionalism and the lies that everything is fine, we're all good."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        },
+        {
+          "category": "LBJ",
+          "tag": "Civil Rights"
+        }
+      ],
+      "uuid": "8e1b95b4-13bf-488d-a292-8f612cd6f351"
+    },
+    {
+      "start_time": 745,
+      "end_time": 767,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There's nothing for us to wrestle with around racial segregation, around violence and terror and inequality and injustice in the United States. And so Baldwin really hammers at the Kennedys. He says he admires the Kennedys, but he's deeply disappointed in the Kennedys."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        },
+        {
+          "category": "LBJ",
+          "tag": "Civil Rights"
+        }
+      ],
+      "uuid": "e9eb1cf3-cbeb-4314-8144-38944b2ba412"
+    },
+    {
+      "start_time": 767,
+      "end_time": 781,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And what's interesting, Jeremi, about Jim Baldwin is that what Jimmy is, he's the incubator and a conduit. Everyone is talking and approaching his ideas and debating. That's William F."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        }
+      ],
+      "uuid": "adb18f2a-601a-4626-9c9b-df940c43afa5"
+    },
+    {
+      "start_time": 781,
+      "end_time": 829,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Buckley, that's Norman Poderitz, it's the Kennedys, it's Black leaders like Malcolm X and Martin Luther King Jr., Gloria Richardson, Lorraine Hansberry. So he becomes the key figure and the key thought leader that politicians and literary salons and the New York Times and Mademoiselle magazine and the New Yorker and the progressive, but Black nationalists and Pan-Africanist and Marxist and Republicans and Democrats, they're all wrestling with Jimmy Baldwin, which is extraordinary. And that's going to inspire Bobby Kennedy as the spring progresses to actually want to meet Jimmy Baldwin and to hear him and listen to him."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        }
+      ],
+      "uuid": "3d238195-eb28-424a-b5c8-35f2139f45f2"
+    },
+    {
+      "start_time": 829,
+      "end_time": 838,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So you're seeing these writers become political figures who are connecting high politics with the quotidian."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        }
+      ],
+      "uuid": "87867965-9d21-4fdd-8417-5948616a7e18"
+    },
+    {
+      "start_time": 838,
+      "end_time": 848,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think that's a very helpful overview, and obviously so much of your book focuses on these literary circles and literary figures. It's very much a sort of intellectual history as well."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Zachary Suri"
+        }
+      ],
+      "uuid": "27e1d56c-9185-477b-82ef-ba05638cd327"
+    },
+    {
+      "start_time": 850,
+      "end_time": 877,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I wanted to ask the moment that I think, at least for most Americans, we remember most from 1963 is probably the March on Washington, that moment. We all know the images from the Lincoln Memorial of people gathered listening to speeches from sort of great leaders of the civil rights movement. What made that moment on the steps of the Lincoln Memorial so impactful? And how do you see that moment fitting into the larger story of 1963? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Zachary Suri"
+        },
+        {
+          "category": "LBJ",
+          "tag": "Protest and Social Unrest"
+        }
+      ],
+      "uuid": "08f71105-7cc0-4404-bf86-62739f588826"
+    },
+    {
+      "start_time": 878,
+      "end_time": 909,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, the March on Washington is an unbelievable high point, and I think the longest chapter in Freedom Season is the chapter 11 called The Language of Human Joy. Which really does an in-depth examination of the March on Washington, but it tries to look at it from different perspectives of people like Bayard Rustin, Malcolm X, the Kennedys, Howard Zinn, a very, very famous professor and author of A People's History of the United States."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        },
+        {
+          "category": "LBJ",
+          "tag": "Protest and Social Unrest"
+        }
+      ],
+      "uuid": "b47d663b-a654-4f5e-bc79-1d6d3efbc13e"
+    },
+    {
+      "start_time": 909,
+      "end_time": 955,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But one of the key adult advisors, young adult, 41 years old to SNCC activists, Student Nonviolent Coordinating Committee, a mentor to somebody like Marian Wright Edelman, Spelman College professor, really extraordinary figure. I would say the March on Washington is a high point because of the previous seven months, seven and a half months, almost eight months of activism and debates and conflicts and deaths, but also triumphs that occur. So the start of the year, Jimmy Baldwin flies to Mississippi to meet with James Meredith, who's the first Black student to enroll at Ole Miss, the University of Mississippi in Oxford, Mississippi, and he meets with Medgar Evers."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        },
+        {
+          "category": "LBJ",
+          "tag": "Protest and Social Unrest"
+        }
+      ],
+      "uuid": "aec96ba4-842c-4c0f-8811-263d834ace39"
+    },
+    {
+      "start_time": 955,
+      "end_time": 988,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And really through the first half of the book, Medgar Evers is alive. He's the field representative, field secretary of the Jackson, Mississippi NAACP, a former military veteran with the Red Ball Express and providing supplies to our American soldiers in Normandy during the invasion, a football hero, a married father of three to Murley Evers. He's got three children, a nine-year-old son, an eight-year-old daughter and a three-year-old son."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        }
+      ],
+      "uuid": "e3402388-c4c5-4767-b629-3db3c08da2ae"
+    },
+    {
+      "start_time": 988,
+      "end_time": 1036,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jack Van Dyke and Rena Denise is his daughter, and Darrell Kenyatta is his oldest born, middle name Kenyatta, named after Jomo Kenyatta, who becomes the first leader of Kenya December 12th, 13th that year in 1963. So Medgar Evers is this extraordinarily courageous and heroic and upright figure who I think we all know in popular culture because of his assassination. And I wanted us to see Medgar Evers in Mississippi, to hear him deliver speeches, to see the organizing that he's doing in Jackson, Mississippi, and also the constraints he's under because Roy Wilkins, who's executive director of the NAACP, is a very cautious, pragmatic civil rights leader."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        },
+        {
+          "category": "LBJ",
+          "tag": "Civil Rights"
+        }
+      ],
+      "uuid": "5bab183b-fcf8-422b-9366-fa12bc1cc986"
+    },
+    {
+      "start_time": 1036,
+      "end_time": 1095,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He's a civil rights leader who's very competitive with Dr. Martin Luther King, Jr., constantly feels the NAACP is losing credit to competitors that don't put as much skin in the game, financially at least, as the NAACP does. And Medgar Evers is really at the center of these concentric circles, which include Roy Wilkins, which includes Martin Luther King, Jr., who's a friend of Medgar Evers, which includes young student activists who are connected to the Congress of Racial Equality and the Student Nonviolent Coordinating Committee, who want the NAACP to be a much more direct action centered civil rights organization, getting arrested, boycotting, being in the scrum. And we see Medgar Evers as somebody who's under the constant threat of death. I show the way in which there are white activists like Joan Trumpauer, who's still alive, who's getting arrested alongside of Medgar Evers at sit-ins."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        },
+        {
+          "category": "LBJ",
+          "tag": "Civil Rights"
+        }
+      ],
+      "uuid": "7348f942-8d9a-4597-a7e1-0baae5af2e47"
+    },
+    {
+      "start_time": 1095,
+      "end_time": 1121,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "John Salter is the half Native American, half white professor at Tougaloo, who's getting arrested and beaten and brutalized alongside Medgar Evers. And so what's going on in Jackson, Mississippi, I also look at what's going on in Greenwood, Mississippi in April of that year, where people like Bob Moses are being brutalized and arrested. Somebody tries to assassinate Bob Moses in April of 1963."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        },
+        {
+          "category": "LBJ",
+          "tag": "Protest and Social Unrest"
+        }
+      ],
+      "uuid": "7ad1b492-c24e-4395-af31-48001f5f5cf6"
+    },
+    {
+      "start_time": 1121,
+      "end_time": 1158,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And Bob Moses is the Hamilton College graduate, philosophy major, mathematician, who later is a MacArthur Genius Award winner and author of the book Radical Equations, who is really one of the single most influential student activists of the 1960s. He goes to Macomb, Mississippi and influences and inspires people like Tom Hayden, who follows him into Macomb. And Moses writes that famous letter from a prison in Macomb, Mississippi, about SNCC activists being in the middle of the iceberg."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        },
+        {
+          "category": "LBJ",
+          "tag": "Civil Rights"
+        }
+      ],
+      "uuid": "faf6ec6b-be00-468b-bc99-6fa6b40b9426"
+    },
+    {
+      "start_time": 1158,
+      "end_time": 1177,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And the iceberg is a metaphor for the racial subjugation and the white supremacy that they're under. And Moses vows to resist nonviolently, to resist. And he becomes this figure who attracts really hundreds and then thousands of students."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        },
+        {
+          "category": "LBJ",
+          "tag": "Protest and Social Unrest"
+        },
+        {
+          "category": "LBJ",
+          "tag": "Civil Rights"
+        }
+      ],
+      "uuid": "56381178-7b87-4cc7-b77d-57f496ffd4ee"
+    },
+    {
+      "start_time": 1177,
+      "end_time": 1193,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And Moses, of course, wears the sharecropper overalls of local people in the Mississippi Delta. And that becomes SNCC's de facto uniform of blending in. And Moses does it in a completely ego free manner."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        }
+      ],
+      "uuid": "6c0d5bcf-7925-4891-88c1-e3cad53d3cb8"
+    },
+    {
+      "start_time": 1193,
+      "end_time": 1207,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He's one of the most humblest people you could ever meet. He's since passed away. But with such deep humility, Greenwood for a while is on the front pages of The New York Times because of the brutality that's going on."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        }
+      ],
+      "uuid": "b655ead7-cbf9-41f1-a40e-26594c281858"
+    },
+    {
+      "start_time": 1207,
+      "end_time": 1250,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So when we look at the March on Washington, the March on Washington is a culmination of one, a very brutal winter where civil rights activists are hoping against hope and organizing that the federal government is going to be on their side and that President Kennedy and Bobby Kennedy will lead. They are very disappointed, perhaps none so as much as James Baldwin. But by the spring, Birmingham and the crisis in Birmingham gives civil rights activists an entree into compelling, coercing, shaming the administration into taking a moral stance."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        },
+        {
+          "category": "LBJ",
+          "tag": "Protest and Social Unrest"
+        },
+        {
+          "category": "LBJ",
+          "tag": "Civil Rights"
+        }
+      ],
+      "uuid": "d1414fa6-5767-4e4f-b7dc-b7e7c0985a35"
+    },
+    {
+      "start_time": 1250,
+      "end_time": 1264,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jimmy Baldwin sends the Kennedys a public telegram saying what's happening in Birmingham. It's their responsibility. This is a human rights movement, a human rights campaign."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        },
+        {
+          "category": "LBJ",
+          "tag": "Civil Rights"
+        }
+      ],
+      "uuid": "c8434a18-fce7-439d-9668-88fe302c63b0"
+    },
+    {
+      "start_time": 1264,
+      "end_time": 1298,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And over the course of that spring, especially after the Mother's Day bombing in Birmingham, which is an assassination attempt on Martin Luther King Jr. at the A.G. Gaston Motel, you start to see the Kennedys respond and do more. And Malcolm X, who's in Washington, D.C., uses Birmingham as an entree to really become in 1963 a national figure. It's very interesting to watch all these different stories unfold, but they intersect, which makes them so even more interesting."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        },
+        {
+          "category": "LBJ",
+          "tag": "Civil Rights"
+        }
+      ],
+      "uuid": "485cad5a-421d-4659-91c7-6772127b31d7"
+    },
+    {
+      "start_time": 1300,
+      "end_time": 1327,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That makes a lot of sense. Of course, 1963 was also defined by two other tragedies in September of 1963, the church bombing in Birmingham that killed four little girls and the assassination of JFK in November of that year. What affected these tragedies? Also, obviously, public televised, what effect did they have on the movement and how in particular did the JFK assassination help change public sentiment around around civil rights? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Zachary Suri"
+        },
+        {
+          "category": "LBJ",
+          "tag": "Civil Rights"
+        }
+      ],
+      "uuid": "13d3ed12-8d68-4e99-8bb4-98feeec4ff93"
+    },
+    {
+      "start_time": 1328,
+      "end_time": 1368,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I think I want to stick for a second, Zachary, with the March on Washington just to talk about what happens that day, August 28th. I think 250,000 people come to Washington, D.C. and what's so powerful is the coalitions we're seeing of labor, labor movements, different social justice movements, political, religious movements. You've got Jewish and Christian organizations and secular organizations that come together. But you also have the left that gets in there, too. There are people who are socialist and Marxist and feminist at the march."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        },
+        {
+          "category": "LBJ",
+          "tag": "Protest and Social Unrest"
+        },
+        {
+          "category": "LBJ",
+          "tag": "Civil Rights"
+        }
+      ],
+      "uuid": "061039ef-daab-44d5-b9d9-74c777d9fde4"
+    },
+    {
+      "start_time": 1368,
+      "end_time": 1393,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so the march is really extraordinary in showing a kind of solidarity publicly in front of a global audience, including the Kennedys. The Kennedys invite the march leaders to the White House afterwards and they spend 75 minutes there. And what's so extraordinary about the March on Washington is that it's a generational march."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        },
+        {
+          "category": "LBJ",
+          "tag": "Civil Rights"
+        }
+      ],
+      "uuid": "e73f2633-8e17-44d1-894f-1c37f9d328bd"
+    },
+    {
+      "start_time": 1393,
+      "end_time": 1426,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We see A. Philip Randolph, who is 74 years old and the head of the Brotherhood of Sleeping Car Porters, is the titular head of that march. We see Bayard Rustin, who is his lieutenant, former member of the Young Communist League, a socialist, a socialist and a social democrat who spends years in prison in Louisbourg as a conscientious objector, around the same time that Elijah Muhammad is in prison as a conscientious objector."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        }
+      ],
+      "uuid": "517c3496-4514-4b66-975f-208fecc89c13"
+    },
+    {
+      "start_time": 1426,
+      "end_time": 1451,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You see all these different stories coming together. Ossie Davis, who's a friend of Malcolm X's, is the master of ceremonies. And we, of course, remember Martin Luther King Jr.'s speech. And it's a 17 minute speech. We remember it as I have a dream speech. But he begins that speech with the words, now is the time to make real the promise of democracy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        }
+      ],
+      "uuid": "276f27d4-564a-43c8-b4a2-563b55d46625"
+    },
+    {
+      "start_time": 1451,
+      "end_time": 1465,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And in that speech, he talks about reparations. He says, we come here to cash a check, a check that has been stamped insufficient funds, but we refuse to believe that the Bank of American Justice is bankrupt. So it's an extraordinary day."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        },
+        {
+          "category": "LBJ",
+          "tag": "Civil Rights"
+        }
+      ],
+      "uuid": "742e2819-64e3-4a67-a913-adcbe1627c96"
+    },
+    {
+      "start_time": 1465,
+      "end_time": 1485,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I want us to remember the electricity that's in the air that day, but that entire year. And in Freedom Season, I have John F. Kennedy telling his favorite White House staffer, who's part of his personal staff, his butler, Bruce, how he wishes he could be out there."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        }
+      ],
+      "uuid": "d933bc79-62de-4aff-b26a-f327dbaee906"
+    },
+    {
+      "start_time": 1485,
+      "end_time": 1495,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "John F. Kennedy is telling the activists after they come in and these leaders, you know, that he's proud of them. LBJ is there as well."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        }
+      ],
+      "uuid": "c09d3cf5-9ffa-4af3-b2f5-69258739f107"
+    },
+    {
+      "start_time": 1495,
+      "end_time": 1530,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So it's really an extraordinary day and moment, not just for the movement, but for really the idea of multiracial democracy in that sense. And that's important because it's a real high point that year because, Zachary, by the time Birmingham happens, the second act of Birmingham, which is the 16th Street Baptist Church bombing on September 15th. And there's four girls who are murdered that day."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        },
+        {
+          "category": "LBJ",
+          "tag": "Civil Rights"
+        }
+      ],
+      "uuid": "99ea68c6-f8e8-4588-946d-0fe12fc2a446"
+    },
+    {
+      "start_time": 1530,
+      "end_time": 1546,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And their names are Carol Robertson, Addie Mae Collins and Cynthia Wesley, who are all 14 years old. And then Denise McNair, who's just 11, are all killed in that blast. And two other Black children are also killed that day."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        }
+      ],
+      "uuid": "6eba7bf9-5b4b-4d48-bcab-fa9ceca28ea3"
+    },
+    {
+      "start_time": 1546,
+      "end_time": 1571,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One is a 13-year-old who's riding his bike named Virgil Peanut Ware, who was shot by two white Eagle Scouts who tell the police and the authorities later that they wanted to see what would happen if they shot a Negro. And he's shot and murdered. One of the boys serves six months in juvenile detention and is released, and the other boy is let go and released."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        }
+      ],
+      "uuid": "05892e14-dbff-4d63-b5b6-d54f4397aaa7"
+    },
+    {
+      "start_time": 1571,
+      "end_time": 1611,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And there's a 20-year-old, Johnny Robinson, who's shot and killed in the back by Birmingham police in the aftermath of a melee where people are protesting against the bombing that has just happened at the 16th Street Baptist Church. So those six deaths really impact James Baldwin. And I show, as we continue the narrative, how Baldwin is leading demonstrations and efforts at a Christmas boycott and a real searing critique of what kind of country are we that allows these six children to die."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        },
+        {
+          "category": "LBJ",
+          "tag": "Protest and Social Unrest"
+        }
+      ],
+      "uuid": "869c57bd-5f18-4af8-8872-1a86bcebd681"
+    },
+    {
+      "start_time": 1611,
+      "end_time": 1628,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And, you know, John F. Kennedy doesn't go to any of the funerals. And he's implored by Martin Luther King, Jr. in the White House to attend. And we have the tapes and he doesn't go to the funerals. So it's really an extraordinarily disappointing moment as well. Right."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        }
+      ],
+      "uuid": "4a743fca-3d47-4378-8bb5-d7bd0d7dfb49"
+    },
+    {
+      "start_time": 1628,
+      "end_time": 1671,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so the interregnum between the 16th Street Baptist church bombing, September 15th, and the Kennedy assassination, November 22nd, you see folks like James Baldwin who are getting a lot angrier and a lot more bitter about, and realizing what the stakes are, right? Real, real criticism. And so by the time of the Kennedy assassination, the Kennedy assassination provides a context for mourning, but it also provides the context to, and Merle Evers does this, James Baldwin King does it too, is to place Kennedy as one of the martyrs, like the martyrs of this movement."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        }
+      ],
+      "uuid": "49d19f50-3df1-40ab-be6d-4275764aa8de"
+    },
+    {
+      "start_time": 1675,
+      "end_time": 1728,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So it's, and Baldwin says this at Howard University, November 30th, 1963, he says, we mourned separately the deaths of Medgar Evers and the children of Birmingham, and now we're collectively mourning JFK because Black Americans were bereft at the Kennedy assassination because they were his most enthusiastic supporters as that administration went on. So it becomes really interesting. JFK becomes part and the most well-known martyr of America's second reconstruction, but for much of the year, it doesn't seem as if we're ever going to mourn collectively any of the fallen heroes in this struggle for citizenship and dignity."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        },
+        {
+          "category": "LBJ",
+          "tag": "Civil Rights"
+        }
+      ],
+      "uuid": "7badda20-66c9-4316-8e46-026c4f0e97a1"
+    },
+    {
+      "start_time": 1728,
+      "end_time": 1776,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Peniel, at the end of your wonderful book, you connect, of course, the moment you've just described to the rise of Lyndon Johnson and how in this terrible, violent, chaotic moment, Lyndon Johnson, who was a largely ignored vice president by the Kennedys, comes into office and is able to create, as you say, a more powerful bully pulpit than any president had really had before, at least not in recent memory. And is the progress that's made, particularly in 64 and 65, the Civil Rights Act of 64, the Voting Rights Act of 65, where so many of us focus our attention, was that a necessary outcome of Kennedy's death? Would another vice president ascending to the presidency have done the same thing, or was there something particular about Lyndon Johnson?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Jeremi Suri"
+        },
+        {
+          "category": "LBJ",
+          "tag": "Civil Rights"
+        },
+        {
+          "category": "LBJ",
+          "tag": "Presidency"
+        }
+      ],
+      "uuid": "6b424eaa-5a1b-4891-9522-91345aa0c07a"
+    },
+    {
+      "start_time": 1776,
+      "end_time": 1804,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, I think that Lyndon Johnson is really the right person who steps into history at that moment. I don't know if another vice president would have been able to take command in the same way. I think that trying to make Kennedy's assassination and his death, trying to leverage that for the passage of legislation, I think most people would have tried to do."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        },
+        {
+          "category": "LBJ",
+          "tag": "Presidency"
+        }
+      ],
+      "uuid": "2d59b815-fbd1-456d-bb78-7aa17cb09a55"
+    },
+    {
+      "start_time": 1804,
+      "end_time": 1835,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I think it's important for us to remember in the context of the time of 63, 64, 65, LBJ needs Black votes where he can get them. And we're thinking about states like New York, New Jersey, Pennsylvania, Ohio, Illinois, and of course, not the South. And he needs to hold on to a coalition that now has venerated the slain President Kennedy, and who's now this very, very iconic figure."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        },
+        {
+          "category": "LBJ",
+          "tag": "Presidency"
+        }
+      ],
+      "uuid": "ea0b6f17-df17-4d4d-8aa4-0320d29d9ec2"
+    },
+    {
+      "start_time": 1835,
+      "end_time": 1851,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So in a lot of ways, being pro-civil rights was also pragmatic. There was no way to hold on to that coalition through cautious deliberation in the immediate aftermath of the president's assassination. So his instincts are correct."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        },
+        {
+          "category": "LBJ",
+          "tag": "Civil Rights"
+        }
+      ],
+      "uuid": "6cbb7664-db17-478c-9d51-65a93b7a3e85"
+    },
+    {
+      "start_time": 1851,
+      "end_time": 1872,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "LBJ had great instincts. And I think what's interesting about LBJ in 63 is that even months before the assassination with his Gettysburg address, his Tufts University commencement speech, him receiving an award by the National Association of Black or Negro Journalists. They're giving him an award."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        },
+        {
+          "category": "LBJ",
+          "tag": "Civil Rights"
+        }
+      ],
+      "uuid": "ee02b7ae-db20-4d22-9bbf-641154c65e7a"
+    },
+    {
+      "start_time": 1872,
+      "end_time": 1927,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "LBJ had really, really stepped up on civil rights in very public ways, to the point where he became at least a part of some of the Kennedy private deliberations on civil rights, and was speaking to Ted Sorensen. The tension with Bobby Kennedy is always there, and with the assassination only amplifies. But he's in the White House on June 22nd, when Dr. King has both a private meeting with Bobby Kennedy and Burke Marshall, and then the very famous private walk through the Rose Garden with Jack Kennedy, and then being surrounded by the 28 or 30 civil rights leaders. LBJ is there, and he's speaking, and he's upright. He's there when they meet after the March on Washington. But he's also telling Ted Sorensen, and he mentions James Baldwin, that President Kennedy should use the presidency as a bully pulpit."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        },
+        {
+          "category": "LBJ",
+          "tag": "Civil Rights"
+        }
+      ],
+      "uuid": "23520cbe-79bd-4bd4-acbe-f18ea0d411e6"
+    },
+    {
+      "start_time": 1927,
+      "end_time": 1988,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He admires Kennedy's June 11th speech, which I get in depth in, in Freedom Season, in the chapter, Kennedy's Finest Moment, but feels Kennedy should constantly use that bully pulpit. So he was much more willing to use, and much more understanding about the way in which the presidency, in and of itself, it provides a kind of ballast for whatever political situation you're in, because people are really looking towards the president, especially, I think, at this time period, 1963, than Kennedy. So I think Kennedy, and you could see it in hearing some of the White House tapes, Jeremi, with the ADA, Americans for Democratic Action, Kennedy's saying, and Arthur Schlesinger's in the meetings with him, saying, well, FDR's fire chats, he never gave more than four a year, and I don't have FDR's velvet voice."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        },
+        {
+          "category": "LBJ",
+          "tag": "Civil Rights"
+        }
+      ],
+      "uuid": "d7a77163-5edd-4e8e-985e-d11c1d44678b"
+    },
+    {
+      "start_time": 1988,
+      "end_time": 2005,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So there's a kind of lack of confidence that Kennedy has, that really the polling disputes, right? He's a very, very popular president. I mean, really, in 63, at his lowest, I mean, he's still in the 60s, can you imagine, right, in terms of popularity?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        }
+      ],
+      "uuid": "4b761fc2-55f9-45e2-827d-1f2a535b3bb6"
+    },
+    {
+      "start_time": 2005,
+      "end_time": 2024,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And people want to see people want to listen to Kennedy. So there's a kind of underestimation of what he's capable of doing through the bully pulpit in a way that LBJ really embraces in the immediate aftermath of the assassination."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        },
+        {
+          "category": "LBJ",
+          "tag": "Presidency"
+        }
+      ],
+      "uuid": "2ff07352-d301-4010-8de9-2795d2ada579"
+    },
+    {
+      "start_time": 2024,
+      "end_time": 2034,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. One of the things I love about your book, Peniel, is you show a variety of figures, larger than life characters. We've talked about some of them, but certainly not all of them."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "bba533e2-2b14-4ab2-ae56-d02e6b9ad84b"
+    },
+    {
+      "start_time": 2034,
+      "end_time": 2058,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "James Baldwin, the Kennedys, but also Malcolm X, a variety, Medgar Evers, all kinds of figures you touch on. And even though they have a lot of differences, they all one way or another are seeking to grapple with the problem of civil rights. And they're trying in one way or another from their own views to advance the country."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "8971396d-84ec-45bc-8128-b3e364827378"
+    },
+    {
+      "start_time": 2058,
+      "end_time": 2071,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What do we take for today? I mean, this is where we always like to close the podcast. What do we learn for today at a time when our political leaders seem so unwilling to engage these issues?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "198d4aeb-0692-49ce-8be2-370c930df0ad"
+    },
+    {
+      "start_time": 2071,
+      "end_time": 2088,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And even those who care about these issues are afraid to engage these issues. University leaders are afraid to engage these issues. What do we take from this story that's useful for us today as we think about what you called in your prior book, The Third Reconstruction?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Jeremi Suri"
+        }
+      ],
+      "uuid": "d237dccd-1366-468b-bf96-7a25fa11ba88"
+    },
+    {
+      "start_time": 2089,
+      "end_time": 2110,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I think there's three lessons to take from the book, at least three. One is this idea that really becomes universal in 1963, is that America must strive to be a multiracial democracy. And I think you see that throughout the course of the year in 1963."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        }
+      ],
+      "uuid": "aa0ca0cb-35ff-45ed-a86c-0f832d44cd7b"
+    },
+    {
+      "start_time": 2110,
+      "end_time": 2138,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And what's so important is that by 1963, in the aftermath of the March on Washington and the Kennedy assassination, we get a rough consensus by the aftermath of JFK's death, led by Lyndon Baines Johnson, that multiracial democracy has to be the beating heart of the republic. That's very, very important. And I think for at least the next 50 years until the Supreme Court's decision, Shelby v. Holder, 5-4"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        },
+        {
+          "category": "LBJ",
+          "tag": "Civil Rights"
+        }
+      ],
+      "uuid": "66b6bf94-ae9f-457a-8c06-fa0a5c3df148"
+    },
+    {
+      "start_time": 2138,
+      "end_time": 2172,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We had a 50-year racial justice consensus that was imperfect, but provided the most opportunities for historically marginalized groups to have access to building wealth, to becoming elected officials, to being educated at some of the best universities in the country, to being in corporate America, so on and so forth. And that means African Americans, but it also means women. It means South Asians. It means people who are Latino, just the whole gamut, which is extraordinary. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        }
+      ],
+      "uuid": "978a5d0a-0065-4074-8082-5b9584fec725"
+    },
+    {
+      "start_time": 2172,
+      "end_time": 2212,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So I think that idea of multiracial democracy is really important, and the idea of building consensus around that. It's not unanimity. There's going to be disagreement of how we get to it, but consensus around the idea of multiracial democracy. The other lesson is about coalitions and coalition building. So I think throughout freedom season, you see the way in which civil rights leaders from the grassroots all the way to those who could have the privilege of meeting with President Kennedy and Bobby Kennedy and meeting with governors and leaders really were interested in coalitions."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        },
+        {
+          "category": "LBJ",
+          "tag": "Civil Rights"
+        }
+      ],
+      "uuid": "128d6025-1332-4c65-be62-8bffe1a62cb3"
+    },
+    {
+      "start_time": 2212,
+      "end_time": 2238,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They were interested in listening and learning from, but also debating with people who held different views than they did, but they were all interested in good faith advancing the country. So this idea of coalitions is very, very important. And then finally, I would say this idea of ideas and actions mattering."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        }
+      ],
+      "uuid": "b4083471-933f-4413-a3b8-2db612379103"
+    },
+    {
+      "start_time": 2238,
+      "end_time": 2268,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So what's so interesting about 1963 is the way in which words and rhetoric and their ability to persuade people mattered. I think Martin Luther King Jr. is who we always look at, but it's Malcolm X, it's Gloria Richardson, Lorraine Hansberry, and then certainly it's Jimmy Baldwin, where Baldwin's words are so extraordinarily profound. You've got the right wing, the left wing, the middle of the country all trying to grapple with him."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        },
+        {
+          "category": "LBJ",
+          "tag": "Civil Rights"
+        }
+      ],
+      "uuid": "2962817f-5a37-4b2a-b7ad-0ed2da3bd466"
+    },
+    {
+      "start_time": 2268,
+      "end_time": 2328,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "William F. Buckley calls him an eloquent menace, and others say, no, he's this prophetic figure. Izzy Stone, I.F. Stone says he speaks with the passion of a Hebrew prophet. And so ideas matter, words and rhetoric matter, and I think we can see that right now in 2025, because I think there was a feeling before our current situation that if you had presidents who rhetorically supported civil rights, that that wasn't enough. And I understand that that isn't enough, but just the act of saying it actually was a much more positive thing for the country than somebody who's saying the exact opposite and belittling people and discriminating against people. So words really matter, and ideas matter, and placing those words and ideas into action matters."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        }
+      ],
+      "uuid": "09f1b9de-29a6-454d-95a6-0a69d47b9ced"
+    },
+    {
+      "start_time": 2328,
+      "end_time": 2368,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So there's an intellectual praxis that happens in 1963 that is massive and national and monumental, and it's really global in scope, because there are students who are part of the Peace Corps and Crossroads who are going into Africa, who are going into Latin America, and those countries are also looking at the United States, and people are trying to walk the talk. They're trying to live up to their social, political, cultural, moral, religious ideals, which is really extraordinary to see. They don't always succeed, but the very fact that in good faith they're trying to live up to those ideas, it's really important to see."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        },
+        {
+          "category": "LBJ",
+          "tag": "Civil Rights"
+        }
+      ],
+      "uuid": "4ab82752-38c6-4b03-8ed8-99ab5d9008dd"
+    },
+    {
+      "start_time": 2368,
+      "end_time": 2413,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And that impacts the kind of civic nationalism that really comes to a high point in 63, really the most important year of America's second Reconstruction, if we look at those years as 1954 to 1968 as the high points, 63 is the turning point, and it takes all those, not just deaths, I mean, there's also these triumphant moments. So I hope it's a hopeful story as well, because I got a lot of hope from being with Baldwin and being with all these folks, and I got a lot of hope from having a presidency and administration that, even with their flaws, really wanted to do the right thing, and at times actually did."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        }
+      ],
+      "uuid": "bdfbfd32-2449-411d-83a8-4a876c17cfd9"
+    },
+    {
+      "start_time": 2413,
+      "end_time": 2442,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, I think you've provided us today with a wonderfully hopeful story, although realistic, one that I think makes the case for 1963 as a critical year, not only in the history of our democracy, but of global democracy, which, of course, is the topic of our podcast every week. The new book is called Freedom Season: How 1963 Transformed America's Civil Rights Revolution. We highly encourage all our listeners to get a copy and read it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Zachary Suri"
+        }
+      ],
+      "uuid": "617a5ade-ecb4-4e92-b6cb-ad2797dfce60"
+    },
+    {
+      "start_time": 2442,
+      "end_time": 2445,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you so much for joining us, Professor Joseph."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Zachary Suri"
+        }
+      ],
+      "uuid": "7a05bfd1-8498-4210-b787-8ab8fe3d88f6"
+    },
+    {
+      "start_time": 2445,
+      "end_time": 2455,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hey, thank you, Zachary. I really enjoyed it. And Jeremi, this is wonderful. And thank you for both of you for the work that you continue to do in these challenging times."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        }
+      ],
+      "uuid": "5a812ca1-9a4f-4b51-b836-c2f493c72a90"
+    },
+    {
+      "start_time": 2455,
+      "end_time": 2463,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, thank you, Jeremi, as well. And thank you to our listeners for joining us for this episode of This Is Democracy. See you next time."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Zachary Suri"
+        }
+      ],
+      "uuid": "4a04895e-72f5-47d0-9c97-68458fc7848c"
+    },
+    {
+      "start_time": 2463,
+      "end_time": 2492,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This podcast is produced by the Liberal Arts ITS Development Studio and the College of Liberal Arts at the University of Texas at Austin. The music in this episode was written and recorded by Scott Holmes. Stay tuned for a new episode every week. You can find This Is Democracy on Apple Podcasts, Spotify, and YouTube. See you next time."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Framing Elements",
+          "tag": "Outro"
+        }
+      ],
+      "uuid": "34d0dee2-84ed-40d3-bb86-fb2c5a003a3e"
+    }
+  ],
+  "set": "Default",
+  "event_id": "8f1b13dc-b0e1-46a2-89b6-b3bc9ce83a8d",
+  "source_id": "c1796eb2-0b2b-44c7-857f-d60294cc8713"
+}
