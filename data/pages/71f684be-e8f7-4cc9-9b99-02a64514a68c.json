@@ -133,8 +133,11 @@
               "text": "The worksheet that accompanies this lesson is featured at the end of this document. (Pages 8-16 and can be\nfound "
             },
             {
-              "text": "here)",
+              "text": "here",
               "link": "https://docs.google.com/document/d/1NVIWgkOljYNta1ephvYQ0CitnbpMYiptNSJhwguhqbo/edit?usp=sharing"
+            },
+            {
+              "text": ")."
             }
           ]
         }
@@ -788,8 +791,17 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Class Instructions:",
+          "text": "",
           "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "Class Instructions:"
         }
       ]
     },
@@ -1039,8 +1051,17 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Class Instructions:",
+          "text": "",
           "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "Class Instructions:"
         }
       ]
     },
@@ -1103,13 +1124,9 @@
         {
           "text": "3d. Hope and the Civil Rights Movement",
           "textSize": "heading-three"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
+        },
         {
+          "bold": true,
           "text": "Class Information (Read to class):"
         }
       ]
@@ -1133,11 +1150,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\n"
-        },
-        {
-          "text": "Poem:",
-          "bold": true
+          "bold": true,
+          "text": "Poem:"
         },
         {
           "text": " "
@@ -1385,15 +1399,15 @@
       ]
     }
   ],
-  "title": "Lesson Title: Civil Rights and Civic Participation",
+  "title": "Lesson Plan: Civil Rights and Civic Participation",
   "autogenerate": {
     "enabled": false,
     "type": "custom"
   },
-  "slug": "lesson-title-civil-rights-and-civic-particip",
+  "slug": "lesson-plan-civil-rights-and-civic-participa",
   "created_at": "2026-06-23T17:22:28.805Z",
   "created_by": "raymondhyser",
-  "updated_at": "2026-06-23T19:00:49.612Z",
+  "updated_at": "2026-06-23T19:10:46.429Z",
   "updated_by": "raymondhyser",
   "parent": "ae40d69e-8e58-4b7a-af92-67c354120302"
 }
