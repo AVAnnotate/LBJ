@@ -1125,7 +1125,15 @@
           "italic": true
         },
         {
-          "text": "\n\n"
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
         },
         {
           "text": "Poem:",
@@ -1348,6 +1356,14 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "\nAs you complete your organizer, include specific examples, individuals, goals, challenges, and outcomes discussed throughout today's lesson."
         }
       ]
@@ -1377,7 +1393,7 @@
   "slug": "lesson-title-civil-rights-and-civic-particip",
   "created_at": "2026-06-23T17:22:28.805Z",
   "created_by": "raymondhyser",
-  "updated_at": "2026-06-23T18:56:25.069Z",
+  "updated_at": "2026-06-23T19:00:49.612Z",
   "updated_by": "raymondhyser",
   "parent": "ae40d69e-8e58-4b7a-af92-67c354120302"
 }
