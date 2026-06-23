@@ -843,6 +843,14 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "horizontal-separator",
       "children": [
         {
@@ -856,14 +864,17 @@
         {
           "text": "3b. Education and Opportunity During Segregation",
           "textSize": "heading-three"
-        },
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
           "text": "Note: ",
-          "italic": true,
           "bold": true
         },
         {
-          "italic": true,
           "text": "There are two optional activities below. Teachers may choose either the discussion questions or the visual organizer activity based on the needs of their classroom."
         }
       ]
@@ -880,7 +891,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Class Information (Read to class):",
+          "text": "Class information (Read to class):",
           "bold": true
         }
       ]
@@ -891,9 +902,32 @@
         {
           "text": "Education played an important role in the Civil Rights Movement. Access to education created new opportunities for African Americans to participate in public life, pursue leadership positions, challenge discrimination, and advocate for social and political change.",
           "italic": true
-        },
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "text": "\n\nThe speaker is Dr. Ruth Simmons, a scholar and university president who grew up in Texas during segregation. After earning her Ph.D. from Harvard University, she taught at several major universities and later served as President of Brown University and Prairie View A&M University. In this clip, she discusses the role education played in her life during the Civil Rights era."
+          "text": "",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The speaker is Dr. Ruth Simmons, a scholar and university president who grew up in Texas during segregation. After earning her Ph.D. from Harvard University she taught at several major universities and later served as President of Brown University and Prairie View A&M University. In this clip, she discussed the role education played in her life during the Civil Rights era.",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -918,8 +952,17 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Class Instructions:",
+          "text": "",
           "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "Class Instructions:"
         }
       ]
     },
@@ -938,7 +981,7 @@
           "type": "list-item",
           "children": [
             {
-              "text": "According to Dr. Simmons, how did education shape her opportunities during segregation?"
+              "text": "According to Dr. Simmonds, how did education shape her opportunities during segregation?"
             }
           ]
         },
@@ -1407,7 +1450,7 @@
   "slug": "lesson-plan-civil-rights-and-civic-participa",
   "created_at": "2026-06-23T17:22:28.805Z",
   "created_by": "raymondhyser",
-  "updated_at": "2026-06-23T19:10:46.429Z",
+  "updated_at": "2026-06-23T19:30:50.530Z",
   "updated_by": "raymondhyser",
   "parent": "ae40d69e-8e58-4b7a-af92-67c354120302"
 }
