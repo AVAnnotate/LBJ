@@ -1364,14 +1364,13 @@
     }
   ],
   "title": "Lesson Title: Civil Rights and Civic Participation",
-  "parent": "ae40d69e-8e58-4b7a-af92-67c354120302",
   "autogenerate": {
     "enabled": false,
-    "type": "custom"
+    "type": "home"
   },
   "slug": "lesson-title-civil-rights-and-civic-particip",
   "created_at": "2026-06-23T17:22:28.805Z",
   "created_by": "raymondhyser",
-  "updated_at": "2026-06-23T18:30:06.186Z",
+  "updated_at": "2026-06-23T18:38:49.203Z",
   "updated_by": "raymondhyser"
 }
