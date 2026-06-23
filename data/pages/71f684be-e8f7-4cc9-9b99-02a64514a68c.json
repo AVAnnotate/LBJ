@@ -4,8 +4,17 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Lesson Objective:",
+          "text": "",
           "textSize": "heading-two"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-two",
+          "text": "Lesson Objective:"
         }
       ]
     },
@@ -102,6 +111,15 @@
         {
           "text": "Guide",
           "textSize": "heading-two"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-two",
+          "text": ""
         }
       ]
     },
@@ -1371,7 +1389,7 @@
   "slug": "lesson-title-civil-rights-and-civic-particip",
   "created_at": "2026-06-23T17:22:28.805Z",
   "created_by": "raymondhyser",
-  "updated_at": "2026-06-23T18:39:11.248Z",
+  "updated_at": "2026-06-23T18:39:44.177Z",
   "updated_by": "raymondhyser",
   "parent": "ae40d69e-8e58-4b7a-af92-67c354120302"
 }
