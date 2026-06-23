@@ -1,0 +1,1078 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Lesson Title: Civil Rights and Civic Participation",
+          "textSize": "heading-one"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "underline": true,
+          "textSize": "heading-one",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Lesson Objective:",
+          "textSize": "heading-two"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This lesson will examine the barriers that limited African American participation in American democracy, the efforts undertaken to expand access to voting and civic participation, and the experiences of African Americans during the Civil Rights Movement."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Assessment Criteria:",
+          "textSize": "heading-two"
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Define key Civil Rights Movement vocabulary."
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Explain barriers that limited African American participation in the democratic process."
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Describe methods used to expand African American participation in American democracy."
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Use evidence from lesson materials to describe the experiences of African Americans during the Civil Rights Movement. "
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Analyze and reflect on themes presented in "
+            },
+            {
+              "text": "Letter from Birmingham Jail",
+              "italic": true
+            },
+            {
+              "text": " or "
+            },
+            {
+              "text": "If the Leaves Could Speak",
+              "italic": true
+            },
+            {
+              "text": "."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        },
+        {
+          "text": "Guide",
+          "textSize": "heading-two"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Teacher instructions and Class Instructions are marked as such;"
+        },
+        {
+          "text": " all prompts for Teachers are additionally in italics.",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "The worksheet that accompanies this lesson is featured at the end of this document. (Pages 8-16 and can be\nfound "
+            },
+            {
+              "text": "here)",
+              "link": "https://docs.google.com/document/d/1NVIWgkOljYNta1ephvYQ0CitnbpMYiptNSJhwguhqbo/edit?usp=sharing"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "All subsections can be implemented at the instructor's discretion, time permitting.",
+          "bold": true,
+          "underline": true
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "1. Warm-Up (~15 minutes), Louisiana's Literacy Test and Introduction",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Teacher Instructions:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "numbered-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Provide students with the Louisiana Literacy Test (included on the worksheet or here: ",
+              "italic": true
+            },
+            {
+              "text": "https://sharetngov.tnsosfiles.com/tsla/exhibits/aale/pdfs/Voter%20Test%20LA.pdf",
+              "link": "https://sharetngov.tnsosfiles.com/tsla/exhibits/aale/pdfs/Voter%20Test%20LA.pdf"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Read ",
+              "italic": true
+            },
+            {
+              "text": "Class Information (A)",
+              "bold": true,
+              "italic": true
+            },
+            {
+              "text": " to frame the historical purpose of the test before students begin.",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Give students 10 minutes to complete the exam independently. ",
+              "italic": true
+            },
+            {
+              "text": "Optional:",
+              "underline": true,
+              "bold": true,
+              "italic": true
+            },
+            {
+              "text": " While students work, complete the exam yourself and create an \"answer key\" based on your own interpretation. Because the questions are intentionally ambiguous, there is no single correct set of answers.",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "After the examination, review student responses as a class. ",
+              "italic": true
+            },
+            {
+              "text": "Optional:",
+              "bold": true,
+              "underline": true,
+              "italic": true
+            },
+            {
+              "text": " Compare student responses against your own answer key to demonstrate how literacy tests could be graded differently depending on the examiner.",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Conclude by reading ",
+              "italic": true
+            },
+            {
+              "text": "Class Information (B)",
+              "bold": true,
+              "italic": true
+            },
+            {
+              "text": " and discussing how the ambiguity of literacy tests allowed election officials to restrict voting rights.",
+              "italic": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "A. Class Information (Read to class):",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "During the Civil Rights Movement, one of the primary barriers to African American participation in democracy was the use of literacy tests. Although the 15th Amendment prohibited denying citizens the right to vote on the basis of race, many Southern states developed alternative methods to restrict African American voting.",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "italic": true,
+          "text": "Literacy tests became particularly common after the end of Reconstruction. Because educational opportunities were often unequal, these tests disproportionately affected African Americans. Election officials also possessed considerable discretion in determining who passed and who failed, resulting in unequal treatment of Black and white voters."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "italic": true,
+          "text": "The examination you are about to take is based upon a literacy test used in Louisiana during the 1960s."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "italic": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Class Instructions:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "You will have 10 minutes to complete this exam."
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "After the exam, we will compare our results to the answer key."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "B. Class Information:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The literacy test you have just completed was intentionally difficult and often lacked clear or objective answers. This ambiguity allowed election officials significant discretion in determining who passed and who failed.",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "italic": true,
+          "text": "For example, one question instructed test-takers to \"circle\" an item, while another instructed them to \"draw a line around\" an item. An examiner could decide that a circle was not the same as a line and mark an otherwise correct response as incorrect. In many cases, the rules were applied differently depending on who was taking the test."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "italic": true,
+          "text": "As a result, literacy tests became an effective tool for restricting African American access to the ballot box. Throughout the Civil Rights Movement, activists challenged these restrictions through legal action, voter registration campaigns, community organizing, and public advocacy."
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "2. Vocabulary Preview (5 minutes)",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Teacher Instructions:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "numbered-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Give students 5 minutes to define the terms independently using their existing knowledge."
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Have students compare their responses with a partner or small group."
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Poll the class to determine which terms students already understand and which require additional clarification."
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "If necessary, review and explain unfamiliar terms before proceeding."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Note:",
+          "bold": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Definitions are provided below for instructor reference.",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "NAACP:",
+              "bold": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "The National Association for the Advancement of Colored\nPeople, a civil rights organization dedicated to securing political,\neducational, social, and economic equality and eliminating racial\ndiscrimination.",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "The Voting Rights Act of 1965:",
+              "bold": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "Federal legislation designed to enforce the 15th Amendment by\nprohibiting literacy tests and other discriminatory voting practices that had\nbeen used to prevent African Americans from voting.",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Civic participation:",
+              "bold": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "Actions taken by individuals or groups to address public issues and\ncontribute to community life. Civic participation can include voting, running\nfor office, petitioning, protesting, volunteering, and other forms of public\nengagement.",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Civil rights:",
+              "bold": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "Legal guarantees of equal treatment, protection from government\nencroachment on civil liberties (such as those in the Bill of Rights) and\nprotection from discrimination based on race, color, national-origin, sex, or\nreligion.",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Political education:",
+              "bold": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "Informing individuals on how they can participate in the political\nprocess, the responsibilities associated with such participation, and how the\npolitical process works. ",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Political mobilization: ",
+              "bold": true
+            },
+            {
+              "text": "Encouraging and equipping individuals who are eligible to participate\nin the political process, but are not doing so, to begin participating in the\npolitical process.",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Electoral politics: ",
+              "bold": true
+            },
+            {
+              "text": "Competition between groups and individuals to gain political power\nthrough elections. ",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Political process: ",
+              "bold": true
+            },
+            {
+              "text": "The ways in which individuals, groups, and institutions come together\nto encourage a government action.",
+              "italic": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "3. Focused Podcast Listening (30 minutes total)",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "Teacher instructions:"
+        }
+      ]
+    },
+    {
+      "type": "numbered-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Introduce each podcast clip (or poem) using the speaker biographies and contextual information provided.",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Have students take notes while listening to each clip.",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "After each clip, allow students time to respond to the accompanying questions or activities.",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Responses may be completed individually, in pairs, small groups, or as a whole-class discussion. ",
+              "italic": true
+            },
+            {
+              "italic": true,
+              "text": "Optional:",
+              "bold": true
+            },
+            {
+              "italic": true,
+              "text": " Vary response formats between clips to encourage different forms of participation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "3a. Barbara Jordan and Expanding Political Participation",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Class Information (Read to class):",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Throughout the Civil Rights Movement, African Americans worked to expand participation in American democracy through a variety of methods. Some challenged discriminatory laws through the courts, others sought elected office, and many worked to educate and organize their communities. Together, these efforts helped weaken barriers that had limited African American civic and political participation for decades.",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The speaker is Dr. Mary Ellen Curtin, Professor of History at American University and author of "
+        },
+        {
+          "text": "She Changed the Nation: Barbara Jordan's Life and Legacy in Black Politics.",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "uuid": "dc94c24c-d6d0-4102-9c23-2ba5c16bbf1f",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "start": 387,
+      "end": 535,
+      "file": "c2e4ad03-3ba2-4a73-8ad8-b4f2f876308b",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Class Instructions:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Answer the following questions using evidence from the clip."
+        }
+      ]
+    },
+    {
+      "type": "numbered-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "According to the speaker, what barriers limited African American participation in American democracy?"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "What methods did Barbara Jordan use to expand civic and political participation?"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "How does Barbara Jordan's experience demonstrate the importance of education, public service, or political involvement during the Civil Rights Movement?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "3b. Education and Opportunity During Segregation",
+          "textSize": "heading-three"
+        },
+        {
+          "text": "Note: ",
+          "italic": true,
+          "bold": true
+        },
+        {
+          "italic": true,
+          "text": "There are two optional activities below. Teachers may choose either the discussion questions or the visual organizer activity based on the needs of their classroom."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Class Information (Read to class):",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Education played an important role in the Civil Rights Movement. Access to education created new opportunities for African Americans to participate in public life, pursue leadership positions, challenge discrimination, and advocate for social and political change.",
+          "italic": true
+        },
+        {
+          "text": "\n\nThe speaker is Dr. Ruth Simmons, a scholar and university president who grew up in Texas during segregation. After earning her Ph.D. from Harvard University, she taught at several major universities and later served as President of Brown University and Prairie View A&M University. In this clip, she discusses the role education played in her life during the Civil Rights era."
+        }
+      ]
+    },
+    {
+      "uuid": "1376d462-deaf-4165-85f4-2f521e9fe81c",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "start": 805,
+      "end": 897,
+      "file": "9ec1701a-7d5e-4f6b-9b6b-319e55716b93",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Class Instructions:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Answer the following questions using evidence from the clip."
+        }
+      ]
+    },
+    {
+      "type": "numbered-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "According to Dr. Simmons, how did education shape her opportunities during segregation?"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "What challenges to educational opportunity does Dr. Simmons describe?"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Why might education be considered an important tool for expanding participation in American democracy?"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "How does Dr. Simmonds' experience demonstrate the importance of education during the Civil Rights Movement?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "3c. Civic Participation and the Civil Rights Movement",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Class Information (Read to class):",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "italic": true,
+          "text": "The Civil Rights Movement depended not only upon court cases, legislation, and political leaders, but also upon the participation of ordinary citizens. Activists encouraged Americans to become informed about injustice, engage with their communities, and take action to promote social and political change."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "italic": true,
+          "text": "One of the most influential statements of these ideas came from Dr. Martin Luther King Jr.'s “Letter from Birmingham Jail”, written while he was imprisoned in Birmingham, Alabama in 1963. In the letter, King argued that individuals have a responsibility to respond to injustice, even when it occurs beyond their immediate communities."
+        }
+      ]
+    },
+    {
+      "uuid": "8f1b13dc-b0e1-46a2-89b6-b3bc9ce83a8d",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "start": 110,
+      "end": 146,
+      "file": "c1796eb2-0b2b-44c7-857f-d60294cc8713",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Class Instructions:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Answer the following questions using evidence from the clip."
+        }
+      ]
+    },
+    {
+      "type": "numbered-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "\n\n"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "title": "Lesson Title: Civil Rights and Civic Participation",
+  "parent": "ae40d69e-8e58-4b7a-af92-67c354120302",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "lesson-title-civil-rights-and-civic-particip",
+  "created_at": "2026-06-23T17:22:28.805Z",
+  "created_by": "raymondhyser",
+  "updated_at": "2026-06-23T17:22:28.805Z",
+  "updated_by": "raymondhyser"
+}
