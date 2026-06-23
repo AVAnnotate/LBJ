@@ -1057,9 +1057,73 @@
           "type": "list-item",
           "children": [
             {
-              "text": "\n\n"
+              "text": "According to Dr. King, why should people care about injustice occurring outside of their own communities?"
             }
           ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "How does Dr. King's argument connect to the idea of civic participation?"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "What responsibilities does Dr. King suggest citizens have in a democratic society?"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "How does this clip connect to the efforts of Civil Rights activists discussed earlier in the lesson?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "3d. Hope and the Civil Rights Movement",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Class Information (Read to class):"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        },
+        {
+          "text": "Throughout the Civil Rights Movement, activists faced significant obstacles to political participation, educational opportunity, and social equality. Despite these challenges, many remained committed to the belief that change was possible. As you read the following poem, consider how its themes connect to the people, ideas, and experiences discussed throughout today's lesson. ",
+          "italic": true
+        },
+        {
+          "text": "\n\n\n\n\n\n"
         }
       ]
     }
@@ -1073,6 +1137,6 @@
   "slug": "lesson-title-civil-rights-and-civic-particip",
   "created_at": "2026-06-23T17:22:28.805Z",
   "created_by": "raymondhyser",
-  "updated_at": "2026-06-23T17:22:28.805Z",
+  "updated_at": "2026-06-23T17:30:26.026Z",
   "updated_by": "raymondhyser"
 }
