@@ -1123,7 +1123,238 @@
           "italic": true
         },
         {
-          "text": "\n\n\n\n\n\n"
+          "text": "\n\n"
+        },
+        {
+          "text": "Poem:",
+          "bold": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "If Leaves Could Speak",
+          "italic": true
+        },
+        {
+          "text": " by Zachary Suri"
+        }
+      ]
+    },
+    {
+      "uuid": "1376d462-deaf-4165-85f4-2f521e9fe81c",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "start": 165,
+      "end": 243,
+      "file": "9ec1701a-7d5e-4f6b-9b6b-319e55716b93",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Class Instructions:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Read the poem and answer the following questions:"
+        }
+      ]
+    },
+    {
+      "type": "numbered-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "How does the poem portray hope in the face of hardship?"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "What connections can you identify between the poem and the experiences described in today's podcast clips?"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Which individual discussed in today's lesson does the poem remind you of most? Why?"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "How might the poem help us better understand the goals of the Civil Rights Movement?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "4. Exit Activity (5-10 minutes): Visual Organizer",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Teacher Instructions:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "numbered-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Have students complete a visual organizer comparing the methods used by Civil Rights activists to expand African American participation in American democracy.",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Students may use one of the organizers provided on the worksheet or create their own organizer (Venn diagram, chart, mind map, or similar format)",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Remind students to draw upon evidence from the literacy test activity, podcast clips, class discussions, and other lesson materials.",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Encourage students to include specific examples, individuals, goals, challenges, and outcomes discussed throughout the lesson.",
+              "italic": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Class Instructions:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Create a visual organizer comparing the different methods used by Civil Rights activists to expand African American participation in American democracy:"
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Legal Action"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Civic Participation"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Education"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "You may use one of the organizers provided on the worksheet or create your own visual organizer."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\nAs you complete your organizer, include specific examples, individuals, goals, challenges, and outcomes discussed throughout today's lesson."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Your organizer should demonstrate both the differences between these methods and the ways they worked together to advance the goals of the Civil Rights Movement.\n"
         }
       ]
     }
@@ -1137,6 +1368,6 @@
   "slug": "lesson-title-civil-rights-and-civic-particip",
   "created_at": "2026-06-23T17:22:28.805Z",
   "created_by": "raymondhyser",
-  "updated_at": "2026-06-23T17:30:26.026Z",
+  "updated_at": "2026-06-23T17:42:46.010Z",
   "updated_by": "raymondhyser"
 }
