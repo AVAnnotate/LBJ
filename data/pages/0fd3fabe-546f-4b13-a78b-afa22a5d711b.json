@@ -449,43 +449,38 @@
       ]
     },
     {
-      "type": "numbered-list",
+      "type": "paragraph",
       "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Give students 5 minutes to define the terms independently using their existing knowledge.",
-              "italic": true
-            }
-          ]
-        },
+          "text": "1.\tGive students 5 minutes to define the terms independently using their existing knowledge.",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Have students compare their responses with a partner or small group.",
-              "italic": true
-            }
-          ]
-        },
+          "italic": true,
+          "text": "2.\tHave students compare their responses with a partner or small group."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Poll the class to determine which terms students already understand and which require additional clarification.",
-              "italic": true
-            }
-          ]
-        },
+          "italic": true,
+          "text": "3.\tPoll the class to determine which terms students already understand and which require additional clarification."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "If necessary, review and explain unfamiliar terms before proceeding.",
-              "italic": true
-            }
-          ]
+          "italic": true,
+          "text": "4.\tIf necessary, review and explain unfamiliar terms before proceeding."
         }
       ]
     },
@@ -648,43 +643,38 @@
       ]
     },
     {
-      "type": "numbered-list",
+      "type": "paragraph",
       "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Select a, b, and then c (or a variation) ",
-              "italic": true
-            }
-          ]
-        },
+          "text": "1.\tSelect a, b, and then c (or a variation) ",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Introduce each of the following subheadings with the descriptions provided. ",
-              "italic": true
-            }
-          ]
-        },
+          "italic": true,
+          "text": "2.\tIntroduce each of the following subheadings with the descriptions provided. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Before playing clip, introduce the speaker bio. ",
-              "italic": true
-            }
-          ]
-        },
+          "italic": true,
+          "text": "3.\tBefore playing clip, introduce the speaker bio. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "After playing the audio clips, have students write or respond to the class questions. This can be conducted individually through note-taking systems, in pairs, or in groups.",
-              "italic": true
-            }
-          ]
+          "italic": true,
+          "text": "4.\tAfter playing the audio clips, have students write or respond to the class questions. This can be conducted individually through note-taking systems, in pairs, or in groups."
         }
       ]
     },
@@ -850,8 +840,17 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Class Questions:",
+          "text": "",
           "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "Class Questions:"
         }
       ]
     },
@@ -991,8 +990,17 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Class Questions:",
+          "text": "",
           "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "Class Questions:"
         }
       ]
     },
@@ -1199,8 +1207,17 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Class Questions: ",
+          "text": "",
           "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "Class Questions: "
         }
       ]
     },
@@ -1542,6 +1559,6 @@
   "slug": "lesson-plan-protest-and-social-unrest",
   "created_at": "2026-06-24T16:22:54.031Z",
   "created_by": "raymondhyser",
-  "updated_at": "2026-06-24T16:22:54.031Z",
+  "updated_at": "2026-06-24T17:48:54.771Z",
   "updated_by": "raymondhyser"
 }
