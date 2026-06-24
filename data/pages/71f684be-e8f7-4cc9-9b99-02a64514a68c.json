@@ -219,7 +219,12 @@
             {
               "text": "Give students 10 minutes to complete the exam independently. ",
               "italic": true
-            },
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
             {
               "text": "Optional:",
               "underline": true,
@@ -238,7 +243,12 @@
             {
               "text": "After the examination, review student responses as a class. ",
               "italic": true
-            },
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
             {
               "text": "Optional:",
               "bold": true,
@@ -666,52 +676,93 @@
       ]
     },
     {
-      "type": "numbered-list",
+      "type": "paragraph",
       "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Introduce each podcast clip (or poem) using the speaker biographies and contextual information provided.",
-              "italic": true
-            }
-          ]
+          "bold": true,
+          "text": "     "
         },
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Have students take notes while listening to each clip.",
-              "italic": true
-            }
-          ]
+          "text": "1. Introduce each podcast clip (or poem) using the speaker biographies and contextual information provided."
+        }
+      ],
+      "align": "left"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "   "
         },
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "After each clip, allow students time to respond to the accompanying questions or activities.",
-              "italic": true
-            }
-          ]
+          "text": "  2."
         },
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Responses may be completed individually, in pairs, small groups, or as a whole-class discussion. ",
-              "italic": true
-            },
-            {
-              "italic": true,
-              "text": "Optional:",
-              "bold": true
-            },
-            {
-              "italic": true,
-              "text": " Vary response formats between clips to encourage different forms of participation."
-            }
-          ]
+          "bold": true,
+          "text": " "
+        },
+        {
+          "text": "Have students take notes while listening to each clip."
+        }
+      ],
+      "align": "left"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": " "
+        },
+        {
+          "text": "    3."
+        },
+        {
+          "bold": true,
+          "text": " "
+        },
+        {
+          "text": "After each clip, allow students time to respond to the accompanying questions or activities."
+        }
+      ],
+      "align": "left"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "     4."
+        },
+        {
+          "bold": true,
+          "text": " "
+        },
+        {
+          "text": "Responses may be completed individually, in pairs, small groups, or as a whole-class discussion."
+        }
+      ],
+      "align": "left"
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "         "
+        },
+        {
+          "text": "  a. "
+        },
+        {
+          "text": "Optional:",
+          "italic": true,
+          "bold": true
+        },
+        {
+          "italic": true,
+          "text": " Vary response formats between clips to encourage different forms of participation."
         }
       ]
     },
@@ -1450,7 +1501,7 @@
   "slug": "lesson-plan-civil-rights-and-civic-participa",
   "created_at": "2026-06-23T17:22:28.805Z",
   "created_by": "raymondhyser",
-  "updated_at": "2026-06-23T19:30:50.530Z",
+  "updated_at": "2026-06-24T00:05:06.009Z",
   "updated_by": "raymondhyser",
   "parent": "ae40d69e-8e58-4b7a-af92-67c354120302"
 }
