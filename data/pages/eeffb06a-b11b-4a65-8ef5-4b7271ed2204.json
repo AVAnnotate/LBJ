@@ -817,8 +817,17 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Class Questions:",
+          "text": "",
           "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "Class Questions:"
         }
       ]
     },
@@ -976,8 +985,17 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Class Questions:",
+          "text": "",
           "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "Class Questions:"
         }
       ]
     },
@@ -1102,8 +1120,17 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Class Questions:",
+          "text": "",
           "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "Class Questions:"
         }
       ]
     },
@@ -1330,8 +1357,17 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Class Questions:",
+          "text": "",
           "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "Class Questions:"
         }
       ]
     },
@@ -1814,6 +1850,6 @@
   "slug": "lesson-plan-the-cold-war",
   "created_at": "2026-06-24T05:28:48.788Z",
   "created_by": "raymondhyser",
-  "updated_at": "2026-06-24T15:16:14.945Z",
+  "updated_at": "2026-06-24T17:52:47.511Z",
   "updated_by": "raymondhyser"
 }
