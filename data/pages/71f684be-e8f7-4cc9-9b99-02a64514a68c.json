@@ -349,7 +349,7 @@
       "children": [
         {
           "italic": true,
-          "text": "The examination you are about to take is based upon a literacy test used in Louisiana during the 1960s."
+          "text": "The examination you are about to take is based on a literacy test used in Louisiana during the 1960s."
         }
       ]
     },
@@ -378,7 +378,7 @@
           "type": "list-item",
           "children": [
             {
-              "text": "You will have 10 minutes to complete this exam."
+              "text": "You will have 10 minutes to complete this test."
             }
           ]
         },
@@ -386,7 +386,7 @@
           "type": "list-item",
           "children": [
             {
-              "text": "After the exam, we will compare our results to the answer key."
+              "text": "After the test, we will compare our results to the answer key."
             }
           ]
         }
@@ -1555,7 +1555,7 @@
   "slug": "lesson-plan-civil-rights-and-civic-participa",
   "created_at": "2026-06-23T17:22:28.805Z",
   "created_by": "raymondhyser",
-  "updated_at": "2026-06-24T00:33:26.261Z",
+  "updated_at": "2026-06-24T04:46:42.465Z",
   "updated_by": "raymondhyser",
   "parent": "ae40d69e-8e58-4b7a-af92-67c354120302"
 }
