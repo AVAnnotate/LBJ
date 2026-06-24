@@ -189,104 +189,103 @@
       ]
     },
     {
-      "type": "numbered-list",
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "1."
+        },
+        {
+          "italic": true,
+          "text": "\tProvide students with the Louisiana Literacy Test (included on the worksheet or here: "
+        },
+        {
+          "text": "https://sharetngov.tnsosfiles.com/tsla/exhibits/aale/pdfs/Voter%20Test%20LA.pdf",
+          "link": "https://sharetngov.tnsosfiles.com/tsla/exhibits/aale/pdfs/Voter%20Test%20LA.pdf"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "2."
+        },
+        {
+          "italic": true,
+          "text": "\tRead Class Information (A) to frame the historical purpose of the test before students begin."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "3."
+        },
+        {
+          "italic": true,
+          "text": "\tGive students 10 minutes to complete the exam independently."
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
       "children": [
         {
           "type": "list-item",
           "children": [
             {
-              "text": "Provide students with the Louisiana Literacy Test (included on the worksheet or here: ",
-              "italic": true
-            },
-            {
-              "text": "https://sharetngov.tnsosfiles.com/tsla/exhibits/aale/pdfs/Voter%20Test%20LA.pdf",
-              "link": "https://sharetngov.tnsosfiles.com/tsla/exhibits/aale/pdfs/Voter%20Test%20LA.pdf"
+              "italic": true,
+              "text": "Optional: While students work, complete the exam yourself and create an “answer key” based on your own interpretation. Because the questions are intentionally ambiguous, there is no single correct set of answers."
             }
           ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "4."
         },
+        {
+          "italic": true,
+          "text": "\tAfter the examination, review student responses as a class."
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
         {
           "type": "list-item",
           "children": [
             {
-              "text": "Read ",
-              "italic": true
-            },
-            {
-              "text": "Class Information (A)",
-              "bold": true,
-              "italic": true
-            },
-            {
-              "text": " to frame the historical purpose of the test before students begin.",
-              "italic": true
+              "italic": true,
+              "text": "Optional: Compare student responses against your own answer key to demonstrate how literacy tests could be graded differently depending on the examiner."
             }
           ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "5."
         },
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Give students 10 minutes to complete the exam independently. ",
-              "italic": true
-            }
-          ]
-        },
-        {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Optional:",
-              "underline": true,
-              "bold": true,
-              "italic": true
-            },
-            {
-              "text": " While students work, complete the exam yourself and create an \"answer key\" based on your own interpretation. Because the questions are intentionally ambiguous, there is no single correct set of answers.",
-              "italic": true
-            }
-          ]
-        },
-        {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "After the examination, review student responses as a class. ",
-              "italic": true
-            }
-          ]
-        },
-        {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Optional:",
-              "bold": true,
-              "underline": true,
-              "italic": true
-            },
-            {
-              "text": " Compare student responses against your own answer key to demonstrate how literacy tests could be graded differently depending on the examiner.",
-              "italic": true
-            }
-          ]
-        },
-        {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Conclude by reading ",
-              "italic": true
-            },
-            {
-              "text": "Class Information (B)",
-              "bold": true,
-              "italic": true
-            },
-            {
-              "text": " and discussing how the ambiguity of literacy tests allowed election officials to restrict voting rights.",
-              "italic": true
-            }
-          ]
+          "italic": true,
+          "text": "\tConclude by reading Class Information (B) and discussing how the ambiguity of literacy tests allowed election officials to restrict voting rights."
         }
       ]
     },
@@ -760,43 +759,63 @@
       ]
     },
     {
-      "type": "numbered-list",
+      "type": "paragraph",
+      "align": "left",
       "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Introduce each podcast clip (or poem) using the speaker biographies and contextual information provided."
-            }
-          ],
-          "align": "left"
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": "1.\t"
         },
         {
-          "type": "list-item",
-          "align": "left",
-          "children": [
-            {
-              "text": "Have students take notes while listening to each clip."
-            }
-          ]
+          "text": "Introduce each podcast clip (or poem) using the speaker biographies and contextual information provided.",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": "2.\t"
         },
         {
-          "type": "list-item",
-          "align": "left",
-          "children": [
-            {
-              "text": "After each clip, allow students time to respond to the accompanying questions or activities."
-            }
-          ]
+          "text": "Have students take notes while listening to each clip.",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": "3.\t"
         },
         {
-          "type": "list-item",
-          "align": "left",
-          "children": [
-            {
-              "text": "Responses may be completed individually, in pairs, small groups, or as a whole-class discussion."
-            }
-          ]
+          "text": "After each clip, allow students time to respond to the accompanying questions or activities.",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": "4.\t"
+        },
+        {
+          "text": "Responses may be completed individually, in pairs, small groups, or as a whole-class discussion.",
+          "italic": true
         }
       ]
     },
@@ -1555,7 +1574,7 @@
   "slug": "lesson-plan-civil-rights-and-civic-participa",
   "created_at": "2026-06-23T17:22:28.805Z",
   "created_by": "raymondhyser",
-  "updated_at": "2026-06-24T04:46:42.465Z",
+  "updated_at": "2026-06-24T18:18:36.698Z",
   "updated_by": "raymondhyser",
   "parent": "ae40d69e-8e58-4b7a-af92-67c354120302"
 }
