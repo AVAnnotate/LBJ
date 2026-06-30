@@ -378,47 +378,50 @@
       ]
     },
     {
-      "type": "numbered-list",
+      "type": "paragraph",
       "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "What do you think this song is about? "
-            }
-          ]
-        },
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "What issues or concerns do you think the artist is describing?"
-            }
-          ]
-        },
+          "text": "1.\tWhat do you think this song is about? "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Identify one lyric that stands out to your group. Why did you choose it?"
-            }
-          ]
-        },
+          "text": "2.\tWhat issues or concerns do you think the artist is describing?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "What message do you think the artist is trying to communicate?"
-            }
-          ]
-        },
+          "text": "3.\tIdentify one lyric that stands out to your group. Why did you choose it?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "What questions does this song raise about American society during this period?"
-            }
-          ]
+          "text": "4.\tWhat message do you think the artist is trying to communicate?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "5.\tWhat questions does this song raise about American society during this period?"
         }
       ]
     },
@@ -520,7 +523,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Nonviolence",
+          "text": "Nonviolence:",
           "bold": true
         }
       ]
@@ -529,7 +532,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "o\tA method of protest that seeks to create social or political change without the use of physical force. Nonviolent protest can include marches, boycotts, sit-ins, speeches, and acts of civil disobedience. This approach is closely associated with Martin Luther King Jr. and many participants in the Civil Rights Movement."
+          "text": "A method of protest that seeks to create social or political change without the use of physical force. Nonviolent protest can include marches, boycotts, sit-ins, speeches, and acts of civil disobedience. This approach is closely associated with Martin Luther King Jr. and many participants in the Civil Rights Movement."
         }
       ]
     },
@@ -545,7 +548,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Violence",
+          "text": "Violence:",
           "bold": true
         }
       ]
@@ -554,7 +557,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "o\tThe use of physical force to cause harm or damage. During the 1960s, violence was often associated with responses to protest movements, including clashes between demonstrators and law enforcement. Debates also emerged within some social movements regarding whether violence could be justified in the pursuit of political or social change."
+          "text": "The use of physical force to cause harm or damage. During the 1960s, violence was often associated with responses to protest movements, including clashes between demonstrators and law enforcement. Debates also emerged within some social movements regarding whether violence could be justified in the pursuit of political or social change."
         }
       ]
     },
@@ -570,7 +573,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Organized Labor",
+          "text": "Organized Labor:",
           "bold": true
         }
       ]
@@ -579,7 +582,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "o\tGroups of workers who join together to improve wages, working conditions, and workplace rights. During the Civil Rights Movement, many labor organizations supported efforts to expand civil rights and political participation."
+          "text": "Groups of workers who join together to improve wages, working conditions, and workplace rights. During the Civil Rights Movement, many labor organizations supported efforts to expand civil rights and political participation."
         }
       ]
     },
@@ -595,7 +598,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Coalitions",
+          "text": "Coalitions:",
           "bold": true
         }
       ]
@@ -604,7 +607,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "o\tA group formed when individuals or organizations work together toward a common goal. Members of a coalition may have different backgrounds, priorities, or methods, but cooperate in pursuit of shared objectives."
+          "text": "A group formed when individuals or organizations work together toward a common goal. Members of a coalition may have different backgrounds, priorities, or methods, but cooperate in pursuit of shared objectives."
         }
       ]
     },
@@ -773,7 +776,6 @@
       "uuid": "b94e2561-c14b-4676-b358-167ef47dd48b",
       "includes": [
         "media",
-        "annotations",
         "label"
       ],
       "start": 713,
@@ -798,7 +800,6 @@
       "uuid": "b94e2561-c14b-4676-b358-167ef47dd48b",
       "includes": [
         "media",
-        "annotations",
         "label"
       ],
       "start": 1027,
@@ -823,7 +824,6 @@
       "uuid": "b94e2561-c14b-4676-b358-167ef47dd48b",
       "includes": [
         "media",
-        "annotations",
         "label"
       ],
       "start": 1129,
@@ -855,31 +855,34 @@
       ]
     },
     {
-      "type": "numbered-list",
+      "type": "paragraph",
       "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "According to the speakers, what were some of the major causes of protest and social unrest during this period?"
-            }
-          ]
-        },
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Beyond the Vietnam War, what other issues do the speakers identify as motivating protest movements during the 1960s?"
-            }
-          ]
-        },
+          "text": "1.\tAccording to the speakers, what were some of the major causes of protest and social unrest during this period?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Why might maintaining \"law and order\" have been an important objective for President Johnson during this period?"
-            }
-          ]
+          "text": "2.\tBeyond the Vietnam War, what other issues do the speakers identify as motivating protest movements during the 1960s?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "3.\tWhy might maintaining \"law and order\" have been an important objective for President Johnson during this period?"
         }
       ]
     },
@@ -947,7 +950,6 @@
       "uuid": "5bb592c7-12b1-428a-a1c8-8287f5ccb360",
       "includes": [
         "media",
-        "annotations",
         "label"
       ],
       "start": 1001,
@@ -973,7 +975,6 @@
       "uuid": "ed770dea-770b-4c5b-b036-4510ab6b5747",
       "includes": [
         "media",
-        "annotations",
         "label"
       ],
       "start": 2087,
@@ -1005,31 +1006,34 @@
       ]
     },
     {
-      "type": "numbered-list",
+      "type": "paragraph",
       "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "According to the speakers, what role did labor unions play in the Civil Rights Movement?"
-            }
-          ]
-        },
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Why might organized labor choose to provide financial or political support to the Civil Rights Movement?"
-            }
-          ]
-        },
+          "text": "1.\tAccording to the speakers, what role did labor unions play in the Civil Rights Movement?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "What connections do the speakers identify between civil rights activism, labor activism, and economic inequality?"
-            }
-          ]
+          "text": "2.\tWhy might organized labor choose to provide financial or political support to the Civil Rights Movement?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "3.\tWhat connections do the speakers identify between civil rights activism, labor activism, and economic inequality?"
         }
       ]
     },
@@ -1115,7 +1119,6 @@
       "uuid": "ed770dea-770b-4c5b-b036-4510ab6b5747",
       "includes": [
         "media",
-        "annotations",
         "label"
       ],
       "start": 772,
@@ -1140,7 +1143,6 @@
       "uuid": "8f1b13dc-b0e1-46a2-89b6-b3bc9ce83a8d",
       "includes": [
         "media",
-        "annotations",
         "label"
       ],
       "start": 185,
@@ -1165,7 +1167,6 @@
       "uuid": "8f1b13dc-b0e1-46a2-89b6-b3bc9ce83a8d",
       "includes": [
         "media",
-        "annotations",
         "label"
       ],
       "start": 287,
@@ -1190,7 +1191,6 @@
       "uuid": "8f1b13dc-b0e1-46a2-89b6-b3bc9ce83a8d",
       "includes": [
         "media",
-        "annotations",
         "label"
       ],
       "start": 1207,
@@ -1222,39 +1222,42 @@
       ]
     },
     {
-      "type": "numbered-list",
+      "type": "paragraph",
       "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "What events or responses are described in the clips? How does the speaker characterize them?"
-            }
-          ]
-        },
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "According to the speaker, how did authorities respond to protest movements during this period?"
-            }
-          ]
-        },
+          "text": "1.\tWhat events or responses are described in the clips? How does the speaker characterize them?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "What connections can you identify between the events described in the clips and protest movements in the present day?"
-            }
-          ]
-        },
+          "text": "2.\tAccording to the speaker, how did authorities respond to protest movements during this period?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Why does the speaker view Birmingham as an important turning point in the Civil Rights Movement?"
-            }
-          ]
+          "text": "3.\tWhat connections can you identify between the events described in the clips and protest movements in the present day?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "4.\tWhy does the speaker view Birmingham as an important turning point in the Civil Rights Movement?"
         }
       ]
     },
@@ -1387,31 +1390,34 @@
       ]
     },
     {
-      "type": "numbered-list",
+      "type": "paragraph",
       "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Which lyric from your assigned song best reflects the issues discussed throughout today's lesson? Explain your choice. "
-            }
-          ]
-        },
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "How does your song connect to one of the protest movements, individuals, or events discussed in the podcast clips? "
-            }
-          ]
-        },
+          "text": "1.\tWhich lyric from your assigned song best reflects the issues discussed throughout today's lesson? Explain your choice. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "How might someone living during the 1960s have interpreted the message of this song differently than someone today?"
-            }
-          ]
+          "text": "2.\tHow does your song connect to one of the protest movements, individuals, or events discussed in the podcast clips? "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "3.\tHow might someone living during the 1960s have interpreted the message of this song differently than someone today?"
         }
       ]
     },
@@ -1559,6 +1565,6 @@
   "slug": "lesson-plan-protest-and-social-unrest",
   "created_at": "2026-06-24T16:22:54.031Z",
   "created_by": "raymondhyser",
-  "updated_at": "2026-06-24T17:48:54.771Z",
+  "updated_at": "2026-06-30T19:22:39.428Z",
   "updated_by": "raymondhyser"
 }
