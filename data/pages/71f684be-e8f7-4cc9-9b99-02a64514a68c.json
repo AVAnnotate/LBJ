@@ -472,39 +472,42 @@
       ]
     },
     {
-      "type": "numbered-list",
+      "type": "paragraph",
       "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Give students 5 minutes to define the terms independently using their existing knowledge."
-            }
-          ]
-        },
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Have students compare their responses with a partner or small group."
-            }
-          ]
-        },
+          "text": "1.\tGive students 5 minutes to define the terms independently using their existing knowledge."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Poll the class to determine which terms students already understand and which require additional clarification."
-            }
-          ]
-        },
+          "text": "2.\tHave students compare their responses with a partner or small group."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "If necessary, review and explain unfamiliar terms before proceeding."
-            }
-          ]
+          "text": "3.\tPoll the class to determine which terms students already understand and which require additional clarification."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "4.\tIf necessary, review and explain unfamiliar terms before proceeding."
         }
       ]
     },
@@ -534,201 +537,233 @@
       ]
     },
     {
-      "type": "bulleted-list",
+      "type": "paragraph",
       "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "NAACP:",
-              "bold": true
-            },
-            {
-              "text": " "
-            }
-          ]
-        },
-        {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "The National Association for the Advancement of Colored People, a civil rights organization dedicated to securing political, educational, social, and economic equality and eliminating racial discrimination.",
-              "italic": true
-            }
-          ]
+          "text": "",
+          "bold": true
         }
       ]
     },
     {
-      "type": "bulleted-list",
+      "type": "paragraph",
       "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "The Voting Rights Act of 1965:",
-              "bold": true
-            },
-            {
-              "text": " "
-            }
-          ]
+          "bold": true,
+          "text": "NAACP:"
         },
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Federal legislation designed to enforce the 15th Amendment by prohibiting literacy tests and other discriminatory voting practices that had been used to prevent African Americans from voting.",
-              "italic": true
-            }
-          ]
+          "text": " "
         }
       ]
     },
     {
-      "type": "bulleted-list",
+      "type": "paragraph",
       "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Civic participation:",
-              "bold": true
-            },
-            {
-              "text": " "
-            }
-          ]
-        },
-        {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Actions taken by individuals or groups to address public issues and contribute to community life. Civic participation can include voting, running for office, petitioning, protesting, volunteering, and other forms of public engagement.",
-              "italic": true
-            }
-          ]
+          "text": "The National Association for the Advancement of Colored People, a civil rights organization dedicated to securing political, educational, social, and economic equality and eliminating racial discrimination.",
+          "italic": true
         }
       ]
     },
     {
-      "type": "bulleted-list",
+      "type": "paragraph",
       "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Civil rights:",
-              "bold": true
-            },
-            {
-              "text": " "
-            }
-          ]
-        },
-        {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Legal guarantees of equal treatment, protection from government encroachment on civil liberties (such as those in the Bill of Rights) and protection from discrimination based on race, color, national-origin, sex, or religion.",
-              "italic": true
-            }
-          ]
+          "text": "",
+          "bold": true
         }
       ]
     },
     {
-      "type": "bulleted-list",
+      "type": "paragraph",
       "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Political education:",
-              "bold": true
-            },
-            {
-              "text": " "
-            }
-          ]
+          "bold": true,
+          "text": "The Voting Rights Act of 1965:"
         },
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Informing individuals on how they can participate in the political process, the responsibilities associated with such participation, and how the political process works. ",
-              "italic": true
-            }
-          ]
+          "text": " "
         }
       ]
     },
     {
-      "type": "bulleted-list",
+      "type": "paragraph",
       "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Political mobilization: ",
-              "bold": true
-            }
-          ]
-        },
-        {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Encouraging and equipping individuals who are eligible to participate in the political process, but are not doing so, to begin participating in the political process.",
-              "italic": true
-            }
-          ]
+          "text": "Federal legislation designed to enforce the 15th Amendment by prohibiting literacy tests and other discriminatory voting practices that had been used to prevent African Americans from voting.",
+          "italic": true
         }
       ]
     },
     {
-      "type": "bulleted-list",
+      "type": "paragraph",
       "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Electoral politics: ",
-              "bold": true
-            }
-          ]
-        },
-        {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Competition between groups and individuals to gain political power through elections. ",
-              "italic": true
-            }
-          ]
+          "text": "",
+          "bold": true
         }
       ]
     },
     {
-      "type": "bulleted-list",
+      "type": "paragraph",
       "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Political process: ",
-              "bold": true
-            }
-          ]
+          "bold": true,
+          "text": "Civic participation:"
         },
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "The ways in which individuals, groups, and institutions come together to encourage a government action.",
-              "italic": true
-            }
-          ]
+          "text": " "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Actions taken by individuals or groups to address public issues and contribute to community life. Civic participation can include voting, running for office, petitioning, protesting, volunteering, and other forms of public engagement.",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "Civil rights:"
+        },
+        {
+          "text": " "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Legal guarantees of equal treatment, protection from government encroachment on civil liberties (such as those in the Bill of Rights) and protection from discrimination based on race, color, national-origin, sex, or religion.",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "Political education:"
+        },
+        {
+          "text": " "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Informing individuals on how they can participate in the political process, the responsibilities associated with such participation, and how the political process works. ",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "Political mobilization: "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Encouraging and equipping individuals who are eligible to participate in the political process, but are not doing so, to begin participating in the political process.",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "Electoral politics: "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Competition between groups and individuals to gain political power through elections. ",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "Political process: "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The ways in which individuals, groups, and institutions come together to encourage a government action.",
+          "italic": true
         }
       ]
     },
@@ -938,31 +973,34 @@
       ]
     },
     {
-      "type": "numbered-list",
+      "type": "paragraph",
       "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "According to the speaker, what barriers limited African American participation in American democracy?"
-            }
-          ]
-        },
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "What methods did Barbara Jordan use to expand civic and political participation?"
-            }
-          ]
-        },
+          "text": "1.\tAccording to the speaker, what barriers limited African American participation in American democracy?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "How does Barbara Jordan's experience demonstrate the importance of education, public service, or political involvement during the Civil Rights Movement?"
-            }
-          ]
+          "text": "2.\tWhat methods did Barbara Jordan use to expand civic and political participation?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "3.\tHow does Barbara Jordan's experience demonstrate the importance of education, public service, or political involvement during the Civil Rights Movement?"
         }
       ]
     },
@@ -1099,39 +1137,42 @@
       ]
     },
     {
-      "type": "numbered-list",
+      "type": "paragraph",
       "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "According to Dr. Simmonds, how did education shape her opportunities during segregation?"
-            }
-          ]
-        },
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "What challenges to educational opportunity does Dr. Simmons describe?"
-            }
-          ]
-        },
+          "text": "1.\tAccording to Dr. Simmonds, how did education shape her opportunities during segregation?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Why might education be considered an important tool for expanding participation in American democracy?"
-            }
-          ]
-        },
+          "text": "2.\tWhat challenges to educational opportunity does Dr. Simmons describe?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "How does Dr. Simmonds' experience demonstrate the importance of education during the Civil Rights Movement?"
-            }
-          ]
+          "text": "3.\tWhy might education be considered an important tool for expanding participation in American democracy?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "4.\tHow does Dr. Simmonds' experience demonstrate the importance of education during the Civil Rights Movement?"
         }
       ]
     },
@@ -1241,39 +1282,42 @@
       ]
     },
     {
-      "type": "numbered-list",
+      "type": "paragraph",
       "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "According to Dr. King, why should people care about injustice occurring outside of their own communities?"
-            }
-          ]
-        },
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "How does Dr. King's argument connect to the idea of civic participation?"
-            }
-          ]
-        },
+          "text": "1.\tAccording to Dr. King, why should people care about injustice occurring outside of their own communities?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "What responsibilities does Dr. King suggest citizens have in a democratic society?"
-            }
-          ]
-        },
+          "text": "2.\tHow does Dr. King's argument connect to the idea of civic participation?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "How does this clip connect to the efforts of Civil Rights activists discussed earlier in the lesson?"
-            }
-          ]
+          "text": "3.\tWhat responsibilities does Dr. King suggest citizens have in a democratic society?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "4.\tHow does this clip connect to the efforts of Civil Rights activists discussed earlier in the lesson?"
         }
       ]
     },
@@ -1367,39 +1411,42 @@
       ]
     },
     {
-      "type": "numbered-list",
+      "type": "paragraph",
       "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "How does the poem portray hope in the face of hardship?"
-            }
-          ]
-        },
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "What connections can you identify between the poem and the experiences described in today's podcast clips?"
-            }
-          ]
-        },
+          "text": "1.\tHow does the poem portray hope in the face of hardship?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Which individual discussed in today's lesson does the poem remind you of most? Why?"
-            }
-          ]
-        },
+          "text": "2.\tWhat connections can you identify between the poem and the experiences described in today's podcast clips?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "How might the poem help us better understand the goals of the Civil Rights Movement?"
-            }
-          ]
+          "text": "3.\tWhich individual discussed in today's lesson does the poem remind you of most? Why?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "4.\tHow might the poem help us better understand the goals of the Civil Rights Movement?"
         }
       ]
     },
@@ -1430,43 +1477,59 @@
       ]
     },
     {
-      "type": "numbered-list",
+      "type": "paragraph",
       "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Have students complete a visual organizer comparing the methods used by Civil Rights activists to expand African American participation in American democracy.",
-              "italic": true
-            }
-          ]
+          "text": "",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "1.\t"
         },
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Students may use one of the organizers provided on the worksheet or create their own organizer (Venn diagram, chart, mind map, or similar format)",
-              "italic": true
-            }
-          ]
+          "italic": true,
+          "text": "Have students complete a visual organizer comparing the methods used by Civil Rights activists to expand African American participation in American democracy."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "2.\t"
         },
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Remind students to draw upon evidence from the literacy test activity, podcast clips, class discussions, and other lesson materials.",
-              "italic": true
-            }
-          ]
+          "text": "Students may use one of the organizers provided on the worksheet or create their own organizer (Venn diagram, chart, mind map, or similar format)",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "3.\t"
         },
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Encourage students to include specific examples, individuals, goals, challenges, and outcomes discussed throughout the lesson.",
-              "italic": true
-            }
-          ]
+          "text": "Remind students to draw upon evidence from the literacy test activity, podcast clips, class discussions, and other lesson materials.",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "4.\t"
+        },
+        {
+          "text": "Encourage students to include specific examples, individuals, goals, challenges, and outcomes discussed throughout the lesson.",
+          "italic": true
         }
       ]
     },
@@ -1574,7 +1637,7 @@
   "slug": "lesson-plan-civil-rights-and-civic-participa",
   "created_at": "2026-06-23T17:22:28.805Z",
   "created_by": "raymondhyser",
-  "updated_at": "2026-06-24T18:18:36.698Z",
+  "updated_at": "2026-06-30T19:28:48.611Z",
   "updated_by": "raymondhyser",
   "parent": "ae40d69e-8e58-4b7a-af92-67c354120302"
 }
