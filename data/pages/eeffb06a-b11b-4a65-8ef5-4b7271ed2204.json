@@ -166,61 +166,77 @@
       ]
     },
     {
-      "type": "numbered-list",
+      "type": "paragraph",
       "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Play the following clip, a poem written by Zachary Suri from the podcast, This Is Democracy.",
-              "italic": true
-            }
-          ]
+          "text": "",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "1.\t"
         },
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "After allowing students to listen, and take notes, there are a series of reflective questions that students may respond to.",
-              "italic": true
-            }
-          ]
+          "italic": true,
+          "text": "Play the following clip, a poem written by Zachary Suri from the podcast, This Is Democracy."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "2.\t"
         },
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Have students respond individually, then ",
-              "italic": true
-            },
-            {
-              "italic": true,
-              "text": "pair",
-              "bold": true
-            },
-            {
-              "italic": true,
-              "text": ", or "
-            },
-            {
-              "italic": true,
-              "text": "group",
-              "bold": true
-            },
-            {
-              "italic": true,
-              "text": ", and share their responses with one another."
-            }
-          ]
+          "text": "After allowing students to listen, and take notes, there are a series of reflective questions that students may respond to.",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "3.\t"
         },
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Then, as a class, share thoughts.",
-              "italic": true
-            }
-          ]
+          "text": "Have students respond individually, then ",
+          "italic": true
+        },
+        {
+          "italic": true,
+          "text": "pair",
+          "bold": true
+        },
+        {
+          "italic": true,
+          "text": ", or "
+        },
+        {
+          "italic": true,
+          "text": "group",
+          "bold": true
+        },
+        {
+          "italic": true,
+          "text": ", and share their responses with one another."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "4.\t"
+        },
+        {
+          "text": "Then, as a class, share thoughts.",
+          "italic": true
         }
       ]
     },
@@ -267,47 +283,50 @@
       ]
     },
     {
-      "type": "numbered-list",
+      "type": "paragraph",
       "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "What do you think this poem is about? Identify a sentence that you think is important."
-            }
-          ]
-        },
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "How do you think this poem is relevant to United States History?"
-            }
-          ]
-        },
+          "text": "1.\tWhat do you think this poem is about? Identify a sentence that you think is important."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "What does this poem make you think of, related to history or otherwise?"
-            }
-          ]
-        },
+          "text": "2.\tHow do you think this poem is relevant to United States History?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "This poem is written from the perspective of a poet looking back on a particular moment in the history of the United States of America; why do you think the author chose this tone? How does this tone indicate how we understand this historical event?"
-            }
-          ]
-        },
+          "text": "3.\tWhat does this poem make you think of, related to history or otherwise?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Why do you think the author emphasizes these themes?"
-            }
-          ]
+          "text": "4.\tThis poem is written from the perspective of a poet looking back on a particular moment in the history of the United States of America; why do you think the author chose this tone? How does this tone indicate how we understand this historical event?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "5.\tWhy do you think the author emphasizes these themes?"
         }
       ]
     },
@@ -338,43 +357,11 @@
       ]
     },
     {
-      "type": "numbered-list",
+      "type": "paragraph",
       "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Give students 5 minutes to define the terms independently using their existing knowledge.",
-              "italic": true
-            }
-          ]
-        },
-        {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Have students compare their responses with a partner or small group.",
-              "italic": true
-            }
-          ]
-        },
-        {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Poll the class to determine which terms students already understand and which require additional clarification.",
-              "italic": true
-            }
-          ]
-        },
-        {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "If necessary, review and explain unfamiliar terms before proceeding.",
-              "italic": true
-            }
-          ]
+          "text": "",
+          "italic": true
         }
       ]
     },
@@ -382,13 +369,66 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Note: ",
-          "italic": true,
-          "bold": true
+          "text": "1.\t"
         },
         {
           "italic": true,
-          "text": "Definitions are provided below for instructor reference."
+          "text": "Give students 5 minutes to define the terms independently using their existing knowledge."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "2.\t"
+        },
+        {
+          "text": "Have students compare their responses with a partner or small group.",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "3.\t"
+        },
+        {
+          "text": "Poll the class to determine which terms students already understand and which require additional clarification.",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "4.\t"
+        },
+        {
+          "text": "If necessary, review and explain unfamiliar terms before proceeding.",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Note: ",
+              "italic": true,
+              "bold": true
+            },
+            {
+              "italic": true,
+              "text": "Definitions are provided below for instructor reference."
+            }
+          ]
         }
       ]
     },
@@ -422,7 +462,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Communism",
+          "text": "Communism:",
           "bold": true
         }
       ]
@@ -448,7 +488,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Capitalism",
+          "text": "Capitalism:",
           "bold": true
         }
       ]
@@ -474,7 +514,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Sphere of Influence",
+          "text": "Sphere of Influence:",
           "bold": true
         }
       ]
@@ -500,7 +540,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Cold War",
+          "text": "Cold War:",
           "bold": true
         }
       ]
@@ -526,7 +566,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Hot War",
+          "text": "Hot War:",
           "bold": true
         }
       ]
@@ -552,7 +592,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Mutually Assured Destruction",
+          "text": "Mutually Assured Destruction:",
           "bold": true
         }
       ]
@@ -578,7 +618,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Arms Race",
+          "text": "Arms Race:",
           "bold": true
         }
       ]
@@ -645,44 +685,65 @@
       ]
     },
     {
-      "type": "numbered-list",
+      "type": "paragraph",
       "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Select a, b, c, and d (or a variation)",
-              "italic": true
-            }
-          ]
+          "text": "",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "1.\t"
         },
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Introduce each of the following subheadings with the descriptions provided.",
-              "italic": true
-            }
-          ]
+          "italic": true,
+          "text": "Select a, b, c, and d (or a variation)"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "2.\t"
         },
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Before playing clip, introduce the speaker bio.",
-              "italic": true
-            }
-          ]
+          "text": "Introduce each of the following subheadings with the descriptions provided.",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "3.\t"
         },
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "After playing the audio clips, have students write or respond to the class questions. This can be conducted individually through note-taking systems, in pairs, or in groups.",
-              "italic": true
-            }
-          ]
+          "text": "Before playing clip, introduce the speaker bio.",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "4.\t"
         },
+        {
+          "text": "After playing the audio clips, have students write or respond to the class questions. This can be conducted individually through note-taking systems, in pairs, or in groups.",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
         {
           "type": "list-item",
           "children": [
@@ -703,8 +764,17 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "3a. Cold War Fears and Origins",
+          "text": "",
           "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "3a. Cold War Fears and Origins"
         }
       ]
     },
@@ -832,31 +902,34 @@
       ]
     },
     {
-      "type": "numbered-list",
+      "type": "paragraph",
       "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "What connections can you identify between the end of World War II and the onset of the Cold War?"
-            }
-          ]
-        },
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "According to the speakers, what were some of the major fears people had in the years after World War II?"
-            }
-          ]
-        },
+          "text": "1.\tWhat connections can you identify between the end of World War II and the onset of the Cold War?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "What were the primary issues that the speakers identified that created tension between the United States and the USSR after World War II?"
-            }
-          ]
+          "text": "2.\tAccording to the speakers, what were some of the major fears people had in the years after World War II?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "3.\tWhat were the primary issues that the speakers identified that created tension between the United States and the USSR after World War II?"
         }
       ]
     },
@@ -1000,23 +1073,26 @@
       ]
     },
     {
-      "type": "numbered-list",
+      "type": "paragraph",
       "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "According to the speakers, how did the United States and the USSR try to expand their influence around the world?"
-            }
-          ]
-        },
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "What examples do the speakers give of the United States and USSR competing for influence in other countries?"
-            }
-          ]
+          "text": "1.\tAccording to the speakers, how did the United States and the USSR try to expand their influence around the world?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "2.\tWhat examples do the speakers give of the United States and USSR competing for influence in other countries?"
         }
       ]
     },
@@ -1135,39 +1211,42 @@
       ]
     },
     {
-      "type": "numbered-list",
+      "type": "paragraph",
       "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "According to the speaker, who \"won\" the Cold War? Why?"
-            }
-          ]
-        },
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "What reasons does the speaker give for the collapse of the Soviet Union?"
-            }
-          ]
-        },
+          "text": "1.\tAccording to the speaker, who \"won\" the Cold War? Why?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "How does the speaker describe the impact of the Cold War's end on the United States and the wider world?"
-            }
-          ]
-        },
+          "text": "2.\tWhat reasons does the speaker give for the collapse of the Soviet Union?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Based on the speaker's description, how was the end of the Cold War different from the end of a Hot War?"
-            }
-          ]
+          "text": "3.\tHow does the speaker describe the impact of the Cold War's end on the United States and the wider world?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "4.\tBased on the speaker's description, how was the end of the Cold War different from the end of a Hot War?"
         }
       ]
     },
@@ -1372,31 +1451,34 @@
       ]
     },
     {
-      "type": "numbered-list",
+      "type": "paragraph",
       "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "According to the speakers, does the relationship between the United States and China today resemble the Cold War relationship between the United States and the USSR? Why or why not?"
-            }
-          ]
-        },
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "What similarities and differences do the speakers identify between China and the Soviet Union?"
-            }
-          ]
-        },
+          "text": "1.\tAccording to the speakers, does the relationship between the United States and China today resemble the Cold War relationship between the United States and the USSR? Why or why not?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Several speakers argue that the United States and China are more connected to one another than the United States and USSR were during the Cold War.   Do you think this connection makes conflict less likely? Why or why not?"
-            }
-          ]
+          "text": "2.\tWhat similarities and differences do the speakers identify between China and the Soviet Union?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "3.\tSeveral speakers argue that the United States and China are more connected to one another than the United States and USSR were during the Cold War.   Do you think this connection makes conflict less likely? Why or why not?"
         }
       ]
     },
@@ -1850,6 +1932,6 @@
   "slug": "lesson-plan-the-cold-war",
   "created_at": "2026-06-24T05:28:48.788Z",
   "created_by": "raymondhyser",
-  "updated_at": "2026-06-24T17:52:47.511Z",
+  "updated_at": "2026-06-30T19:26:24.167Z",
   "updated_by": "raymondhyser"
 }
