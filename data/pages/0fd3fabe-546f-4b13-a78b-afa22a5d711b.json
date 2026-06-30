@@ -1465,31 +1465,10 @@
       ]
     },
     {
-      "type": "numbered-list",
+      "type": "paragraph",
       "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Have students record a written response to be submitted."
-            }
-          ]
-        },
-        {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Allow students approximately 3–5 minutes to write independently."
-            }
-          ]
-        },
-        {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "If time permits, allow students to share their responses with a partner, small group, or the class."
-            }
-          ]
+          "text": ""
         }
       ]
     },
@@ -1497,8 +1476,41 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Class Instructions:",
+          "text": "1.\tHave students record a written response to be submitted."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "2.\tAllow students approximately 3–5 minutes to write independently."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "3.\tIf time permits, allow students to share their responses with a partner, small group, or the class."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
           "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "Class Instructions:"
         }
       ]
     },
@@ -1511,39 +1523,42 @@
       ]
     },
     {
-      "type": "numbered-list",
+      "type": "paragraph",
       "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "What were some of the major causes of protest and social unrest during the 1960s? "
-            }
-          ]
-        },
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "How did different groups attempt to create social or political change during this period? "
-            }
-          ]
-        },
+          "text": "1.\tWhat were some of the major causes of protest and social unrest during the 1960s? "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "What role did the Civil Rights Movement, organized labor, or opposition to the Vietnam War play in shaping protest movements during the 1960s? "
-            }
-          ]
-        },
+          "text": "2.\tHow did different groups attempt to create social or political change during this period? "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "What similarities or differences can you identify between the protest movements discussed in this lesson and protest movements today?"
-            }
-          ]
+          "text": "3.\tWhat role did the Civil Rights Movement, organized labor, or opposition to the Vietnam War play in shaping protest movements during the 1960s? "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "4.\tWhat similarities or differences can you identify between the protest movements discussed in this lesson and protest movements today?"
         }
       ]
     },
@@ -1565,6 +1580,6 @@
   "slug": "lesson-plan-protest-and-social-unrest",
   "created_at": "2026-06-24T16:22:54.031Z",
   "created_by": "raymondhyser",
-  "updated_at": "2026-06-30T19:22:39.428Z",
+  "updated_at": "2026-06-30T19:23:32.586Z",
   "updated_by": "raymondhyser"
 }
