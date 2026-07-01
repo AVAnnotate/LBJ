@@ -488,16 +488,11 @@
       ]
     },
     {
-      "type": "bulleted-list",
+      "type": "paragraph",
       "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Note: Definitions are provided below for instructor reference.",
-              "italic": true
-            }
-          ]
+          "text": "",
+          "italic": true
         }
       ]
     },
@@ -505,8 +500,30 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Define:",
+          "text": "Note:",
           "bold": true
+        },
+        {
+          "italic": true,
+          "text": " Definitions are provided below for instructor reference."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "Define:"
         }
       ]
     },
@@ -523,7 +540,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Nonviolence:",
+          "text": "Nonviolence",
           "bold": true
         }
       ]
@@ -548,7 +565,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Violence:",
+          "text": "Violence",
           "bold": true
         }
       ]
@@ -573,7 +590,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Organized Labor:",
+          "text": "Organized Labor",
           "bold": true
         }
       ]
@@ -598,7 +615,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Coalitions:",
+          "text": "Coalitions",
           "bold": true
         }
       ]
@@ -768,7 +785,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The speakers are Dr. Mark Lawrence, the Walter Prescott Webb Chair in History at the University of Texas at Austin and a leading scholar of the Vietnam War and U.S. foreign policy. And Dr. Jeremi Suri, host of the podcast This is Democracy and the Mack Brown Distinguished Professor for Global Leadership, History, and Public Policy at the University of Texas at Austin."
+          "text": "The speakers are Dr. Mark Lawrence, the Walter Prescott Webb Chair in History at the University of Texas at Austin and a leading scholar of the Vietnam War and U.S. foreign policy. And Dr. Jeremi Suri, host of the podcast This is Democracy and the Mack Brown Distinguished Professor for Global Leadership, History, and Public Policy at the University of Texas at Austin.",
+          "italic": true
         }
       ]
     },
@@ -776,7 +794,8 @@
       "uuid": "b94e2561-c14b-4676-b358-167ef47dd48b",
       "includes": [
         "media",
-        "label"
+        "label",
+        "annotations"
       ],
       "start": 713,
       "end": 795,
@@ -800,7 +819,8 @@
       "uuid": "b94e2561-c14b-4676-b358-167ef47dd48b",
       "includes": [
         "media",
-        "label"
+        "label",
+        "annotations"
       ],
       "start": 1027,
       "end": 1109,
@@ -824,7 +844,8 @@
       "uuid": "b94e2561-c14b-4676-b358-167ef47dd48b",
       "includes": [
         "media",
-        "label"
+        "label",
+        "annotations"
       ],
       "start": 1129,
       "end": 1174,
@@ -950,7 +971,8 @@
       "uuid": "5bb592c7-12b1-428a-a1c8-8287f5ccb360",
       "includes": [
         "media",
-        "label"
+        "label",
+        "annotations"
       ],
       "start": 1001,
       "end": 1045,
@@ -966,8 +988,17 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The speaker is Dr. Peniel Joseph, Director of the Center for the Study of Race and Democracy at the LBJ School of Public Affairs and Professor of History at the University of Texas at Austin. He is a leading scholar of the Civil Rights and Black Power movements.",
+          "text": "",
           "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "italic": true,
+          "text": "The speaker is Dr. Peniel Joseph, Director of the Center for the Study of Race and Democracy at the LBJ School of Public Affairs and Professor of History at the University of Texas at Austin. He is a leading scholar of the Civil Rights and Black Power movements."
         }
       ]
     },
@@ -975,7 +1006,8 @@
       "uuid": "ed770dea-770b-4c5b-b036-4510ab6b5747",
       "includes": [
         "media",
-        "label"
+        "label",
+        "annotations"
       ],
       "start": 2087,
       "end": 2124,
@@ -1119,7 +1151,8 @@
       "uuid": "ed770dea-770b-4c5b-b036-4510ab6b5747",
       "includes": [
         "media",
-        "label"
+        "label",
+        "annotations"
       ],
       "start": 772,
       "end": 877,
@@ -1143,7 +1176,8 @@
       "uuid": "8f1b13dc-b0e1-46a2-89b6-b3bc9ce83a8d",
       "includes": [
         "media",
-        "label"
+        "label",
+        "annotations"
       ],
       "start": 185,
       "end": 225,
@@ -1167,7 +1201,8 @@
       "uuid": "8f1b13dc-b0e1-46a2-89b6-b3bc9ce83a8d",
       "includes": [
         "media",
-        "label"
+        "label",
+        "annotations"
       ],
       "start": 287,
       "end": 347,
@@ -1191,7 +1226,8 @@
       "uuid": "8f1b13dc-b0e1-46a2-89b6-b3bc9ce83a8d",
       "includes": [
         "media",
-        "label"
+        "label",
+        "annotations"
       ],
       "start": 1207,
       "end": 1264,
@@ -1580,6 +1616,6 @@
   "slug": "lesson-plan-protest-and-social-unrest",
   "created_at": "2026-06-24T16:22:54.031Z",
   "created_by": "raymondhyser",
-  "updated_at": "2026-06-30T19:23:32.586Z",
+  "updated_at": "2026-07-01T15:53:30.201Z",
   "updated_by": "raymondhyser"
 }
