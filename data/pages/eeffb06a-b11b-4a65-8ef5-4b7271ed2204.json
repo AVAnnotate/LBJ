@@ -269,8 +269,17 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Class Instructions:",
+          "text": "",
           "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "Class Instructions:"
         }
       ]
     },
@@ -414,21 +423,30 @@
       ]
     },
     {
-      "type": "bulleted-list",
+      "type": "paragraph",
       "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Note: ",
-              "italic": true,
-              "bold": true
-            },
-            {
-              "italic": true,
-              "text": "Definitions are provided below for instructor reference."
-            }
-          ]
+          "text": "",
+          "italic": true,
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "Note:"
+        },
+        {
+          "italic": true,
+          "bold": true,
+          "text": " "
+        },
+        {
+          "italic": true,
+          "text": "Definitions are provided below for instructor reference."
         }
       ]
     },
@@ -462,7 +480,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Communism:",
+          "text": "Communism",
           "bold": true
         }
       ]
@@ -488,7 +506,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Capitalism:",
+          "text": "Capitalism",
           "bold": true
         }
       ]
@@ -514,7 +532,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Sphere of Influence:",
+          "text": "Sphere of Influence",
           "bold": true
         }
       ]
@@ -540,7 +558,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Cold War:",
+          "text": "Cold War",
           "bold": true
         }
       ]
@@ -566,7 +584,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Hot War:",
+          "text": "Hot War",
           "bold": true
         }
       ]
@@ -592,7 +610,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Mutually Assured Destruction:",
+          "text": "Mutually Assured Destruction",
           "bold": true
         }
       ]
@@ -618,7 +636,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Arms Race:",
+          "text": "Arms Race",
           "bold": true
         }
       ]
@@ -861,8 +879,17 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The speaker is Dr. Vanessa Cook, a Professor at the University of Wisconsin–Madison and author of Spiritual Socialists. Her research focuses on the history of social movements and religious thought.",
+          "text": "",
           "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "italic": true,
+          "text": "The speaker is Dr. Vanessa Cook, a Professor at the University of Wisconsin–Madison and author of Spiritual Socialists. Her research focuses on the history of social movements and religious thought."
         }
       ]
     },
@@ -1032,8 +1059,17 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The speaker is Dr. Hal Brands, the Henry Kissinger Distinguished Professor of Global Affairs at Johns Hopkins University’s School of Advanced International Studies, author of several books on the subject of the Cold War, and the Cold War’s legacy.",
+          "text": "",
           "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "italic": true,
+          "text": "The speaker is Dr. Hal Brands, the Henry Kissinger Distinguished Professor of Global Affairs at Johns Hopkins University’s School of Advanced International Studies, author of several books on the subject of the Cold War, and the Cold War’s legacy."
         }
       ]
     },
@@ -1350,8 +1386,17 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The speaker is, again, Dr. Hal Brands.",
+          "text": "",
           "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "italic": true,
+          "text": "The speaker is, again, Dr. Hal Brands."
         }
       ]
     },
@@ -1376,8 +1421,17 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The speaker is Dr. Charles Edel, a global fellow at the Wilson Center in Washington, D.C., and he's also a senior fellow at the U.S. Studies Center at the University of Sydney, Australia. In addition to scholarly work, Edel advised the Secretary of State regarding the United States of America’s foreign policy efforts in Asia and Oceania.",
+          "text": "",
           "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "italic": true,
+          "text": "The speaker is Dr. Charles Edel, a global fellow at the Wilson Center in Washington, D.C., and he's also a senior fellow at the U.S. Studies Center at the University of Sydney, Australia. In addition to scholarly work, Edel advised the Secretary of State regarding the United States of America’s foreign policy efforts in Asia and Oceania."
         }
       ]
     },
@@ -1932,6 +1986,6 @@
   "slug": "lesson-plan-the-cold-war",
   "created_at": "2026-06-24T05:28:48.788Z",
   "created_by": "raymondhyser",
-  "updated_at": "2026-06-30T19:26:24.167Z",
+  "updated_at": "2026-07-01T15:54:43.761Z",
   "updated_by": "raymondhyser"
 }
