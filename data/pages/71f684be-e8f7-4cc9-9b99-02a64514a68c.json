@@ -1210,7 +1210,6 @@
       "uuid": "8f1b13dc-b0e1-46a2-89b6-b3bc9ce83a8d",
       "includes": [
         "media",
-        "annotations",
         "label"
       ],
       "start": 110,
@@ -1614,7 +1613,7 @@
   "slug": "lesson-plan-civil-rights-and-civic-participa",
   "created_at": "2026-06-23T17:22:28.805Z",
   "created_by": "raymondhyser",
-  "updated_at": "2026-07-01T15:55:56.424Z",
-  "updated_by": "raymondhyser",
+  "updated_at": "2026-07-01T17:42:04.010Z",
+  "updated_by": "tanyaclement",
   "parent": "ae40d69e-8e58-4b7a-af92-67c354120302"
 }
