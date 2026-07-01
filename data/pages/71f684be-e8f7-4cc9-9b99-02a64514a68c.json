@@ -4,15 +4,6 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "",
-          "textSize": "heading-two"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "textSize": "heading-two",
           "text": "Lesson Objective:"
         }
@@ -550,10 +541,7 @@
       "children": [
         {
           "bold": true,
-          "text": "NAACP:"
-        },
-        {
-          "text": " "
+          "text": "NAACP"
         }
       ]
     },
@@ -580,10 +568,7 @@
       "children": [
         {
           "bold": true,
-          "text": "The Voting Rights Act of 1965:"
-        },
-        {
-          "text": " "
+          "text": "The Voting Rights Act of 1965"
         }
       ]
     },
@@ -610,10 +595,7 @@
       "children": [
         {
           "bold": true,
-          "text": "Civic participation:"
-        },
-        {
-          "text": " "
+          "text": "Civic participation"
         }
       ]
     },
@@ -640,10 +622,7 @@
       "children": [
         {
           "bold": true,
-          "text": "Civil rights:"
-        },
-        {
-          "text": " "
+          "text": "Civil rights"
         }
       ]
     },
@@ -670,10 +649,7 @@
       "children": [
         {
           "bold": true,
-          "text": "Political education:"
-        },
-        {
-          "text": " "
+          "text": "Political education"
         }
       ]
     },
@@ -700,7 +676,7 @@
       "children": [
         {
           "bold": true,
-          "text": "Political mobilization: "
+          "text": "Political mobilization"
         }
       ]
     },
@@ -727,7 +703,7 @@
       "children": [
         {
           "bold": true,
-          "text": "Electoral politics: "
+          "text": "Electoral politics"
         }
       ]
     },
@@ -754,7 +730,7 @@
       "children": [
         {
           "bold": true,
-          "text": "Political process: "
+          "text": "Political process"
         }
       ]
     },
@@ -1086,14 +1062,6 @@
       ]
     },
     {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
       "uuid": "1376d462-deaf-4165-85f4-2f521e9fe81c",
       "includes": [
         "media",
@@ -1397,8 +1365,17 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Class Instructions:",
+          "text": "",
           "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "Class Instructions:"
         }
       ]
     },
@@ -1637,7 +1614,7 @@
   "slug": "lesson-plan-civil-rights-and-civic-participa",
   "created_at": "2026-06-23T17:22:28.805Z",
   "created_by": "raymondhyser",
-  "updated_at": "2026-06-30T19:28:48.611Z",
+  "updated_at": "2026-07-01T15:55:56.424Z",
   "updated_by": "raymondhyser",
   "parent": "ae40d69e-8e58-4b7a-af92-67c354120302"
 }
