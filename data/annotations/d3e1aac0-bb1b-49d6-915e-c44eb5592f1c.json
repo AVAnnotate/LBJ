@@ -231,31 +231,6 @@
       "uuid": "05b4c439-9b34-4a0a-9bac-b333cb45fe94"
     },
     {
-      "start_time": 183,
-      "end_time": 189,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "It is hard to build utopia, let alone democracy, let alone peace."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Speakers",
-          "tag": "Zachary Suri"
-        },
-        {
-          "category": "Creative Expression",
-          "tag": "Poetry"
-        }
-      ],
-      "uuid": "9de2c12d-14e9-4137-b215-cb5e1323a4cb"
-    },
-    {
       "start_time": 189,
       "end_time": 191,
       "annotation": [
