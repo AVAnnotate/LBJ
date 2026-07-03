@@ -255,8 +255,8 @@
         "annotations",
         "label"
       ],
-      "start": 195,
-      "end": 284,
+      "start": 194,
+      "end": 285,
       "file": "7f81252e-414c-4443-b8fc-346cac314358",
       "type": "event",
       "children": [
@@ -779,11 +779,10 @@
       ]
     },
     {
-      "type": "paragraph",
+      "type": "horizontal-separator",
       "children": [
         {
-          "text": "",
-          "bold": true
+          "text": ""
         }
       ]
     },
@@ -865,8 +864,8 @@
         "annotations",
         "label"
       ],
-      "start": 866,
-      "end": 901,
+      "start": 865,
+      "end": 902,
       "file": "82142995-0e6e-49f6-accd-f232801a9609",
       "type": "event",
       "children": [
@@ -900,8 +899,8 @@
         "annotations",
         "label"
       ],
-      "start": 389,
-      "end": 429,
+      "start": 388,
+      "end": 430,
       "file": "fd6676e0-2e19-4c05-aabf-db4e2da1d780",
       "type": "event",
       "children": [
@@ -1045,8 +1044,8 @@
         "annotations",
         "label"
       ],
-      "start": 412,
-      "end": 509,
+      "start": 411,
+      "end": 510,
       "file": "6cf8e6c3-fc18-4b57-b847-60312dfe0c28",
       "type": "event",
       "children": [
@@ -1080,8 +1079,8 @@
         "annotations",
         "label"
       ],
-      "start": 1656,
-      "end": 1777,
+      "start": 1655,
+      "end": 1778,
       "file": "24276b93-7600-4fcf-9d4b-9c0706f80e33",
       "type": "event",
       "children": [
@@ -1218,8 +1217,8 @@
         "annotations",
         "label"
       ],
-      "start": 1463,
-      "end": 1571,
+      "start": 1462,
+      "end": 1572,
       "file": "6cf8e6c3-fc18-4b57-b847-60312dfe0c28",
       "type": "event",
       "children": [
@@ -1372,8 +1371,8 @@
         "annotations",
         "label"
       ],
-      "start": 788,
-      "end": 850,
+      "start": 787,
+      "end": 851,
       "file": "24276b93-7600-4fcf-9d4b-9c0706f80e33",
       "type": "event",
       "children": [
@@ -1407,8 +1406,8 @@
         "annotations",
         "label"
       ],
-      "start": 2330,
-      "end": 2418,
+      "start": 2329,
+      "end": 2419,
       "file": "24276b93-7600-4fcf-9d4b-9c0706f80e33",
       "type": "event",
       "children": [
@@ -1442,8 +1441,8 @@
         "annotations",
         "label"
       ],
-      "start": 1994,
-      "end": 2068,
+      "start": 1993,
+      "end": 2069,
       "file": "7f81252e-414c-4443-b8fc-346cac314358",
       "type": "event",
       "children": [
@@ -1476,8 +1475,8 @@
         "annotations",
         "label"
       ],
-      "start": 957,
-      "end": 983,
+      "start": 956,
+      "end": 984,
       "file": "fd6676e0-2e19-4c05-aabf-db4e2da1d780",
       "type": "event",
       "children": [
@@ -1986,6 +1985,6 @@
   "slug": "lesson-plan-the-cold-war",
   "created_at": "2026-06-24T05:28:48.788Z",
   "created_by": "raymondhyser",
-  "updated_at": "2026-07-01T15:54:43.761Z",
+  "updated_at": "2026-07-03T22:03:06.573Z",
   "updated_by": "raymondhyser"
 }
