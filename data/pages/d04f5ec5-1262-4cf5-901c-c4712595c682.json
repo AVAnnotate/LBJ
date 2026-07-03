@@ -284,8 +284,8 @@
         "annotations",
         "label"
       ],
-      "start": 214,
-      "end": 249,
+      "start": 213,
+      "end": 2410,
       "file": "93b26f7b-1938-453d-b870-10c7ae844507",
       "type": "event",
       "children": [
@@ -850,8 +850,8 @@
         "annotations",
         "label"
       ],
-      "start": 943,
-      "end": 991,
+      "start": 942,
+      "end": 992,
       "file": "796f005d-f564-42c9-b5a5-b838c4c8b3f8",
       "type": "event",
       "children": [
@@ -993,8 +993,8 @@
         "annotations",
         "label"
       ],
-      "start": 375,
-      "end": 445,
+      "start": 374,
+      "end": 446,
       "file": "93b26f7b-1938-453d-b870-10c7ae844507",
       "type": "event",
       "children": [
@@ -1136,8 +1136,8 @@
         "annotations",
         "label"
       ],
-      "start": 2165,
-      "end": 2221,
+      "start": 2164,
+      "end": 2222,
       "file": "93b26f7b-1938-453d-b870-10c7ae844507",
       "type": "event",
       "children": [
@@ -1491,6 +1491,6 @@
   "slug": "lesson-plan-radio-and-communication-technolo",
   "created_at": "2026-06-24T18:45:23.264Z",
   "created_by": "raymondhyser",
-  "updated_at": "2026-07-01T15:51:09.317Z",
+  "updated_at": "2026-07-03T20:34:53.894Z",
   "updated_by": "raymondhyser"
 }
