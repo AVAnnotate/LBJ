@@ -426,6 +426,14 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "horizontal-separator",
       "children": [
         {
@@ -713,7 +721,7 @@
       ]
     },
     {
-      "type": "paragraph",
+      "type": "horizontal-separator",
       "children": [
         {
           "text": ""
@@ -797,8 +805,8 @@
         "label",
         "annotations"
       ],
-      "start": 713,
-      "end": 795,
+      "start": 712,
+      "end": 794,
       "file": "ad882451-7595-4935-b3f6-bf5ba2ab493f",
       "type": "event",
       "children": [
@@ -822,8 +830,8 @@
         "label",
         "annotations"
       ],
-      "start": 1027,
-      "end": 1109,
+      "start": 1026,
+      "end": 1110,
       "file": "ad882451-7595-4935-b3f6-bf5ba2ab493f",
       "type": "event",
       "children": [
@@ -847,8 +855,8 @@
         "label",
         "annotations"
       ],
-      "start": 1129,
-      "end": 1174,
+      "start": 1128,
+      "end": 1175,
       "file": "ad882451-7595-4935-b3f6-bf5ba2ab493f",
       "type": "event",
       "children": [
@@ -974,8 +982,8 @@
         "label",
         "annotations"
       ],
-      "start": 1001,
-      "end": 1045,
+      "start": 1000,
+      "end": 1046,
       "file": "a2fdf93e-fb31-4d08-8355-5cf37ff979c8",
       "type": "event",
       "children": [
@@ -1009,8 +1017,8 @@
         "label",
         "annotations"
       ],
-      "start": 2087,
-      "end": 2124,
+      "start": 2086,
+      "end": 2125,
       "file": "544e8362-49f9-4410-97ed-24ca01023f83",
       "type": "event",
       "children": [
@@ -1154,8 +1162,8 @@
         "label",
         "annotations"
       ],
-      "start": 772,
-      "end": 877,
+      "start": 771,
+      "end": 878,
       "file": "544e8362-49f9-4410-97ed-24ca01023f83",
       "type": "event",
       "children": [
@@ -1179,8 +1187,8 @@
         "label",
         "annotations"
       ],
-      "start": 185,
-      "end": 225,
+      "start": 184,
+      "end": 226,
       "file": "c1796eb2-0b2b-44c7-857f-d60294cc8713",
       "type": "event",
       "children": [
@@ -1204,8 +1212,8 @@
         "label",
         "annotations"
       ],
-      "start": 287,
-      "end": 347,
+      "start": 286,
+      "end": 348,
       "file": "c1796eb2-0b2b-44c7-857f-d60294cc8713",
       "type": "event",
       "children": [
@@ -1229,8 +1237,8 @@
         "label",
         "annotations"
       ],
-      "start": 1207,
-      "end": 1264,
+      "start": 1206,
+      "end": 1265,
       "file": "c1796eb2-0b2b-44c7-857f-d60294cc8713",
       "type": "event",
       "children": [
@@ -1616,6 +1624,6 @@
   "slug": "lesson-plan-protest-and-social-unrest",
   "created_at": "2026-06-24T16:22:54.031Z",
   "created_by": "raymondhyser",
-  "updated_at": "2026-07-01T15:53:30.201Z",
+  "updated_at": "2026-07-03T22:00:38.831Z",
   "updated_by": "raymondhyser"
 }
