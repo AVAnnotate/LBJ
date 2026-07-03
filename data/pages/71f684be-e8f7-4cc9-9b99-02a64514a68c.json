@@ -154,6 +154,16 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "underline": true,
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "horizontal-separator",
       "children": [
         {
@@ -912,8 +922,8 @@
         "annotations",
         "label"
       ],
-      "start": 387,
-      "end": 535,
+      "start": 386,
+      "end": 536,
       "file": "c2e4ad03-3ba2-4a73-8ad8-b4f2f876308b",
       "type": "event",
       "children": [
@@ -1068,8 +1078,8 @@
         "annotations",
         "label"
       ],
-      "start": 805,
-      "end": 897,
+      "start": 804,
+      "end": 898,
       "file": "9ec1701a-7d5e-4f6b-9b6b-319e55716b93",
       "type": "event",
       "children": [
@@ -1213,8 +1223,8 @@
         "label",
         "annotations"
       ],
-      "start": 110,
-      "end": 146,
+      "start": 109,
+      "end": 147,
       "file": "c1796eb2-0b2b-44c7-857f-d60294cc8713",
       "type": "event",
       "children": [
@@ -1351,8 +1361,8 @@
         "annotations",
         "label"
       ],
-      "start": 165,
-      "end": 243,
+      "start": 164,
+      "end": 244,
       "file": "9ec1701a-7d5e-4f6b-9b6b-319e55716b93",
       "type": "event",
       "children": [
@@ -1614,7 +1624,7 @@
   "slug": "lesson-plan-civil-rights-and-civic-participa",
   "created_at": "2026-06-23T17:22:28.805Z",
   "created_by": "raymondhyser",
-  "updated_at": "2026-07-01T17:42:57.567Z",
-  "updated_by": "tanyaclement",
+  "updated_at": "2026-07-03T22:06:10.754Z",
+  "updated_by": "raymondhyser",
   "parent": "ae40d69e-8e58-4b7a-af92-67c354120302"
 }
