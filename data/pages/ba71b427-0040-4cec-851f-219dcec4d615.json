@@ -1,0 +1,63 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "These lesson plans were developed through a partnership between "
+        },
+        {
+          "text": "Not Even Past",
+          "bold": true,
+          "link": "https://notevenpast.org/"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "AVAnnotate",
+          "bold": true,
+          "link": "https://av-annotate.org/"
+        },
+        {
+          "text": ", the "
+        },
+        {
+          "text": "This Is Democracy",
+          "bold": true,
+          "link": "https://podcasts.la.utexas.edu/this-is-democracy/"
+        },
+        {
+          "text": " podcast, and the "
+        },
+        {
+          "text": "LBJ Presidential Library",
+          "bold": true,
+          "link": "https://www.lbjlibrary.org/"
+        },
+        {
+          "text": ". Built around curated podcast excerpts and interactive audio annotation, each lesson provides a complete, classroom-ready resource that offers educators an engaging alternative to traditional history instruction while requiring minimal preparation."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Lesson Plans",
+  "parent": "ae40d69e-8e58-4b7a-af92-67c354120302",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "lesson-plans",
+  "created_at": "2026-08-13T18:42:17.291Z",
+  "created_by": "raymondhyser",
+  "updated_at": "2026-08-13T18:42:17.291Z",
+  "updated_by": "raymondhyser"
+}
