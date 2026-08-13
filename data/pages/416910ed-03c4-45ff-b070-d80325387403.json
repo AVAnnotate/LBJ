@@ -81,15 +81,14 @@
           "type": "list-item",
           "children": [
             {
-              "text": "Describe the experiences of African Americans during the Civil Rights Movement using evidence from lesson materials. "
-            }
-          ]
-        },
-        {
-          "type": "list-item",
-          "children": [
+              "text": "Analyze and reflect upon themes presented in "
+            },
             {
-              "text": "Analyze and reflect upon themes presented in It is Hard to Build Utopias or engage in a creative activity that focuses on the perspectives of Vietnam protestors and soldiers"
+              "text": "It is Hard to Build Utopias",
+              "italic": true
+            },
+            {
+              "text": " or engage in a creative activity that focuses on the perspectives of Vietnam protestors and soldiers"
             }
           ]
         }
@@ -1582,6 +1581,6 @@
   "slug": "lesson-plan-the-vietnam-war-and-american-soc",
   "created_at": "2026-07-01T00:51:11.606Z",
   "created_by": "raymondhyser",
-  "updated_at": "2026-07-03T21:57:44.331Z",
+  "updated_at": "2026-08-13T18:34:03.031Z",
   "updated_by": "raymondhyser"
 }
