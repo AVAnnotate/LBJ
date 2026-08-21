@@ -110,7 +110,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Teacher Instructions, and Class Instructions are marked as such, all prompts for Teachers are additionally in italics. Class Information is framing to be read aloud to the students."
+          "text": "Teacher Instructions and Class Instructions are marked as such; all prompts for Teachers are additionally in italics. Class Information is framing to be read aloud to the students."
         }
       ]
     },
@@ -1491,6 +1491,6 @@
   "slug": "lesson-plan-radio-and-communication-technolo",
   "created_at": "2026-06-24T18:45:23.264Z",
   "created_by": "raymondhyser",
-  "updated_at": "2026-08-13T18:42:58.510Z",
+  "updated_at": "2026-08-21T18:33:17.839Z",
   "updated_by": "raymondhyser"
 }
